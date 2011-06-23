@@ -1,0 +1,22 @@
+=====DeepThought=====
+DeepThought is an IRC bot that trolls the SSE and Factset IRC Networks.
+
+====Basic Commands====
+
+===Addressing===
+DT Responds to Direct Queries by matching against 
+
+  ^DeepThought[:,] (.+)$ 
+  
+As well as the following bang commands:
+
+  * [[dev:DeepThought:dice|!roll (\d+)d(\d+)]]
+  * [[dev:DeepThought:man|!man (.+)]]
+  * [[dev:DeepThought:quoting|!quote]]
+  * [[dev:DeepThought:roulette|!roulette (.+)?]]
+  * [[dev:DeepThought:wiki|!wiki (.+)]]
+
+Bang commands do not need to be directly addressed to DT as he will listen for those at any time.
+
+===Questions===
+DT has the ability to answer some basic questions as well. 

@@ -1,0 +1,5 @@
+For a new Windows Box:  Install the following:
+  * [[http://ninite.com/|Ninite installers]]
+  * [[http://www.freeotfe.org/|FreeOTFE]]
+  * [[http://www.mediachance.com/free/multimon.htm|Multimon Toolbar]]
+  * [[http://www.launchy.net/download.php|Launchy]]

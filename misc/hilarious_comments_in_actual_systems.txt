@@ -1,0 +1,77 @@
+=====Hilarious Comments in ACTUAL systems=====
+<code c++>
+// These should be throwing exceptions...
+</code>
+
+<code c++>
+ //MIKE: i hate this
+ and a few lines below this...
+ //MIKE: see above comment
+</code>
+
+<code c++>
+ // I love this header file - [user1]
+ //Me too - [user2]
+</code>
+
+<code c++>
+ //TODO: Not this.. never this!
+ exit(1);
+</code>
+
+<code c++>
+ //TDA
+ //This code never gets hit (at least app side)... lovely... why? because this is called too early. 
+ //but i don't want to change it now.
+</code>
+
+<code c++>
+ (Not a comment, but actual code...)
+ ASSERT(false);
+ (^^ FOR THE LOVE OF GOD WHY???^^)
+</code>
+
+<code c++>
+ //ATTEMPT TO STOP TIME
+ (a few lines below)
+ //OH GOD WHY DID IT FAIL??
+</code>
+
+<code c++>
+ #define BOOL int //TODO:  Fix this.
+</code>
+
+<code c++>
+ // This condition pretty much never happens, but anyways...
+ log_error(...
+ // But if it does happen, you are screwed.
+ exit(1);
+</code>
+
+<code c++>
+ // Note to the ghost of whoever wrote this before
+ // NEVER EVER EVER EVER EVER CLICK YOURSELF.
+ // Focus issues are hard enough as is. Just do the right MFC thing.
+ // Love, -AD
+</code>
+
+<code javascript>
+	// Hate for safari
+	if (document.title.substr(document.title.length - 2, 1) == "|") {
+		document.title = $("title").text()+" "+owner.username+"-"+ticket.t_id;
+	}
+</code>
+
+<code perl>
+1; ##### aargh.  (yes, virginia, this is necessary)
+</code>
+
+<code java>
+	/**
+	 * HAPPY FUCKING DUPLICATION YEAH!
+	 *
+	 * @see java.lang.Object#clone()
+	 * @return I Shall call him... Mini-me!
+	 */
+	public CurriculumYearImpl clone() {
+</code>
