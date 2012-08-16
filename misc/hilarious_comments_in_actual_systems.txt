@@ -1,4 +1,11 @@
 =====Hilarious Comments in ACTUAL systems=====
+
+  * [[misc:comments_in_linux_kernel|Comments found in the Kernel Source]]
+
+<code c++>
+// Not an ACK - message handler has failed us :(
+</code>
+
 <code c++>
 // These should be throwing exceptions...
 </code>
@@ -75,3 +82,35 @@
 	 */
 	public CurriculumYearImpl clone() {
 </code>
+
+<code c++>
+LOG(ERROR) << "Time only flows one way - cannot start before told (my TARDIS is broken)";
+
+</code>
+
+<code c++>
+// semi-major axis of earth, change if intergalactic conquest.
+const double SEMIMAJOR = 6378137.0;
+// semi-minor axis of earth, change if intergalactic conquest.
+const double SEMIMINOR = 6356752.314245;
+</code>
+
+<code c++>
+// <Windows is dumb>
+#ifdef ERROR
+#undef ERROR
+#endif
+// </Windows is dumb>
+</code>
+
+<code c++>
+// fuck me sideways with a type system
+</code>
+
+<code c>
+        if(length > memorySize){
+                // Old mac donald had a farm...
+                return -EIO;
+        }
+</code>
+

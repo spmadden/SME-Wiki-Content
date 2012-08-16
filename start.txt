@@ -9,6 +9,10 @@ Networking
   * [[networking:Configuration of a Direcory Server (LDAP)]]
     * [[networking:ldap:SSH Authentication using pam_ldap]]
 
+Programming
+  * [[misc:Hilarious comments in actual systems]]
+  * [[programming:Falsehoods programmers believe about time]]
+
 Desktop Information
   * [[desktop:Flash in FF Portable]]
   * [[desktop:Migrate from Ext3 to Ext4]]
@@ -17,19 +21,16 @@ Desktop Information
   * [[desktop:Windows hover follows mouse]]
 
 Development
-  * [[dev:Adobe Air Fedora 11 x86_64]]
   * [[dev:Debugging in Eclipse on machines that have blocked the debug port]]
-  * [[dev:Convert .VDI to .VMDK]]
-  * [[dev:PyQT4 Development on PyDev / Eclipse]]
+  * [[dev:PyQT4 Development on PyDev Eclipse]]
   * [[dev:DeepThought:start|DeepThought Information]]
 
 Hardware
-  * [[hw:Encrypt Drives using LUKS in Fedora]]
   * [[hw:Linux Kernel Console to Serial Port]]
+  * [[hw:Linux Kernel Driver Resources]]
+  * [[hw:Driver Confidence Levels]]
 
 SSE
-  * [[sse:GoP Patterns]]
-  * [[sse:SSE Keyparty]]
   * [[sse:Bunnies from Orbit]]
 
 New System Information
@@ -37,13 +38,15 @@ New System Information
   * [[nsi:Firefox Setup Information]]
 
 Misc
-  * [[misc:Hilarious comments in ACTUAL systems]]
   * [[misc:Quotes]]
   * [[misc:RIT Quotes]]
-  * [[misc:Rudyard Kipling "If"]]
-  * [[misc:The Arena]]
-  * [[misc:Principles]]
-  * [[misc:The Bridge Builder]]
-  * [[misc:Systems Layout]]
-  * [[misc:Recipes]]
   * [[misc:Engineers Explained]]
+  * [[misc:Notable RFCs]]
+  * Saved Things:
+    * [[misc:Rudyard Kipling "If"]]
+    * [[misc:The Arena]]
+    * [[misc:Principles|Adult Principles]]
+    * [[misc:20Rules|20 Rules to Teach my Son]]
+    * [[misc:The Bridge Builder]]
+    * [[misc:Systems Layout]]
+    * [[misc:Recipes]]

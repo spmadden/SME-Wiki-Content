@@ -1,6 +1,8 @@
 =====Quotes=====
 [[quotes:inception]] \\ 
-[[quotes:SSE QDB]]
+[[quotes:SSE QDB]] \\
+[[quotes:The 10 Commandmants of C Programmers]] \\
+[[quotes:Chowder's List]]
 
 =====Other quotes:=====
 ====Inspirational====
@@ -15,9 +17,9 @@
 
   No matter how far down the wrong road you’ve gone, turn back.
   //Turkish proverb//
-  
+
   He who chooses the beginning of a road chooses the place where it leads to. - //Harry Emerson Fosdick//
-  
+
   "Happiness isn't in having what you want, but rather in wanting what you have." -- Fortune Cookie
 
   "The person who risks nothing, does nothing, has nothing, is nothing, and becomes nothing. He may 

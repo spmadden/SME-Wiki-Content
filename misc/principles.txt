@@ -3,52 +3,28 @@ A few days ago, John Perry Barlow twetted a series of Adult Principles, and I en
 They're from a list I assembled for myself on the eve of my 30th birthday. Many years ago.
 This is the collected set from his twitter feed:
 
-Adult Principle #1: Be patient. No matter what.
-
-Adult Principle #2: Don?t badmouth: Assign responsibility, not blame. Say nothing of another you wouldn't say to him.
-
-Adult Principle #3: Never assume the motives of others are, to them, less noble than yours are to you.
-
-Adult Principle #4 Expand your sense of the possible.
-
-Adult Principle #5 Don?t trouble yourself with matters you truly cannot change.
-
-Adult Principle #6 Don't ask more of others than you can deliver yourself.
-
-Adult Principle #7 Tolerate ambiguity.
-
-Adult Principle #8 Laugh at yourself frequently.
-
-Adult Principle #9 Concern yourself with what is right rather than who is right.
-
-Adult Principle #10 Try not to forget that, no matter how certain, you might be wrong.
-
-Adult Principle #11 Give up blood sports.
-
-Adult Principle #12	Remember that your life belongs to others as well. Don't risk it frivolously.
-
-Adult Principles #13 Never lie to anyone for any reason. (Lies of omission are sometimes exempt.)
-
-Adult Principle #14 Learn the needs of those around you and respect them.
-
-Adult Principle #15	Avoid the pursuit of happiness. Seek to define your mission and pursue that.
-
-Adult Principle #16	Reduce your use of the first personal pronoun.
-
-Adult Principle #17	Praise at least as often as you disparage.
-
-Adult Principle #18 Admit your errors freely and quickly.
-
-Adult Principle #19	Become less suspicious of joy.
-
-Adult Principle #20 Understand humility.
-
-Adult Principle #21 Remember that love forgives everything.
-
-Adult Principle #22.	Foster dignity.
-
-Adult Principle #23.	Live memorably.
-
-Adult Principle #24. Love yourself.
-
-Adult Principle #25.	Endure.
+  - Be patient. No matter what.
+  - Don't badmouth: Assign responsibility, not blame. Say nothing of another you wouldn't say to him.
+  - Never assume the motives of others are, to them, less noble than yours are to you.
+  - Expand your sense of the possible.
+  - Don't trouble yourself with matters you truly cannot change.
+  - Don't ask more of others than you can deliver yourself.
+  - Tolerate ambiguity.
+  - Laugh at yourself frequently.
+  - Concern yourself with what is right rather than who is right.
+  - Try not to forget that, no matter how certain, you might be wrong.
+  - Give up blood sports.
+  - Remember that your life belongs to others as well. Don't risk it frivolously.
+  - Never lie to anyone for any reason. (Lies of omission are sometimes exempt.)
+  - Learn the needs of those around you and respect them.
+  - Avoid the pursuit of happiness. Seek to define your mission and pursue that.
+  - Reduce your use of the first personal pronoun.
+  - Praise at least as often as you disparage.
+  - Admit your errors freely and quickly.
+  - Become less suspicious of joy.
+  - Understand humility.
+  - Remember that love forgives everything.
+  - Foster dignity.
+  - Live memorably.
+  - Love yourself.
+  - Endure.

@@ -1,0 +1,23 @@
+====== Resources I've compiled while dealing with the Linux Kernel ======
+
+   "Once you realize that documentation should be laughed at, peed upon, put
+  on fire, and just ridiculed in general, THEN, and only then, have you reached
+  the level where you can safely read it and try to use it to actually implement
+  a driver."
+  
+  	- Linus Torvalds
+
+First off - the best location for information about how the kernel does things is the /Documentation/ folder right in the source tree.  Best source yet.
+
+  * [[http://www.fenrus.org/how-to-not-write-a-device-driver-paper.pdf|How NOT To write a device driver]]
+  * [[http://people.ee.ethz.ch/~arkeller/linux/kernel_user_space_howto.html|Interfaces between Kernel and User space]]
+  * [[http://www.tldp.org/HOWTO/Clock-2.html|How linux keeps track of time]]
+  * [[http://lwn.net/Articles/167897/|The High Resolution Timer API]]
+  * [[http://lwn.net/Kernel/LDD3/|Linux Device Drivers (free ebook) Vol 3]]
+  * [[http://www.tldp.org/LDP/lkmpg/2.6/html/|Linux Kernel Module Programming Guide (LKMPG)]]
+  * [[http://tldp.org/HOWTO/Module-HOWTO/|Loadable Linux Kernel Module Guide]]
+  * Kernel Objects (struct kobject)
+    * [[http://lwn.net/Articles/51437/|The Zen of Kernel Objects]]
+    * [[http://lwn.net/Articles/54651/|Kobjects and Sysfs]]
+    * [[http://lwn.net/Articles/260139/|New kobject/kset/ktype documentation and example code]]
+
