@@ -109,4 +109,7 @@ All of these assumptions are wrong
   -  Time passes at the same speed on top of a mountain and at the bottom of a valley.
   -  One hour is as long as the next in all time systems.
   -  You can calculate when leap seconds will be added.
+  - The precision of the data type returned by a getCurrentTime() function is the same as the precision of that function.
+  - Two subsequent calls to a getCurrentTime() function will return distinct results.
+  - The second of two subsequent calls to a getCurrentTime() function will return a larger result.
   -  The software will never run on a space ship that is orbiting a black hole.

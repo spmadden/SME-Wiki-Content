@@ -12,6 +12,9 @@ Networking
 Programming
   * [[misc:Hilarious comments in actual systems]]
   * [[programming:Falsehoods programmers believe about time]]
+  * [[programming:Falsehoods programmers believe about usernames]]
+  * [[programming:Things you should always test for]]
+  * [[programming:Git Graph]]
 
 Desktop Information
   * [[desktop:Flash in FF Portable]]
@@ -22,7 +25,6 @@ Desktop Information
 
 Development
   * [[dev:Debugging in Eclipse on machines that have blocked the debug port]]
-  * [[dev:PyQT4 Development on PyDev Eclipse]]
   * [[dev:DeepThought:start|DeepThought Information]]
 
 Hardware
@@ -48,5 +50,6 @@ Misc
     * [[misc:Principles|Adult Principles]]
     * [[misc:20Rules|20 Rules to Teach my Son]]
     * [[misc:The Bridge Builder]]
+    * [[misc:Do Not Stand At My Grave And Weep]]
     * [[misc:Systems Layout]]
     * [[misc:Recipes]]

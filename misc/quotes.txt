@@ -62,6 +62,10 @@
   "Test fast, fail fast, adjust fast."
   —- //Tom Peters//
 
+  "There are only two hard problems in Computer Science: cache invalidation, naming things 
+  and off-by-one-errors."
+  -- //Phil Karlton//
+
 ====Funny====
   You can tell he’s evil because he has a goatee and he says things like, “Indeed” and then strokes his goatee. 
   Really most of his evilness comes from the goatee. If he shaved, he might have a sunnier disposition. But 
