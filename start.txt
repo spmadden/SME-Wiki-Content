@@ -1,5 +1,7 @@
 //We called him Tortus because he taught us//
 
+[[http://en.wikipedia.org/wiki/Mock_Turtle|{{ :alice_par_john_tenniel_34.png?300x360}}]]
+
 Networking 
   * [[networking:NAT over IPtables]]
   * [[networking:PXE Boot Server]]
@@ -15,6 +17,10 @@ Programming
   * [[programming:Falsehoods programmers believe about usernames]]
   * [[programming:Things you should always test for]]
   * [[programming:Git Graph]]
+  * Java
+    * [[programming:java:Thread Pool Size]]
+    * [[programming:java:Finalize Method]]
+    * [[programming:java:Coding Guidelines]]
 
 Desktop Information
   * [[desktop:Flash in FF Portable]]
