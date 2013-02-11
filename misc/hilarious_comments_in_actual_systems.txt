@@ -114,3 +114,8 @@ const double SEMIMINOR = 6356752.314245;
         }
 </code>
 
+<code java>
+  //If we die, that isn't exactly revocable!
+  //!!!
+</code>
+

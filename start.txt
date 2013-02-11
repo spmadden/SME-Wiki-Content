@@ -1,6 +1,6 @@
-//We called him Tortus because he taught us//
+[[wp>Mock Turtle|{{ :alice_par_john_tenniel_34.png?300x360}}]]
 
-[[http://en.wikipedia.org/wiki/Mock_Turtle|{{ :alice_par_john_tenniel_34.png?300x360}}]]
+[[notes:Index|Notes]]
 
 Networking 
   * [[networking:NAT over IPtables]]
@@ -16,6 +16,7 @@ Programming
   * [[programming:Falsehoods programmers believe about time]]
   * [[programming:Falsehoods programmers believe about usernames]]
   * [[programming:Things you should always test for]]
+  * [[programming:Units To Consider]]
   * [[programming:Git Graph]]
   * Java
     * [[programming:java:Thread Pool Size]]
@@ -38,9 +39,6 @@ Hardware
   * [[hw:Linux Kernel Driver Resources]]
   * [[hw:Driver Confidence Levels]]
 
-SSE
-  * [[sse:Bunnies from Orbit]]
-
 New System Information
   * [[nsi:New System Setup]]
   * [[nsi:Firefox Setup Information]]
@@ -48,14 +46,5 @@ New System Information
 Misc
   * [[misc:Quotes]]
   * [[misc:RIT Quotes]]
-  * [[misc:Engineers Explained]]
   * [[misc:Notable RFCs]]
-  * Saved Things:
-    * [[misc:Rudyard Kipling "If"]]
-    * [[misc:The Arena]]
-    * [[misc:Principles|Adult Principles]]
-    * [[misc:20Rules|20 Rules to Teach my Son]]
-    * [[misc:The Bridge Builder]]
-    * [[misc:Do Not Stand At My Grave And Weep]]
-    * [[misc:Systems Layout]]
-    * [[misc:Recipes]]
+  * [[Saved Things]]

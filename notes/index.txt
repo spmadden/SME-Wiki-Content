@@ -1,0 +1,7 @@
+=====Notes=====
+====Books====
+[[notes:Beautiful Security]]
+
+====Misc====
+  * [[notes:Requirements Projects Spikes]]
+  * [[notes:Parabolic Reflection]]
