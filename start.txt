@@ -10,6 +10,7 @@ Networking
     * [[networking:apache:Setup an SVN server using apache]]
   * [[networking:Configuration of a Direcory Server (LDAP)]]
     * [[networking:ldap:SSH Authentication using pam_ldap]]
+  * [[networking:Configure StrongSwan as an IPSec VPN]]
 
 Programming
   * [[misc:Hilarious comments in actual systems]]
@@ -48,3 +49,4 @@ Misc
   * [[misc:RIT Quotes]]
   * [[misc:Notable RFCs]]
   * [[Saved Things]]
+  * [[mdi:index|MDI]]

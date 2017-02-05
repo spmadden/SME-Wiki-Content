@@ -1,0 +1,8 @@
+=====NOAA/EUMETSAT HRPT Weather Images=====
+
+  * [[wp>High_resolution_picture_transmission]]
+  * [[http://www.eumetsat.int/Home/Main/DataAccess/Resources/index.htm?l=en#opserspecs|EUMETSAT Open Specs]]
+  * http://www.rig.org.uk/reception.htm
+  * [[http://jcoppens.com/ant/qfh/img/v2/012.jpeg|Quadrifilar Helicoidal design]]
+  * [[http://jcoppens.com/ant/qfh/calc.en.php|Quadrifilar Helicoidal Calculator]]
+  * [[http://jcoppens.com/ant/qfh/img/on7eq/005.jpeg|QFH Example Image]]

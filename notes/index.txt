@@ -1,4 +1,9 @@
 =====Notes=====
+
+[[notes:Project Ideas]]
+
+[[notes:Bucket List]]
+
 ====Books====
 [[notes:Beautiful Security]]
 
