@@ -1,3 +1,11 @@
+---
+title: NAT over IPTables
+description:
+published: 1
+tags:
+editor: markdown
+---
+
 Internal Network: /dev/eth1
 
 External Network: /dev/eth0
