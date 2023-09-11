@@ -1,0 +1,16 @@
+## Project Ideas
+
+##### SSH Router
+
+An SSH daemon that acts as a router between multiple other SSH clients (think SSH proxy)
+
+#### RTL-SDR Dongle setup
+
+Get an RTL-SDR dongle (either USB or PCI) up and working
+
+Use this for the following:
+
+-   ADS-B Aircraft data reciever
+    -   Plot this data in WorldWinds?
+-   GPS Receiver
+-   [NOAA HRPT weather images](/projects/NOAA HRPT weather images)
