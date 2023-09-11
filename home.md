@@ -1,4 +1,7 @@
-[![](alice_par_john_tenniel_34.png =300x400)](https://en.wikipedia.org/wiki/Mock%20Turtle)
+<div style="float: right">
+<a href="https://en.wikipedia.org/wiki/Mock%20Turtle"><img src="alice_par_john_tenniel_34.png" width="300" height="400"></a><br/>
+<i>We called him Tortus because he taught us.</i>
+</div>
 
 [Notes](/notes/index)
 
