@@ -4,9 +4,18 @@
 [[quotes:The 10 Commandmants of C Programmers]] \\
 [[quotes:Chowder's List]] \\
 [[quotes:Aviation]] \\
-[[quotes:Fortunes]]
+[[quotes:Fortunes]] \\
+[[misc:Children Of Winter]] \\
+[[quotes:We are Canyoneers]]
 
 =====Other quotes:=====
+====Backup Plans====
+  No matter where you're going it's the wrong place.  No plan can prevent a stupid person from doing 
+  the wrong thing in the wrong place at the wrong time - but a good plan should keep a concentration
+  from forming.
+
+  And even, if circumstances required, a contingency plan for his contingency plans' contingency plan.
+
 ====On Intelligence====
   The fact that some geniuses were laughed at does not imply that all who are laughed at are geniuses. 
   They laughed at Columbus, they laughed at Fulton, they laughed at the Wright brothers. 
@@ -128,3 +137,10 @@
   in my direction is reflected off of me, returns to its original trajectory and adheres to you.
 
   "Cupertino is Henrietta if Spaniards took over... So, not very interesting." - Chowder
+  
+====Mistakes====
+  
+  “Do you know the difference between an error and a mistake, Ensign?" 'No, sir.' 
+  "Anyone can make an error, Ensign. But that error doesn't become a mistake until 
+  you refuse to correct it.”
+  ― Grand Admiral Thrawn 

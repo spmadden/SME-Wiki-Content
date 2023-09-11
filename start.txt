@@ -11,6 +11,7 @@ Networking
   * [[networking:Configuration of a Direcory Server (LDAP)]]
     * [[networking:ldap:SSH Authentication using pam_ldap]]
   * [[networking:Configure StrongSwan as an IPSec VPN]]
+  * [[networking:AD DNS SRV Records]]
 
 Programming
   * [[misc:Hilarious comments in actual systems]]
@@ -39,10 +40,19 @@ Hardware
   * [[hw:Linux Kernel Console to Serial Port]]
   * [[hw:Linux Kernel Driver Resources]]
   * [[hw:Driver Confidence Levels]]
+  * [[hw:Linux Kernel Wireless AP]]
 
 New System Information
   * [[nsi:New System Setup]]
   * [[nsi:Firefox Setup Information]]
+
+GIS Links
+  * [[gis:GIS Map Servers]]
+
+Laws 
+  * [[laws:Atkin's Laws of Spacecraft Design]]
+  * [[laws:Laws of Engineering]]
+  * [[laws:Laws of Systems Engineering]]
 
 Misc
   * [[misc:Quotes]]
