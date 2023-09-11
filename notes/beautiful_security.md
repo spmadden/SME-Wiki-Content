@@ -1,3 +1,13 @@
+---
+title: Beautiful Security
+description: 
+published: 1
+date: 2023-09-11T02:45:56.248Z
+tags: 
+editor: markdown
+dateCreated: 2023-09-11T01:30:06.172Z
+---
+
 ## Beautiful Security
 
 ### Psychological Security Traps
