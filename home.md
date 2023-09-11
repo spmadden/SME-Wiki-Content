@@ -1,4 +1,4 @@
-[<img src="/alice_par_john_tenniel_34.png" class="align-right" width="300" height="360" alt="alice_par_john_tenniel_34.png" />](https://en.wikipedia.org/wiki/Mock Turtle)
+[![](alice_par_john_tenniel_34.png =300x400)](https://en.wikipedia.org/wiki/Mock%20Turtle)
 
 [Notes](/notes/index)
 
@@ -9,7 +9,7 @@ Networking
 -   [SVN Auto properties (ID,Revision,Author,etc)](/networking/svn_auto_properties_id_revision_author_etc)
 -   [Setup an apache web server with PHP support](/networking/setup_an_apache_web_server_with_php_support)
 -   [Setup an SVN server using apache](/networking/apache/setup_an_svn_server_using_apache)
-    -   [Configuration of a Direcory Server (LDAP)](/networking/configuration_of_a_direcory_server_ldap)
+    -   [Configuration of a Directory Server (LDAP)](/networking/configuration_of_a_direcory_server_ldap)
     -   [SSH Authentication using pam_ldap](/networking/ldap/ssh_authentication_using_pam_ldap)
     -   [Configure StrongSwan as an IPSec VPN](/networking/configure_strongswan_as_an_ipsec_vpn)
     -   [AD DNS SRV Records](/networking/ad_dns_srv_records)
@@ -17,15 +17,14 @@ Networking
 Programming
 
 -   [Hilarious comments in actual systems](/misc/hilarious_comments_in_actual_systems)
--   [Falsehoods programmers believe about time](/programming/falsehoolds_programmers_believe_about_time)
--   [Falsehoods programmers believe about usernames](/programming/falsehoolds_programmers_believe_about_usernames)
+-   [Falsehoods programmers believe about time](/programming/falsehoods_programmers_believe_about_time)
+-   [Falsehoods programmers believe about usernames](/programming/falsehoods_programmers_believe_about_usernames)
 -   [Things you should always test for](/programming/things_you_should_always_test_for)
 -   [Units To Consider](/programming/units_to_consider)
 -   [Git Graph](/programming/git_graph)
 -   Java
     -   [Thread Pool Size](/programming/java/thread_pool_size)
     -   [Finalize Method](/programming/java/finalize_method)
-    -   [Coding Guidelines](/programming/java/coding_guidelines)
 
 Desktop Information
 
