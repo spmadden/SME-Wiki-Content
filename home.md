@@ -1,71 +1,71 @@
 [<img src="/alice_par_john_tenniel_34.png" class="align-right" width="300" height="360" alt="alice_par_john_tenniel_34.png" />](https://en.wikipedia.org/wiki/Mock Turtle)
 
-[Notes](/notes/Index)
+[Notes](/notes/index)
 
 Networking
 
 -   [NAT over IPtables](/networking/nat_over_iptables)
--   [PXE Boot Server](/networking/PXE Boot Server)
--   [SVN Auto properties (ID,Revision,Author,etc)](/networking/SVN Auto properties (ID,Revision,Author,etc))
--   [Setup an apache web server with PHP support](/networking/Setup an apache web server with PHP support)
-    -   [Setup an SVN server using apache](/networking/apache/Setup an SVN server using apache)
--   [Configuration of a Direcory Server (LDAP)](/networking/Configuration of a Direcory Server (LDAP))
-    -   [SSH Authentication using pam_ldap](/networking/ldap/SSH Authentication using pam_ldap)
--   [Configure StrongSwan as an IPSec VPN](/networking/Configure StrongSwan as an IPSec VPN)
--   [AD DNS SRV Records](/networking/AD DNS SRV Records)
+-   [PXE Boot Server](/networking/pxe_boot_server)
+-   [SVN Auto properties (ID,Revision,Author,etc)](/networking/svn_auto_properties_id_revision_author_etc)
+-   [Setup an apache web server with PHP support](/networking/setup_an_apache_web_server_with_php_support)
+-   [Setup an SVN server using apache](/networking/apache/setup_an_svn_server_using_apache)
+    -   [Configuration of a Direcory Server (LDAP)](/networking/configuration_of_a_direcory_server_ldap)
+    -   [SSH Authentication using pam_ldap](/networking/ldap/ssh_authentication_using_pam_ldap)
+    -   [Configure StrongSwan as an IPSec VPN](/networking/configure_strongswan_as_an_ipsec_vpn)
+    -   [AD DNS SRV Records](/networking/ad_dns_srv_records)
 
 Programming
 
--   [Hilarious comments in actual systems](/misc/Hilarious comments in actual systems)
--   [Falsehoods programmers believe about time](/programming/Falsehoods programmers believe about time)
--   [Falsehoods programmers believe about usernames](/programming/Falsehoods programmers believe about usernames)
--   [Things you should always test for](/programming/Things you should always test for)
--   [Units To Consider](/programming/Units To Consider)
--   [Git Graph](/programming/Git Graph)
+-   [Hilarious comments in actual systems](/misc/hilarious_comments_in_actual_systems)
+-   [Falsehoods programmers believe about time](/programming/falsehoolds_programmers_believe_about_time)
+-   [Falsehoods programmers believe about usernames](/programming/falsehoolds_programmers_believe_about_usernames)
+-   [Things you should always test for](/programming/things_you_should_always_test_for)
+-   [Units To Consider](/programming/units_to_consider)
+-   [Git Graph](/programming/git_graph)
 -   Java
-    -   [Thread Pool Size](/programming/java/Thread Pool Size)
-    -   [Finalize Method](/programming/java/Finalize Method)
-    -   [Coding Guidelines](/programming/java/Coding Guidelines)
+    -   [Thread Pool Size](/programming/java/thread_pool_size)
+    -   [Finalize Method](/programming/java/finalize_method)
+    -   [Coding Guidelines](/programming/java/coding_guidelines)
 
 Desktop Information
 
--   [Flash in FF Portable](/desktop/Flash in FF Portable)
--   [Migrate from Ext3 to Ext4](/desktop/Migrate from Ext3 to Ext4)
--   [Custom Runlevels Script](/desktop/Custom Runlevels Script)
--   [White Text on Gnome Panels](/desktop/White Text on Gnome Panels)
--   [Windows hover follows mouse](/desktop/Windows hover follows mouse)
+-   [Flash in FF Portable](/desktop/flash_in_ff_portable)
+-   [Migrate from Ext3 to Ext4](/desktop/migrate_from_ext3_to_ext4)
+-   [Custom Runlevels Script](/desktop/custom_runlevels_script)
+-   [White Text on Gnome Panels](/desktop/white_text_on_gnome_panels)
+-   [Windows hover follows mouse](/desktop/windows_hover_follows_mouse)
 
 Development
 
--   [Debugging in Eclipse on machines that have blocked the debug port](/dev/Debugging in Eclipse on machines that have blocked the debug port)
--   [DeepThought Information](/dev/DeepThought/start)
+-   [Debugging in Eclipse on machines that have blocked the debug port](/dev/debugging_in_eclipse_on_machines_that_have_blocked_the_debug_port)
+-   [DeepThought Information](/dev/deepthought/start)
 
 Hardware
 
--   [Linux Kernel Console to Serial Port](/hw/Linux Kernel Console to Serial Port)
--   [Linux Kernel Driver Resources](/hw/Linux Kernel Driver Resources)
--   [Driver Confidence Levels](/hw/Driver Confidence Levels)
--   [Linux Kernel Wireless AP](/hw/Linux Kernel Wireless AP)
+-   [Linux Kernel Console to Serial Port](/hw/linux_kernel_console_to_serial_port)
+-   [Linux Kernel Driver Resources](/hw/linux_kernel_driver_resources)
+-   [Driver Confidence Levels](/hw/driver_confidence_levels)
+-   [Linux Kernel Wireless AP](/hw/linux_kernel_wireless_ap)
 
 New System Information
 
--   [New System Setup](/nsi/New System Setup)
--   [Firefox Setup Information](/nsi/Firefox Setup Information)
+-   [New System Setup](/nsi/new_system_setup)
+-   [Firefox Setup Information](/nsi/firefox_setup_information)
 
 GIS Links
 
--   [GIS Map Servers](/gis/GIS Map Servers)
+-   [GIS Map Servers](/gis/gis_map_servers)
 
 Laws
 
--   [Atkin's Laws of Spacecraft Design](/laws/Atkin's Laws of Spacecraft Design)
--   [Laws of Engineering](/laws/Laws of Engineering)
--   [Laws of Systems Engineering](/laws/Laws of Systems Engineering)
+-   [Atkin's Laws of Spacecraft Design](/laws/atkin_s_laws_of_spacecraft_design)
+-   [Laws of Engineering](/laws/laws_of_engineering)
+-   [Laws of Systems Engineering](/laws/laws_of_systems_engineering)
 
 Misc
 
--   [Quotes](/misc/Quotes)
--   [RIT Quotes](/misc/RIT Quotes)
--   [Notable RFCs](/misc/Notable RFCs)
--   [Saved Things](Saved Things)
+-   [Quotes](/misc/quotes)
+-   [RIT Quotes](/misc/rit_quotes)
+-   [Notable RFCs](/misc/notable_rfcs)
+-   [Saved Things](saved_things)
 -   [MDI](/mdi/index)
