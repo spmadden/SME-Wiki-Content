@@ -1,12 +1,22 @@
+---
+title: Things you should ALWAYS test for
+description: 
+published: 1
+date: 2023-09-11T03:12:11.166Z
+tags: 
+editor: markdown
+dateCreated: 2023-09-11T01:30:39.047Z
+---
+
 # Inputs
 
-     - Minimum and maximum input values are always good to test. For instance, if a password field allows 6 to 128 characters, what actually happens when you submit a six-character password? What about a 128-character password?
-    - Too-high and too-low values. What happens with a 5-character or 129-character password? Alternately, how does the system respond to inputs equal to the the minimum and maximum integer values allowed by the implementation language or platform?
-    - Invalid values such as null and NaN. Strings instead of integers, arrays instead of strings.
-    - Inputs that might break the underlying code. For a Web app examples would include SQL injection and cross-site scripting attacks.
-    - Empty inputs such as a blank user name field or a transaction record in which none of the fields contain any information. For unit tests, submitting zero or an empty string instead of a valid parameter can sometimes yield interesting results.
-    - Inputs that are too big, perhaps even too big to conveniently fit into available memory…
-    - Too many inputs or not enough inputs. For a unit test this is simply a matter of creating an incorrect function signature. For a Web app it might involve submitting too many POST parameters or selectively deleting parts of a URL’s query string.
+1. Minimum and maximum input values are always good to test. For instance, if a password field allows 6 to 128 characters, what actually happens when you submit a six-character password? What about a 128-character password?
+2. Too-high and too-low values. What happens with a 5-character or 129-character password? Alternately, how does the system respond to inputs equal to the the minimum and maximum integer values allowed by the implementation language or platform?
+3. Invalid values such as null and NaN. Strings instead of integers, arrays instead of strings.
+4. Inputs that might break the underlying code. For a Web app examples would include SQL injection and cross-site scripting attacks.
+5. Empty inputs such as a blank user name field or a transaction record in which none of the fields contain any information. For unit tests, submitting zero or an empty string instead of a valid parameter can sometimes yield interesting results.
+6. Inputs that are too big, perhaps even too big to conveniently fit into available memory…
+7. Too many inputs or not enough inputs. For a unit test this is simply a matter of creating an incorrect function signature. For a Web app it might involve submitting too many POST parameters or selectively deleting parts of a URL’s query string.
 
 # Math
 
