@@ -2,7 +2,7 @@
 title: The Laws of Systems Engineering
 description: 
 published: 1
-date: 2023-09-11T03:44:31.301Z
+date: 2023-09-11T03:50:37.933Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:28:41.429Z
@@ -136,3 +136,18 @@ Addenda to the core Three Laws above.
 > **Never go in with the first wave**
 
 **Systems Management Risk**: The systems engineering management of a large project is very difficult in the start up phase. Requirements are late. Of course they are late but engineering should never use that as an excuse and fail to conduct parametric analysis around expected requirement limits. Staffing is under the planned level. Design engineering is yelling for firm requirements as if the system engineer knows what the requirements are but just won't tell. The result is that the Chief Systems Engineer is under fire and may be replaced by a new person who is given a new longer schedule and increased budget and perhaps reduced expectation of results. This typical half life of one year makes some people cautious. 
+
+#### The Twenty Third Law
+> **Never go in with the second wave either**
+
+**More Risk**: It is not clear that you can succeed if you are part of the second wave. Some projects are so difficult that an extension of the law is as follows:
+
+#### The Twenty Second Law
+> **Have the heart of a child, but keep it in a jar on your desk**
+
+**Management Style**: You need a management style with a firm manner and that gives the appearance that you know which way to lead. Hang tough. 
+
+#### The Twenty Third Law
+> **Deny everything, admit nothing, demand proof, and reject the proof.**
+
+**Legal Conflict**: Finally, you should remember that as a system engineer you can be liable for damages if your system should fail. Don't spend time on lawyer bashing. Just remember the guidelines of any legal conflict. 
