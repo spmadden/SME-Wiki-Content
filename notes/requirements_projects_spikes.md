@@ -1,3 +1,13 @@
+---
+title: Requirements Projects Spikes
+description: 
+published: 1
+date: 2023-09-11T02:45:33.263Z
+tags: 
+editor: markdown
+dateCreated: 2023-09-11T01:30:19.461Z
+---
+
 Note: All of these are fictional and any relationship to any current project is purely coincidental.
 
 ## Projects Given to Reqs & Specs Students
@@ -30,10 +40,10 @@ Note: All of these are fictional and any relationship to any current project is 
 
 ##### Resources:
 
--   [Molniya orbit](https://en.wikipedia.org/wiki/Molniya orbit)
--   [Communications Satellite](https://en.wikipedia.org/wiki/Communications Satellite)
--   [Van Allen belt](https://en.wikipedia.org/wiki/Van Allen belt)
--   [Orbital Elements](https://en.wikipedia.org/wiki/Orbital Elements)
+-   [Molniya orbit](https://en.wikipedia.org/wiki/Molniya%20orbit)
+-   [Communications Satellite](https://en.wikipedia.org/wiki/Communications%20Satellite)
+-   [Van Allen belt](https://en.wikipedia.org/wiki/Van%20Allen%20belt)
+-   [Orbital Elements](https://en.wikipedia.org/wiki/Orbital%20Elements)
 
 ### Three: New UAV Command System
 
@@ -57,4 +67,4 @@ Note: All of these are fictional and any relationship to any current project is 
 ##### Resources:
 
 -   [Fly-By-Wire](https://en.wikipedia.org/wiki/Fly-By-Wire)
--   [No-Fly zone](https://en.wikipedia.org/wiki/No-Fly zone)
+-   [No-Fly zone](https://en.wikipedia.org/wiki/No-Fly%20zone)
