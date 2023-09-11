@@ -1,8 +1,0 @@
-====== Recipes Found on the Internet ======
-
-
-Deserts:
-  - [[misc:deserts:Guinness Pudding]]
-  - [[misc:deserts:Pumpkin Pie Cupcake]]
-  - [[http://amazingribs.com/recipes/porknography/cabin_fever_crockpot_ribs.html|Cabin Fever Crockpot Ribs]]
-  - [[http://altonbrown.com/2012/12/spiced-apple-bundt-cake/|Apple Spiced Bundt Cake]]
