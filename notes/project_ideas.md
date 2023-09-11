@@ -1,3 +1,13 @@
+---
+title: Project Ideas
+description: 
+published: 1
+date: 2023-09-11T02:46:15.261Z
+tags: 
+editor: markdown
+dateCreated: 2023-09-11T01:30:16.873Z
+---
+
 ## Project Ideas
 
 ##### SSH Router
