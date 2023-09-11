@@ -4,7 +4,7 @@
 
 Networking
 
--   [NAT over IPtables](/networking/NAT over IPtables)
+-   [NAT over IPtables](/networking/nat_over_iptables)
 -   [PXE Boot Server](/networking/PXE Boot Server)
 -   [SVN Auto properties (ID,Revision,Author,etc)](/networking/SVN Auto properties (ID,Revision,Author,etc))
 -   [Setup an apache web server with PHP support](/networking/Setup an apache web server with PHP support)
