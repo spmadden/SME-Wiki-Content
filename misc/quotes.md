@@ -1,94 +1,100 @@
+---
+title: Quotes
+description: 
+published: 1
+date: 2023-09-21T00:00:31.442Z
+tags: 
+editor: markdown
+dateCreated: 2023-09-11T01:29:07.206Z
+---
+
 ## Quotes
 
 [inception](/quotes/inception)  
-[SSE QDB](/quotes/SSE QDB)  
-[The 10 Commandmants of C Programmers](/quotes/The 10 Commandmants of C Programmers)  
-[Chowder's List](/quotes/Chowder's List)  
-[Aviation](/quotes/Aviation)  
-[Fortunes](/quotes/Fortunes)  
-[Children Of Winter](/misc/Children Of Winter)  
-[We are Canyoneers](/quotes/We are Canyoneers)
+[SSE QDB](/quotes/sse_qdb)  
+[The 10 Commandmants of C Programmers](/quotes/the_10_commandmants_of_c_programmers)  
+[Chowder's List](/quotes/chowder_s_list)  
+[Aviation](/quotes/aviation)  
+[Fortunes](/quotes/fortunes)  
+[Children Of Winter](/misc/children_of_winter)  
+[We are Canyoneers](/quotes/we_are_canyoneers)
 
 ## Other quotes:
 
 ### Backup Plans
 
-    No matter where you're going it's the wrong place.  No plan can prevent a stupid person from doing 
-    the wrong thing in the wrong place at the wrong time - but a good plan should keep a concentration
-    from forming.
+> No matter where you're going it's the wrong place.  
 
-    And even, if circumstances required, a contingency plan for his contingency plans' contingency plan.
+> No plan can prevent a stupid person from doing the wrong thing in the wrong place at the wrong time - but a good plan should keep a concentration from forming.
+
+> And even, if circumstances required, a contingency plan for his contingency plans' contingency plan.
 
 ### On Intelligence
 
-    The fact that some geniuses were laughed at does not imply that all who are laughed at are geniuses. 
-    They laughed at Columbus, they laughed at Fulton, they laughed at the Wright brothers. 
-    But they also laughed at Bozo the Clown.
-    -- Carl Sagan
+> The fact that some geniuses were laughed at does not imply that all who are laughed at are geniuses. 
+> They laughed at Columbus, they laughed at Fulton, they laughed at the Wright brothers. 
+> But they also laughed at Bozo the Clown.
+> - *Carl Sagan*
 
 ### Inspirational
 
-    A learning experience is one of those things that say, "You know that thing you just did? Don't do that."
-    -- Douglas Adams
+> A learning experience is one of those things that say, "You know that thing you just did? Don't do that."
+> - *Douglas Adams*
 
-    The bad news: There is no key to the universe.
-    The good news: It was never locked.
-     -- Swami Beyondananda
+> The bad news: There is no key to the universe.
+> The good news: It was never locked.
+> - *Swami Beyondananda*
 
-    Stress, they say, is what happens when the body resists its natural desire to beat the hell 
-    out of someone who really deserves it. I hate stress. 
+> Stress, they say, is what happens when the body resists its natural desire to beat the hell out of someone who really deserves it. I hate stress. 
 
-    Nothing inspires forgiveness quite like revenge.
-     -- Scott Adams
+> Nothing inspires forgiveness quite like revenge.
+> - *Scott Adams*
 
-    "Like all artists I want to cheat death a little and contribute something to the next generation." 
-     -- Dennis Hopper (May 17, 1936 – May 29, 2010)
+> "Like all artists I want to cheat death a little and contribute something to the next generation." 
+> - *Dennis Hopper (May 17, 1936 – May 29, 2010)*
 
-    "Courage is the discovery that you may not win, and trying when you know you can lose."
-    -- //Tom Krause//
+> "Courage is the discovery that you may not win, and trying when you know you can lose."
+> - *Tom Krause*
 
-    No matter how far down the wrong road you’ve gone, turn back.
-    //Turkish proverb//
+> No matter how far down the wrong road you’ve gone, turn back.
+> - *Turkish proverb*
 
-    He who chooses the beginning of a road chooses the place where it leads to. - //Harry Emerson Fosdick//
+> He who chooses the beginning of a road chooses the place where it leads to. 
+> - *Harry Emerson Fosdick*
 
-    "Happiness isn't in having what you want, but rather in wanting what you have." -- Fortune Cookie
+> "Happiness isn't in having what you want, but rather in wanting what you have." 
+> - *Fortune Cookie*
 
-    "The person who risks nothing, does nothing, has nothing, is nothing, and becomes nothing. He may 
-    avoid suffering and sorrow, but he simply cannot learn and feel and change and grow and love and live."
-    -- //Anon//
+> "The person who risks nothing, does nothing, has nothing, is nothing, and becomes nothing. He may avoid suffering and sorrow, but he simply cannot learn and feel and change and grow and love and live."
+> - *Anon*
 
-    "Living at risk is jumping off the cliff and building your wings on the way down."
-    —- //Ray Bradbury//
+> "Living at risk is jumping off the cliff and building your wings on the way down."
+> - *Ray Bradbury*
 
-    "The secret to my success is that I bit off more than I could chew and chewed as fast as I could."
-    —- //Paul Hogan//
+> "The secret to my success is that I bit off more than I could chew and chewed as fast as I could."
+> - *Paul Hogan*
 
-    "Only those who dare to fail greatly can ever achieve greatly."
-    —- //Robert F. Kennedy//
+> "Only those who dare to fail greatly can ever achieve greatly."
+> - *Robert F. Kennedy*
 
 ### Leadership
 
-    Leadership is Responsibility, not privilege,
-     Action, not position,
-     Guidance, not knowledge,
-     and Outcome, not disposition,
-    -- //Dante Shepherd//
+> Leadership is Responsibility, not privilege,
+> Action, not position,
+> Guidance, not knowledge,
+> and Outcome, not disposition,
+> - *Dante Shepherd*
 
-    "As a leader, you have to not only do the right thing, but be perceived to be doing the right thing. 
-    A consequence of seeking a leadership position is being put under intense public scrutiny, being held 
-    to high standards, and enhancing a reputation that is constantly under threat."
-    —- //Jeffrey Sonnenfeld and Andrew Ward//
+> As a leader, you have to not only do the right thing, but be perceived to be doing the right thing. A consequence of seeking a leadership position is being put under intense public scrutiny, being held to high standards, and enhancing a reputation that is constantly under threat.
+> - *Jeffrey Sonnenfeld and Andrew Ward*
 
 ### Programming
 
-    "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his 
-    castles in the air, from air, creating by exertion of the imagination. Few media of creation are 
-    so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures. "
-    -- Frederic Brooks, //The Mythical Man Month//
+> The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures. 
+> - *Frederic Brooks, The Mythical Man Month*
 
-    "Let's make a dent in the universe."
-    —- //Steve Jobs//
+> Let's make a dent in the universe.
+> - *Steve Jobs*
 
     "If you can't explain it to a six year old, you don't understand it yourself." 
     —- //Albert Einstein//
