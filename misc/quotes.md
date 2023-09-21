@@ -2,7 +2,7 @@
 title: Quotes
 description: 
 published: 1
-date: 2023-09-21T00:00:31.442Z
+date: 2023-09-21T00:04:25.184Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:29:07.206Z
@@ -96,67 +96,48 @@ dateCreated: 2023-09-11T01:29:07.206Z
 > Let's make a dent in the universe.
 > - *Steve Jobs*
 
-    "If you can't explain it to a six year old, you don't understand it yourself." 
-    —- //Albert Einstein//
+> If you can't explain it to a six year old, you don't understand it yourself.
+> - *Albert Einstein*
 
-    "Test fast, fail fast, adjust fast."
-    —- //Tom Peters//
+> Test fast, fail fast, adjust fast.
+> - *Tom Peters*
 
-    "There are only two hard problems in Computer Science: cache invalidation, naming things 
-    and off-by-one-errors."
-    -- //Phil Karlton//
+> There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
+> - *Phil Karlton*
 
-    "What really is the point of trying to teach anything to anybody?"
-    This question seemed to provoke a murmur of sympathetic approval from up and down the table.
-    Richard continued, "What I mean is that if you really want to understand something, the best 
-    way is to try and explain it to   someone else. That forces you to sort it out in your mind. 
-    And the more slow and dim-witted your pupil, the more you have to break things down into more 
-    and more simple ideas. And that's really the essence of programming. By the time you've sorted 
-    out a complicated idea into little steps that even a stupid machine can deal with, you've learned 
-    something about it yourself.
-    -- //Douglas Adams, Dirk Gently's Holistic Detective Agency//
+> What really is the point of trying to teach anything to anybody?  
+> This question seemed to provoke a murmur of sympathetic approval from up and down the table.  Richard continued, "What I mean is that if you really want to understand something, the best way is to try and explain it to someone else. That forces you to sort it out in your mind.  And the more slow and dim-witted your pupil, the more you have to break things down into more and more simple ideas. And that's really the essence of programming. By the time you've sorted out a complicated idea into little steps that even a stupid machine can deal with, you've learned something about it yourself.
+> - *Douglas Adams, Dirk Gently's Holistic Detective Agency*
 
 ### Funny
 
-    You can tell he’s evil because he has a goatee and he says things like, “Indeed” and then strokes his goatee. 
-    Really most of his evilness comes from the goatee. If he shaved, he might have a sunnier disposition. But 
-    who are we to discriminate?
+> You can tell he’s evil because he has a goatee and he says things like, “Indeed” and then strokes his goatee. Really most of his evilness comes from the goatee. If he shaved, he might have a sunnier disposition. But who are we to discriminate?
 
-    And so, IPv6 was born. Since Vint Cerf is probably immortal (even if his physical form should pass on, 
-    heaven forbid, he is probably already existing as some kind of hyper-intelligent ELIZA program out in 
-    the depths of the Internet2), no one wants to have to hear him say again "I told you so" if we don't 
-    have enough addresses in the next version of the Internet Protocol.
+> And so, IPv6 was born. Since Vint Cerf is probably immortal (even if his physical form should pass on, heaven forbid, he is probably already existing as some kind of hyper-intelligent ELIZA program out in the depths of the Internet2), no one wants to have to hear him say again "I told you so" if we don't have enough addresses in the next version of the Internet Protocol.
 
-    But alas, I think a Reuters editor is sitting in his cube maniacally laughing as he streams 
-    Pinky and the Brain on his computer.
+> But alas, I think a Reuters editor is sitting in his cube maniacally laughing as he streams Pinky and the Brain on his computer.
 
-    When reached for comment, the Charmin Bear kicked his feet up on his desk, smoked a cigar, 
-    and said, “Sometimes, bitches have to learn their place.”
+> When reached for comment, the Charmin Bear kicked his feet up on his desk, smoked a cigar, and said, “Sometimes, bitches have to learn their place.”
 
-    "You're a cook. I don't kill cooks. Although...there was that one time in Boston. But all I'd
-    have to do is get the jury to taste his salmon mousse, and there isn't a court in the land that 
-    would convict me."
-    -- The Shade, "Incident In An Old Haunt" 
+> You're a cook. I don't kill cooks. Although...there was that one time in Boston. But all I'd have to do is get the jury to taste his salmon mousse, and there isn't a court in the land that would convict me.
+> - *The Shade, "Incident In An Old Haunt"*
 
-    "...He's been callous and charismatic, sick, psychotic and enoumously likable.  In short,
-    he's everyone's favorite megalomaniac" 
+> ...He's been callous and charismatic, sick, psychotic and enoumously likable.  In short, he's everyone's favorite megalomaniac
 
-    "I really wish I could hate you, but I am so in awe of your outright bastardry that I cannot help but
-    admire your style"
+> I really wish I could hate you, but I am so in awe of your outright bastardry that I cannot help but admire your style
 
 ### Misc
 
-    Admit it, when you were 7 years old, there were only two things you were sure of: Transformers fucking rule, 
-    and the future would be full of flying goddamn cars.
+> Admit it, when you were 7 years old, there were only two things you were sure of: Transformers fucking rule, and the future would be full of flying goddamn cars.
 
-    Sheldon: I'm polymerized tree sap and you're an inorganic adhesive, so whatever verbal projectile you launch 
-    in my direction is reflected off of me, returns to its original trajectory and adheres to you.
+> Sheldon: I'm polymerized tree sap and you're an inorganic adhesive, so whatever verbal projectile you launch in my direction is reflected off of me, returns to its original trajectory and adheres to you.
 
-    "Cupertino is Henrietta if Spaniards took over... So, not very interesting." - Chowder
+> Cupertino is Henrietta if Spaniards took over... So, not very interesting." 
+> - *Chowder*
 
 ### Mistakes
 
-    “Do you know the difference between an error and a mistake, Ensign?" 'No, sir.' 
-    "Anyone can make an error, Ensign. But that error doesn't become a mistake until 
-    you refuse to correct it.”
-    ― Grand Admiral Thrawn 
+> “Do you know the difference between an error and a mistake, Ensign?" 
+> 'No, sir.' 
+> "Anyone can make an error, Ensign. But that error doesn't become a mistake until you refuse to correct it.”
+> ― *Grand Admiral Thrawn *
