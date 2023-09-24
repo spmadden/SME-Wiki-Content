@@ -1,3 +1,13 @@
+---
+title: home
+description: 
+published: 1
+date: 2023-09-24T20:41:29.744Z
+tags: 
+editor: markdown
+dateCreated: 2023-09-11T01:27:55.800Z
+---
+
 <div style="float: right">
 <a href="https://en.wikipedia.org/wiki/Mock%20Turtle"><img src="alice_par_john_tenniel_34.png" width="300" height="400"></a><br/>
 <i>We called him Tortus because he taught us.</i>
@@ -12,10 +22,11 @@ Networking
 -   [SVN Auto properties (ID,Revision,Author,etc)](/networking/svn_auto_properties_id_revision_author_etc)
 -   [Setup an apache web server with PHP support](/networking/setup_an_apache_web_server_with_php_support)
 -   [Setup an SVN server using apache](/networking/apache/setup_an_svn_server_using_apache)
-    -   [Configuration of a Directory Server (LDAP)](/networking/configuration_of_a_direcory_server_ldap)
-    -   [SSH Authentication using pam_ldap](/networking/ldap/ssh_authentication_using_pam_ldap)
-    -   [Configure StrongSwan as an IPSec VPN](/networking/configure_strongswan_as_an_ipsec_vpn)
-    -   [AD DNS SRV Records](/networking/ad_dns_srv_records)
+    - [Configuration of a Directory Server (LDAP)](/networking/configuration_of_a_direcory_server_ldap)
+    - [SSH Authentication using pam_ldap](/networking/ldap/ssh_authentication_using_pam_ldap)
+    - [Configure StrongSwan as an IPSec VPN](/networking/configure_strongswan_as_an_ipsec_vpn)
+    - [AD DNS SRV Records](/networking/ad_dns_srv_records)
+    - [Samba/AD ID Matching Config](/networking/smb_ad_id_matching)
 
 Programming
 
