@@ -2,7 +2,7 @@
 title: Quotes
 description: 
 published: 1
-date: 2023-09-21T00:04:25.184Z
+date: 2023-09-30T23:06:41.824Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:29:07.206Z
@@ -18,6 +18,7 @@ dateCreated: 2023-09-11T01:29:07.206Z
 [Fortunes](/quotes/fortunes)  
 [Children Of Winter](/misc/children_of_winter)  
 [We are Canyoneers](/quotes/we_are_canyoneers)
+[Bash.org Top 200](/quotes/bash_org_top_200)
 
 ## Other quotes:
 
