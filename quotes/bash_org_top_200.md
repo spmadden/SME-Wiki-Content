@@ -2,7 +2,7 @@
 title: Bash.org Top 200
 description: 
 published: 1
-date: 2023-09-30T23:13:39.064Z
+date: 2023-10-02T12:41:46.331Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T23:13:39.064Z
@@ -145,7 +145,15 @@ quit: (PeteRepeat)
 ```
 #414593 +(21546)- [X]
 
-DragonflyBlade21: A woman has a close male friend. This means that he is probably interested in her, which is why he hangs around so much. She sees him strictly as a friend. This always starts out with, you're a great guy, but I don't like you in that way. This is roughly the equivalent for the guy of going to a job interview and the company saying, You have a great resume, you have all the qualifications we are looking for, but we're not going to hire you. We will, however, use your resume as the basis for comparison for all other applicants. But, we're going to hire somebody who is far less qualified and is probably an alcoholic. And if he doesn't work out, we'll hire somebody else, but still not you. In fact, we will never hire you. But we will call you from time to time to complain about the person that we hired.
+DragonflyBlade21: A woman has a close male friend. This means that he is probably interested in her, 
+which is why he hangs around so much. She sees him strictly as a friend. This always starts out 
+with, you're a great guy, but I don't like you in that way. This is roughly the equivalent for the 
+guy of going to a job interview and the company saying, You have a great resume, you have all the 
+qualifications we are looking for, but we're not going to hire you. We will, however, use your 
+resume as the basis for comparison for all other applicants. But, we're going to hire somebody who 
+is far less qualified and is probably an alcoholic. And if he doesn't work out, we'll hire somebody 
+else, but still not you. In fact, we will never hire you. But we will call you from time to time to 
+complain about the person that we hired.
 ```
 ```
 #207373 +(21370)- [X]
@@ -169,10 +177,24 @@ DragonflyBlade21: A woman has a close male friend. This means that he is probabl
 ```
 #777977 +(19541)- [X]
 
-<Anonymous> Now, I’m sure many of you have encountered little shits in supermarkets. Little kids running about and knocking things over, being rude, walking all over their parents, you know the kind. But the worst are the biters. Yes, those little cunts that feel it is okay to bite you whenever they feel like it.
-<Anonymous> Okay, here’s the best part. A biter got me today when I was grocery stopping. He broke the fucking skin, too. This was when the gears started turning, the moment I saw a tiny sprickle of blood on the little shit’s teeth as he was grinning at me like the little cunt he is. I made my eyes get wide, and started screaming “SHIT! SHIT!.” Now, my good friend, Tom we’ll call him, was there too, and he instantly picked up on it. He started shouting “FUCK! MAYBE HE DIDN’T GET IT! FUCK!.” By now, the kid is scared shitless and starts crying, and instantly, Mizz Mom appears out of nowhere and starts getting pissy at us for yelling at her kid.
-<Anonymous> Here’s the kicker, I look her straight in the eye and say, “Mam, get your son tested as soon as possible, he just bit me and I’m… I’m FUCKING HIV POSITIVE.”
-<Anonymous> And now there is silence. Not a peep in the entire store. The brat knows he just fucked up big time because his mom isn’t defending his ass. She just stares at me wide eyed. I walk away from them, buy my shit from the wide eyed cashier, all the while blood is dripping from my calf, making a nice little trail on the floor. And, just s we leave, we start to hear the mother sobbing. Sobbing like the cunt she is.
+<Anonymous> Now, I’m sure many of you have encountered little shits in supermarkets. Little kids 
+running about and knocking things over, being rude, walking all over their parents, you know the 
+kind. But the worst are the biters. Yes, those little cunts that feel it is okay to bite you 
+whenever they feel like it.
+<Anonymous> Okay, here’s the best part. A biter got me today when I was grocery stopping. He broke 
+the fucking skin, too. This was when the gears started turning, the moment I saw a tiny sprickle of 
+blood on the little shit’s teeth as he was grinning at me like the little cunt he is. I made my eyes 
+get wide, and started screaming “SHIT! SHIT!.” Now, my good friend, Tom we’ll call him, was there 
+too, and he instantly picked up on it. He started shouting “FUCK! MAYBE HE DIDN’T GET IT! FUCK!.” By 
+now, the kid is scared shitless and starts crying, and instantly, Mizz Mom appears out of nowhere 
+and starts getting pissy at us for yelling at her kid.
+<Anonymous> Here’s the kicker, I look her straight in the eye and say, “Mam, get your son tested as 
+soon as possible, he just bit me and I’m… I’m FUCKING HIV POSITIVE.”
+<Anonymous> And now there is silence. Not a peep in the entire store. The brat knows he just fucked 
+up big time because his mom isn’t defending his ass. She just stares at me wide eyed. I walk away 
+from them, buy my shit from the wide eyed cashier, all the while blood is dripping from my calf, 
+making a nice little trail on the floor. And, just s we leave, we start to hear the mother sobbing. 
+Sobbing like the cunt she is.
 <Anonymous> I have never felt any more satisfaction than the moment I heard that sob.
 ```
 ```
@@ -186,7 +208,9 @@ DragonflyBlade21: A woman has a close male friend. This means that he is probabl
 ```
 #4753 +(19007)- [X]
 
-<xterm> The problem with America is stupidity. I'm not saying there should be a capital punishment for stupidity, but why don't we just take the safety labels off of everything and let the problem solve itself?
+<xterm> The problem with America is stupidity. I'm not saying there should be a capital punishment 
+for stupidity, but why don't we just take the safety labels off of everything and let the problem 
+solve itself?
 ```
 ```
 #23601 +(17523)- [X]
@@ -542,7 +566,9 @@ wacko Jacko (lbeedy@1C57684.dsl.stlsmo.swbell.net) has joined #santcuary
 ```
 #412248 +(12092)- [X]
 
-<Locl-Yocl> I helped the EMTs at a car wreck and got blood all over my arms and shirt. It looked like I murdered 20 people with a fork... anyway, I walked into a convieniance store down the street and said my girlfriend needs a tampon. The guy at the counter was mortified.
+<Locl-Yocl> I helped the EMTs at a car wreck and got blood all over my arms and shirt. It looked 
+like I murdered 20 people with a fork... anyway, I walked into a convieniance store down the street 
+and said my girlfriend needs a tampon. The guy at the counter was mortified.
 ```
 ```
 #790133 +(11980)- [X]
@@ -1298,4 +1324,1130 @@ omg its zack wtf: my math teacher staples burger king applications to failed tes
 * YuFFie (~mirc@3B942731.dsl.stlsmo.swbell.net) Quit (Quit: Owned.)
 * YuFFie (~mirc@3B942731.dsl.stlsmo.swbell.net) has joined #
 <YuFFie> HELP MY MOUSE IS MOVING BY IT SELF
+```
+```
+#163301 +(9257)- [X]
+
+<BigBurk> God i really cant stand windows me
+<Felacio> heh i know. i moved to win2k
+* Felacio sucks huge cock
+<Felacio> errr ME, not /me
+```
+```
+#117002 +(9256)- [X]
+
+<YuFFie> SO U HACKING ME THEN HUH
+<YuFFie> WElL I GOT NEWS FOR U MISTER I GOT MORE FIREWALL POWERS NOW SO IM SECURE AND IM USING WINDOWS 98 SO IM REALLY SECURE FROM HACKERS LIKE YOU SO YOU BETTA JUST GIVE UP CUZ U GOT NO HOPE MISTER.
+* YuFFie (~mirc@3B942731.dsl.stlsmo.swbell.net) Quit (Quit: Owned.)
+* YuFFie (~mirc@3B942731.dsl.stlsmo.swbell.net) has joined #
+<YuFFie> HELP MY MOUSE IS MOVING BY IT SELF
+```
+```
+#185361 +(9243)- [X]
+
+<Fenris> My mom found me perusing bash.org and looking up quotes about incest, and was like OMG!
+<Fenris> Now she actually goes there regularly to make sure there aren't any new text words that have been searched for
+<Fenris> I saw her looking at the site yesterday, and was like, "WTF??"
+<Fenris> And she said she was just checking to see what kind of stuff I look at online.
+<Fenris> I swear, someday I'm just going to rape that bitch.
+<ctone> ...
+<ctone> now theres a quote for bash.org
+<Fenris> Don't you fucking dare.
+```
+```
+#416857 +(9231)- [X]
+
+<born1986> why the fuck isn't my disc drive working
+<born1986> i fucking worked on that essay for three friggin' hours in school
+<born1986> i now i cant finish it 'cos my fuckin drive ain't working
+<Z00ass> you got the right drivers?
+<born1986> hell yes
+<born1986> it was working fine yesterday
+<born1986> why does this shit always happen to me?
+<Z00ass> maybe that little clip on the side is i nthe wrong position
+<born1986> i havent touched it since school
+<born1986> i'm growing impatient
+<born1986> ANGRY even
+<Z00ass> throw that shit out tha window
+
+. . .
+
+<born1986> OMG i fuckin did it!!!
+<born1986> FUCK!!!!!
+<Z00ass> it works?
+<born1986> no, i threw it out the window
+<Z00ass> the disk?
+<born1986> NO the whole drive
+<born1986> i live on the 6th floor, made a nice *smash*
+<Z00ass> :D
+<born1986> FUCK SHIT FUCK
+<born1986> THE DISK WAS STILL INSIDE
+<born1986> brb
+
+. . .
+
+<born1986> shit
+<Z00ass> what? did ya break it?
+<born1986> well i couldn't open the drive
+<born1986> so i had to pound it against a rock
+<Z00ass> :o
+<born1986> quite HARD
+<born1986> and you know what?
+<born1986> that fucking disk wasnt even there
+<Z00ass> ???
+<born1986> i got so mad i threw the remaiders of the drive on to the freeway
+<born1986> and when i got back upstairs i foud the disk inside my bag
+<Z00ass> lol
+<born1986> I NEVER EVEN PUT IT IN THE DRIVE
+<born1986> i'm actually cryin right now
+
+. . .
+
+<born1986> wonder if i could make that drive work again
+<born1986> brb
+```
+```
+#823214 +(9230)- [X]
+
+<Cyan> Some dude tried to break in last night at like 2am, but I was on the comp and it's like right beside the window so I heard the faggot.
+<Cyan> Anyways, I grabbed the folding chair and as soon as he was like halfway through I beat the fucking shit out of him.
+<Cyan> So he's laying here unconscious and I call the cops. Once they get here, they search him and look at what he fucking had:
+<Cyan> 8 track tape (unlabeled), Flashlight (no batteries), Half eaten box of Fig Newtons, Measuring tape, Instructions to "Monopoly."
+<dan> Dude, you fucking killed McGuyver!
+```
+```
+#291262 +(9178)- [X]
+
+<Mendo> lmao there's a wicked lookign spider on my monitor and if i move the mouse around he chases after it
+<spitfire> haha mendo
+<spitfire> take a screen shot
+<spitfire> wait
+<spitfire> that made no sense
+```
+```
+#212775 +(9162)- [X]
+
+Primus521: hey dude the funniest thing happened to me today
+Primus521: im at walmart and this chick is buying a box of tampons and they are missing the upc and wont ring up
+Primus521: so the cashier tells his buddy to get a price check on tampax
+Primus521: the dude looks at him and says, "the kind u push in, or the kind you hammer in?"
+Primus521: lol
+Primus521: turns out he misheard him
+Primus521: he thought he said thumbtacs
+Primus521: you should have seen the look on the chicks face
+Primus521: omfg
+Primus521: til the day i die
+Primus521: i will never forget it
+```
+```
+#488793 +(9096)- [X]
+
+<evilada>: Best suicide plan ever
+<mcm310>: what is it?
+<evilada>: you go up to the top of a roof
+<evilada>: string piano wire tight across the front edge at neck level
+<evilada>: tie a cord to your foot and the other end to the building so that you'll be above sidewalk level when its fully stretched
+<evilada>: then you put super glue on your hands
+<evilada>: and put your arms around the front of the wire and then back to touch your head
+<evilada>: then you lean forward, so the piano wire cuts your neck but not your elbows
+<evilada>: when the cord goes taut, youll be hanging upside down with no head....except your head will be in your outstretched arms thanks to gravity and the glue, staring at someone upside down and spewing blood everywhere.
+<evilada>: And some poor bastard will be traumatized for LIFE.
+<mcm310>: i dont think i can be your friend anymore
+```
+```
+#367896 +(9085)- [X]
+
+<Fashykekes> Capitalization is the difference between "I had to help my uncle Jack off a horse.." and "I had to help my uncle jack off a horse.."
+```
+```
+#6562 +(9040)- [X]
+
+<skrike> I think the people above me are having sex
+<skrike> either that or they're sleeping restlessly and agreeing with each other a lot.
+```
+```
+#60469 +(8994)- [X]
+
+<tomfoolery> there's a small fire burning in my room
+<beretta> lemme guess im supposed to act suprised that you're telling us and not making any attempt to extinguish it, so i can submit it to bash where it will join the ranks of the other "SOMETHING CATOSTROPHIC HAPPENED SO I CAME TO TELL YOU GUYS ON IRC FIRST INSTEAD OF ATTEMPTING TO DEFUSE THE HOSTILE SITUATION" quotes that are grossly abundant, similar, and overrated. and despite a new one is submitted each week and only the location of the fire is altered, loyal viewers firmly believe it is a unique and hilarious quotation, pledging support in the form of unneccesary votes
+```
+```
+#520670 +(8827)- [X]
+
+random girl: hey!
+me: ...hi?
+me: who is this?
+random girl: Jessica, I saw u on myspace
+random girl: ur hot
+me: thanks
+random girl: np
+me: this girl keeps bugging me, but I don't want to talk to her
+me: what should I do?
+random girl: make up sum excuse, like ur mom is kickin u off or sumthing
+me: oh alright
+me: I have to go
+me: my mom is kicking me off
+me: bye
+```
+```
+#734797 +(8734)- [X]
+
+<Malagmyr> This linguistics professor was lecturing the class.
+<Malagmyr> "In English," he explained, "a double negative forms a positive. In some languages, such as Russian, a double negative is still a negative."
+<Malagmyr> "However," the professor continued, "there is no language wherein a double positive can form a negative."
+<Malagmyr> Immediately, a voice from the back of the room piped up: "Yeah..... right...."
+```
+```
+#427792 +(8663)- [X]
+
+<@Terror> "It's easy to forget what a sin is in the middle of a battlefield."
+<@cky> opposite over hypotenuse
+<@cky> dipshit
+```
+```
+#4848 +(8582)- [X]
+
+<ohm> damn
+<ohm> FUCK
+<ohm> DAMN
+<ohm> i was just in an AIM convo with a chick, and my grandmother's window pops up
+<ohm> FUCK
+<ohm> i go like this to her
+<ohm> "i want to suck on your clit"
+<ohm> FUCK
+```
+```
+#454203 +(8366)- [X]
+
+<drmason> there was this one time I was wanking to porn...
+<drmason> ... I kept a javascript tutorial open in another window so my parents didn't start wondering why I was always on the desktop with no windows showing
+<drmason> so I'm just about to splurge when I suddenly hear my dad coming up the stairs
+<drmason> alt-tabbed to the other window and tried to pull my boxers up... computer stalled JUST THEN as my dad was opening the door
+<drmason> I just stood up and was like "fuck... dad this honestly isn't what it looks like"
+<drmason> and he glanced at the screen and said "I sure hope so because it looks like you're masturbating to a fucking javascript tutorial"
+```
+```
+#860040 +(8306)- [X]
+
+<JoshtheRipper> Brad do you have any issues with " burn in " on your plasma?
+<KnaveBrad> nope
+<JoshtheRipper> kool
+<JoshtheRipper> How well does it handle blacks
+<KnaveBrad> I have it bolted to the wall, so they can't really take it without some serious work
+```
+```
+#14258 +(8281)- [X]
+
+<Sigurd> a sprite is anything not static
+<SRElysian> a sprite is a variable object
+<SRElysian> be it 2d or 3d
+<TorMuck> a sprite is a fucking soda
+<TorMuck> you god damn geekass bastards
+```
+```
+#4278 +(8267)- [X]
+
+<BombScare> i beat the internet
+<BombScare> the end guy is hard
+```
+```
+#75154 +(8173)- [X]
+
+<Galactic>  you know what's ALWAYS bothered me? cold cereal mascots
+<Galactic>  I mean that is just some FUCKED UP SHIT
+<Galactic>  the Trix rabbit, for example
+<Galactic>  I dunno man... if I were him I'd be fucking KILLING some kids
+<Galactic>  I remember a commercial where the fuckin rabbit WENT INTO A FUCKIN STORE AND BOUGHT A BOX OF TRIX WITH HIS OWN FUCKIN MONEY.
+<Galactic>  fuckin kids came outta NOWHERE and basically fuckin mug the poor stupid bitch rabbit
+<Galactic>  "silly rabbit Trix are for kids"
+<Galactic>  Fuckin rabbit just sits there and looks depressed.
+<Galactic>  FUCK NO that wouldn't fly with me
+<Galactic>  I'd have pimp-slapped EVERY ONE OF those fuckin bitches
+<Galactic>  and made them go get me the REST of a "complete breakfast" and eat Trix right in front of them bitches and THEN beat the shit out of them some more.
+<Galactic>  and wtf is with the disguises? All the dumb rabbit does is hide his ears and all of a sudden he's a fuckin kid?
+<Galactic>  I dunno about you, but if I SAW a 6 foot fuckin RABBIT with his ears tucked under a baseball cap, I wouldn't immediately think
+<Galactic>  "Hey, there's a cool lookin human kid, let me go over and share some of my cereal with him"
+<Galactic>  NO.
+<Galactic>  I'd be thinking
+<Galactic>  "that's a 6 foot fuckin RABBIT with his ears tucked under a baseball cap... what the FUCK was I just smoking?"
+<Galactic>  another thing... wtf is up with cereal being "A part of this complete breakfast"
+<Galactic>  last time -I- checked, cereal WAS breakfast
+<Galactic>  they show a big ass bowl of frosted flakes next to a waffle, a pancake, toast, a banana, a fuckin grapefruit... who the FUCK eats a breakfast that big
+<Flaming_Duck>  not me
+<Flaming Duck>  I don't even EAT breakfast nomore
+<Flaming_Duck>  I mean, I eat when I get up
+<Flaming_Duck>  but the whole thought "BREAKFAST IS ONLY SERVED UNTIL SUCH AND SUCH TIME"
+<FLaming_Suck>  bitch, you make my fucking sausage and egg sandwich when I pay you the fucking money
+<Flaming_Duck>  don't give me that shit.
+<Galactic>  Back to stupid cereal mascots...
+<Galactic>  Lucky Charms.
+<Galactic>  FUCKING LUCKY CHARMS
+<Galactic>  Lucky can turn the fucking MOON into a marshmallow, and he can't escape a bunch of fucking 6 year olds?!?!?
+<Galactic>  C'mon now, Lucky.
+<Galactic>  I KNOW your bitch ass has got to have a "Blow the fucking kids up" spell SOMEWHERE
+<Galactic>  or make "kid marshamllows" and EAT those bitches.
+<Galactic>  "They're after me Lucky Charms!"
+<Galactic>  ....
+<Galactic>  KILL THEM, BITCH!
+<Galactic>  I dunno why I went off on this rant here
+<Galactic>  it's just always bothered me."
+```
+```
+#406381 +(8123)- [X]
+
+<Axe> I
+<Axe> do
+<Axe> not
+<Axe> know
+<Axe> where
+<Axe> family
+<Axe> doctors
+<Axe> acquired
+<Axe> illegibly
+<Axe> perplexing
+<Axe> handwriting;
+<Axe> nevertheless,
+<Axe> extraordinary
+<Axe> pharmaceutical
+<Axe> intellectuality,
+<Axe> counterbalancing
+<Axe> indecipherability,
+<Axe> transcendentalizes
+<Axe> intercommunications'
+<Axe> incomprehensibleness.
+<JediHobbes> woah
+<JediHobbes> *blinks*
+```
+```
+#151861 +(8104)- [X]
+
+-[Conroy_Bumpus]- OH FUCK ME
+-[Conroy_Bumpus]- I FORGOT TO PICK UP MY 7 YEAR OLD DAUGHTER FROM SOCCER PRACTICE
+-[Conroy_Bumpus]- 9 HOURS AGO
+-[Conroy_Bumpus]- HOLY SHIT
+-[Conroy_Bumpus]- BYE
+```
+```
+#72 +(8080)- [X]
+
+<reptile-> The first time hypr opened a box of Cheerios and looked inside he yelled, "OH WOW! DONUT SEEDS!"
+<hypr> wtf are donut seeds
+```
+```
+#13213 +(8071)- [X]
+
+<Spazz> Seems like when I say "FUCK" you get an EOF error  :o
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Bartolimis> fuck
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Bartolimis> fuck
+<Spazz> fuck
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Spazz> fuck
+<Bartolimis> stop
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Bartolimis> we're done >:)
+<Ranto> hmh?
+<Spazz> Your client got an error...
+<Bartolimis> yeah, we're done saying fuck
+<Spazz> everytime we said f***
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Spazz> Quit saying fukc
+<Bartolimis> my bad
+<Spazz> fuck*
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+*** Joins: Ranto (~recon@newax2-042.dialup.optusnet.com.au)
+<Icc> Someone says fuck and he drops ?
+*** Quits: Ranto (~recon@newax2-042.dialup.optusnet.com.au) (Read error: EOF from client)
+```
+```
+#7936 +(8060)- [X]
+
+*** Quits: TITANIC (Excess Flood)
+```
+```
+#1660 +(7958)- [X]
+
+<DigiGnome> Real life should have a fucking search function, or something.
+<DigiGnome> I need my socks.
+```
+```
+#764876 +(7957)- [X]
+
+Curt teh Juggler: our graduation ceremony was today, and right when some gamer nerd got his diploma, someone in the audience played the zelda "get item" music and he did the zelda spin-hold-out-item stance
+Curt teh Juggler: it was quite possibly the most amazing thing ever.
+```
+```
+#98450 +(7921)- [X]
+
+Jakefeb3: do you know a turtles only weakness?
+AvatarOfSolusek: no
+AvatarOfSolusek: well
+AvatarOfSolusek: thier slowness
+Jakefeb3: there weakness is they cant roll over when they are on their backs
+AvatarOfSolusek: lol
+Jakefeb3: now i have a plan
+Jakefeb3: if i duck tape 2 turtles together they are unstoppable
+```
+```
+#342633 +(7913)- [X]
+
+<Quake-Hat> brad, your mom is fine as shit
+<Quake-Hat> i think i will masturbate to her while i play with my balls
+<bad_brad> brad had to go blow his nose, but thanks for the compliment, i will be calling your mother
+<Quake-Hat> Jesus-fucking christ!!!
+```
+```
+#10739 +(7901)- [X]
+
+* Spoon casts Wall of Silence
+*** Spoon sets mode: +m
+<Goku> why?
+<Spoon> Because exo went insane
+<Goku> no, he just brought his insanity up to another level
+* Sentinel checks..
+*** Sentinel sets mode: -m
+<exogen> THERE'S BUTTER ON MY FACE!
+*** Sentinel sets mode: +m
+```
+```
+#761414 +(7890)- [X]
+
+SergioThree: there's other fish in the sea, man, she's just a girl
+Beatsfromkorea: no dude, that's bullshit.
+Beatsfromkorea: Think of it this way. if your precious copy of street fighter third strike broke and i told you "it's ok man, there's other games in the sea. here, play mortal kombat instead" what would you say? you'd be like, "fuck that, gimme third strike."
+SergioThree: ...
+SergioThree: you just reached me on a level that i never thought possible
+```
+```
+#868223 +(7871)- [X]
+
+<Domsey> Woah, I got the weirdest moment of my entire life this morning
+<bender> what happened?
+<Domsey> you know, there was a party at my neighbours' last night
+<bender> yeah, you've been fucking drunk..
+<Domsey> you've been there, too?
+<bender> sure...
+<Domsey> well, you see i can't remember anything
+<Domsey> but this morning I woke up in my bed, and there was my mom lying next to me.
+<bender> wtf...?
+<Domsey> That's exactly what i thought
+<Domsey> So, my mom got up instantly when i woke up, smiled at me and said "U're so much better than your dad is." then she left the room
+<bender> OMFG!!!
+<bender> you didnt do that! TELL ME IT WASNT LIKE THAT!!! TELL ME YOU'RE A DUMBASS LIAR!!!
+<Domsey> no, i'm not lying
+<bender> OMG!!!
+<Domsey> but it turned out she was playing a trick on me. Paycheck for coming home late, all drunk.
+<bender> ...
+<bender> your mom's such a freak. o.O
+```
+```
+#572066 +(7789)- [X]
+
+<Tall Israeli> I think just about anyone who meets me and talks to me for long enough comes to terms with the fact that I am a very sick, twisted person. Also factor in a few mountain dews, a Peer-to-Peer connection, and boredom and you get what might be the funniest combination imaginable.
+I had been downloading music yesterday evening. Led Zeppelin, REO Speedwagon, Flock of Seagulls, things like that. Then I realized that it'd be a funny joke to play on people if I were to change "Keep on Rolling" to "Hot Lesbian Sex". I watched as within minutes this file got 50 downloads. I was astounded.
+Then the Tom got an idea.
+An awful idea.
+The Tom got a wonderful awful idea.
+What if, perhaps, I was to change some of these names to sick pornography titles? I wonder if I'd get any bites?
+And this is where the fun begins.
+The first title I put up was "Naked boys dancing and eating cake." I sat in anticipation, waiting for my first download. Success, the first download came. Then the second. Then the third. This baby was steamrolling down the information super highway like a trucker with a hardon that has 2 miles left to the next truck stop. Before I knew it, I was getting twenty downloads. Then thirty. Then fifty. Can you imagine that in the end, rather than getting dancing boys naked and indulging themselves with sweets and frolicking in a dewy meadow, one-hundred thirty two people got a disappointing video of Led Zeppelin performing "Dazed and Confused" in front of a live audience? At this point, I had no choice but to continue.
+The second title I put up was "My Ex-Girlfriend mowing the lawn naked." I thought that this was too far out to get any downloads. Alas, I was wrong. It got a download. Then two. Then thirty. In the end, seventy-eight sweaty, drooling fudges wanted to see my ex girlfriend mow the lawn stark naked. She's not even that hot. Rather then get their lawn-mowing beauty, they got the song "Ozone baby."
+For the third title, I decided to transform "White Wedding" into the more intriguing "Elephant cock horse." I wish I could say I was kidding when this thing was downloaded one hundred eighty seven times. I guess there is something about horses and elephants showing their cocks that bring out the best in people. I nearly died of laughter at this point. "How can nearly two hundred people want to see naked animals? They're ALWAYS naked!" For sanctity's sake, we're going to leave this as a mystery. I hope I turned some people on to Billy Idol, hopefully distracting them long enough to forget that masturbating to horse and elephant genitalia are not really something their mothers would be proud of.
+I couldn't stop myself from doing another. "Grandma Bingo Sex." Short and sweet. I couldn't stop myself from amusing.........myself..... "Grandma Bingo Sex." Surely not a common scenario, and surely not a scenario that would arouse many a twisted psyche. Apparently I know nothing about the human psyche. One hundred twenty two. ONE HUNDRED TWENTY TWO PEOPLE would like to see grandma getting bent over the bingo table, game card in hand, getting donkey punched by a 90 year old addle brained porn star. I rubbed my eyes just to double check. My eyes had to be lying to my brain. My penis had shriveled to the size of a 2 day old Wendys chicken nugget.
+They asked for Grandma.
+They got Joan Jett.
+At this point I had to start taking puffs of my albuteral inhaler to keep from suffocating myself with laughter. "Girl on girl toe insertion (LEGAL)" was my next proud creation. Everyone likes 38 Special, so everyone won't feel like such dumb-asses after downloading this footy piece of crap. Never underestimate the inertia traveling behind a toe inserting itself into a rectum, friends. It's like a fudging semi hurling down Interstate 40 in the noonday sun. One hundred twelve people wanted to jerk to this. God have mercy on us.
+At this point, for some odd reason, the user name "Enraged Baboon" popped into my head. "Enraged Baboon fudging a nipple factory." No way in hell would this get many downloads. Who could possibly type in any or all of those keywords? I guess people like seeing sweaty red-ass baboons, nostrils flaring, banging their chests like Marky Mark in the movie "Fear", having sex WITH each other in a factory that produces baby-bottle nipples. Imagine what those children would look like. One hundred seventy two people typed those magic words into Limewire, and got a hot steaming pile of monkey love. Well, it was Pink Floyd, but a man can dream, cant he?
+This could all seem very disturbing. My final experiment, however, made me dizzy as my precious sack retreated into my pelvis. ...THREE PEOPLE...three disgusting, drooling, perverted, fudged up people, wielding a box of Puffs Plus and a tube of Vaseline Intensive Care Lotion, bright eyed and bushy tailed, wanted to see "An emu taking a vicious dump." How does one take a VICIOUS dump and how does an EMU take one, for that matter?
+Ladies and gentlemen: this is why I have lost every last ounce of faith in humanity.
+If I may quote Method:
+"You're going to make a lot of sick people very unhappy."
+```
+```
+#803904 +(7784)- [X]
+
+<Kuiper> Well, it rained today, but as a whole it's been warmer than it was last week.
+<kikuichimonji> Why does it seem like every time you join this channel, you end up talking about the weather?
+<kikuichimonji> Is your life so unimaginably dull that you can't think of any events in your life to describe that might be more interesting than the weather?
+<kikuichimonji> Let's think of something for you to talk about other than the weather.
+<kikuichimonji> I mean, we barely even know anything about you, other than where you live.
+<kikuichimonji> Let's start there.  What do you do for a living?
+<Kuiper> I'm a meteorologist.
+```
+```
+#301963 +(7715)- [X]
+
+<lib1790> so, at this college there was an extra credit question "Is hell endothermic or exothermic"
+<lib1790> this is what one kid wrote:
+<lib1790> First, we postulate that if souls exist, then they must have some mass.
+If they do, then a mole of souls can also have a mass. So, at what rate are souls moving into hell and at what rate are souls leaving? I think that we can safely assume that once a soul gets to hell, it will not leave. Therefore, no souls are leaving.
+<lib1790>As for souls entering hell, lets look at the different religions that exist in the world today. Some of these religions state that if you are not a member of their religion, you will go to hell. Since, there are more than one of these religions and people do not belong to more than one religion, we can project that all people and all souls go to hell.
+With birth and death rates as they are, we can expect the number of souls in hell to increase exponentially.
+<lib1790> Now, we look at the rate of change in volume in hell. Boyle's Law states that in order for the temperature and pressure in hell to stay the same, the ratio of the mass of souls and volume needs to stay constant.
+<lib1790>So, if hell is expanding at a slower rate than the rate at which souls enter hell, then the temperature and pressure in hell will increase until all hell breaks loose (i.e.,Hell is exothermic).
+<liv1790>Of course, if hell is expanding at a rate faster than the increase of souls in hell, than the temperature and pressure will drop until hell freezes over (i.e.,Hell is endothermic).
+<lib1790>So which is it? If we accept the postulate given by Ms.Therese Banyan during my freshman year, "That it will be a cold night in hell before I go out with you," and take into account the fact that I still have not succeeded in having a relationship with her, the second case cannot be true. Therefore, hell is exothermic.
+<lib1790> the kid was the only one who got credit
+```
+```
+#177638 +(7700)- [X]
+
+<@AntiHeiss> friend of mine went to jail last night
+<@AntiHeiss> he probably isn't getting out for a while
+<%The_Coolest> y?
+<+Enyo> why?
+<%The_Coolest> :o
+<@AntiHeiss> it was a girl cop, she was pretty cute too
+<@AntiHeiss> she said anything you say can and will be held against you....he sat there for a while and said 'tits'
+```
+```
+#127148 +(7639)- [X]
+
+<Ich> I have passed the transitional stage of internet geekhood
+<Ich> I was cashiering at work today, and was punching in the code for plums, which is 4040.
+<Ich> and the 0 key doesn't work this well, so I punched it in wrong.
+<Ich> and the machine flashed up "Item Not Found: 404"
+<Ich> and I actually laughed out loud
+```
+```
+#115 +(7561)- [X]
+
+<BlackDeth> i like stalked this girl sorta :D
+<BlackDeth> like once she asked me for a ride home from work
+<BlackDeth> and i took her home... i dropped her off at her house
+<BlackDeth> and shes like... wait a minute..how did you know where i lived?
+```
+```
+#199355 +(7549)- [X]
+
+<Meph|st0> Complaint : BOUGTH IT FOR MY COUSIN WHO HAD CANCER, ITEM NEVER ARRIVED AND MY COUSIN DIED
+<Meph|st0> thats the greatest ebay feedback i have ever seen
+```
+```
+#205195 +(7533)- [X]
+
+<MortalKombat> stfu mat|t u cu.nt
+* Acaila sets mode: +b MortalKombat!*@*
+<@Acaila> FINISH HIM
+<mat|t> rofl
+<MortalKombat> omg wtf man
+* MortalKombat was kicked by Acaila (forward, forward, back, back, forward, punch)
+<@Acaila> FATALITY!
+```
+```
+#98 +(7425)- [X]
+
+<ikkenai> i don't have hard drives. i just keep 30 chinese teenagers in my basement and force them to memorize numbers
+```
+```
+#431987 +(7405)- [X]
+
+Gear Grinder X: once, we had these total freak seventh day advenist (or whatever) freak ass neighbors
+Gear Grinder X: and this girl Lanna was a little younger than me
+Gear Grinder X: she was a bitch, and they were all totally religious
+Gear Grinder X: she threw rocks at me once on my bike, and so I turned around, and went to run over here
+Gear Grinder X: I was hauling ASS, and you know what she did?
+Gear Grinder X: put her hands on her hips, and stood there and said "The lord will protect me"
+Gear Grinder X: well.... he didn't
+```
+```
+#276955 +(7398)- [X]
+
+<Locke|Away> I found a note in one of my old word .docs that said Note to self: Get revenge on Valvados.
+<Locke|Away> Except I couldn't remember what I was supposed to get revenge for.
+<Locke|Away> But I trusted my own judgment, so I went with it.
+<Valvados> ...
+<Valvados> o.o
+<Valvados> hmm
+<Valvados> i dunno what you were supposed to get revenge for, either
+<Locke|Away> I can only assume you got what was coming to you.  Not 100 percent sure, though.
+<Valvados> well, whatever i did, i guess i deserved it
+<Locke|Away> Let that possibly be a lesson to you.
+```
+```
+#758032 +(7350)- [X]
+
+dftpnkezln: For all of you reporting a score more than 100 as you iq lol @ you. How can you possibly score more than 100%?
+dftpnkezln:I'm very happy with my score of 89.
+```
+```
+#5411 +(7350)- [X]
+
+<factorial_nine> "Male masturbation is a personal turn off for me. As a single woman, I'm especially looking for a man who doesn't masturbate, even while he's single."
+<factorial_nine> GOOD LUCK, BITCH.
+```
+```
+#349135 +(7287)- [X]
+
+<beser> Today my History class took a feild trip to the Museum of Tolerance. Its a museum showing kids not to be prejudice and all that good stuff.
+<beser> Anyways, one exhibit is two doors next to each other. One door has a sign hanging over it saying "Those with prejudice walk through this door" The other door's sign said "Those without prejudice walk through this door". Obviously the door for people without prejudice isn't openable because as the tour guide says "Everyone has prejudice".
+<beser> So, I start tugging on the door and say "What the hell is wrong with this damn door, did some damn Jew make this?" and the tour guide kicked me out and i had to sit in the bus for 15 minutes
+```
+```
+#3936 +(7285)- [X]
+
+<+kritical> christin: you need to learn how to figure out stuff yourself..
+<+Christin1> how do i do that
+```
+```
+#829281 +(7282)- [X]
+
+ruide: hey chris, stop fuckin cybering and let me show you something
+cyph33r: what
+cyph33r: i dont cyber cockbite, i have a gf
+ruide: haha
+cyph33r: what did you want to show me
+ruide: i made an account on that scrabble website you go to
+ruide: bubblegal_14
+cyph33r: wtf
+cyph33r: omg fuck you you fucking prick
+ruide: chrisharker: i slide two fingers into your tight asshole
+cyph33r: YOU ARE A FUCKING FAGGOT YOU KNOW THAT
+cyph33r: I FUCKING HATE YOU
+ruide: chrisharker: i've never done this before, am i doing it right?
+cyph33r: FUCK OFF YOU FUCKING ASSHOLE
+```
+```
+#4680 +(7282)- [X]
+
+<Raize> can you guys see what I type?
+<vecna> no, raize
+<Raize> How do I set it up so you can see it?
+```
+```
+#5259 +(7253)- [X]
+
+<reuben> somebody keeps jiggling the doorknob on my front door, then running away
+<reuben> i don't know if i should call the police, or hook up some electricity to the doorknob
+<cristobal> why don't you put ice on the stairs
+<cristobal> and heat up the door knob
+<cristobal> and swing paint buckets down from your two story foyer
+<cristobal> then a few years later, fade from the public eye.....
+```
+```
+#507269 +(7246)- [X]
+
+<acidwar> last night, tony and I decided to stop off on the way to the party to get some beer
+<acidwar> we come out of the shop a few minutes later and there's a parking guy writing a ticket
+<acidwar> tony goes up to him and asks him what the ticket's for, parking guy explains that the car is parked in a no standing zone
+<acidwar> tony starts abusing him and tells him to cram it up his ass, so the guy writes a ticket for abusing him
+<Nuzzler> haha
+<acidwar> so tony gets up him even more, and every time he says something the guy writes another ticket
+<acidwar> 14 tickets later, the guy gives up and walks off
+<dendyh0> ...
+<acidwar> and we both PISS ourselves laughing as we walk back to tony's car around the corner, leaving some poor bastard with 14 parking fines :D
+<dendyh0> AHAHAHAHAHAHAHA
+<Nuzzler> ROFL!!
+```
+```
+#203247 +(7243)- [X]
+
+<@maddox> FUCK!
+<@maddox> my mom just found my website
+<+DMTec> isn't she proud?
+<+khoveraki> ha
+<@naken> you've been on tv 2 times, in the newspapers several times, been banned from a country, has 40 million pageviews
+<@naken> and you didn't tell your mother?
+<@maddox> "what is this? Did you draw this? It looks like a penis."  "No mom, I didn't draw a penis"
+<+DMTec> ROFL
+<+DMTec> "no mom, i didn't draw a penis" thats good
+<@maddox> now she's crying
+<RichK> haha, your mom doesn't know about your website?
+<@maddox> (on the phone)
+<+DMTec> maddox: did she see the "suprise - I have a penis"-greeting card?
+<@maddox> dmtec: oh fuck, I forgot about that.. yeah I guess I did draw a penis.
+<RichK> bahahahaha
+<@maddox> hahahahahaha she just said "I wish I would have died and not raised you"
+<+khoveraki> rofl
+<@maddox> she hung up
+<RichK> You are dispwned maddox
+```
+```
+#5598 +(7240)- [X]
+
+<Kazz> Do vampires have anuses? Cause that's why I wouldn't let this kid invade a vampire's anus in this RPG, right, I was GMing, and his character was an Anus Shade, with the power to possess and control the anuses of people and animals.. and I figured that vampires don't have anuses.
+<Zaratustra> a vampire's anus is present, but non-working.
+<Zaratustra> like a network card without the appropriate driver.
+<Kazz> Wow. You're the biggest dork on Earth.
+<Sharkey> And you're DMing an rpg with Anus Shades.
+```
+```
+#277337 +(7228)- [X]
+
+<XnD> Personally its not God I dislike, its his fan club I cant stand
+```
+```
+#492775 +(7209)- [X]
+
+Egger: Heres the history of our medicine.
+       "I have a sore throat."
+       2000 BC : "eat this root"
+       1200 AD : "That root is heathen, say this prayer."
+       1500 AD : "That prayer is superstition, drink this elixir."
+       1800 AD : "That elixir is snake oil, Take this pill."
+       1900 AD : "That pill is ineffective, Take this antibiotic."
+       2000 AD : "That antibiotic is artificial, Here why dont you eat this root."
+```
+```
+#4916 +(7197)- [X]
+
+<Polytope> tetris is so unrealistic
+```
+```
+#426527 +(7165)- [X]
+
+<green> We vegetarians love the environment. carnivores are sick freaks.
+<Frank> How can vegetarians possibly love the environment.. you keep eating all the fucking plants
+```
+```
+#9081 +(7148)- [X]
+
+Spin: arrrr, pirates of the south west
+Spin: thar be large pipes o'bandwith near ye'ol univarsety.
+Pirate: yearg, ye may be an ta somethan thar.
+Spin: what say ye we pull yonder USB hard disk longside yonder NMSU puter and begin tha lutin and plunderin.
+Pirate: yearg. The master done gaved me a testin machine with a grand ol CDR.
+Pirate: Avast!
+Pirate: MP3s off the starboard bow!
+Spin: stere clear of ye porn pop ups rollin in from tha east.
+Pirate: I have mah trusty Opera browsa to help me fend em off.
+Spin: encrypt the data holds, batton down thar security patches, argh thar be spyware abound.
+```
+```
+#205633 +(7124)- [X]
+
+WallJam7: roses are red
+WallJam7: violets are blue
+WallJam7: all of my base
+WallJam7: are belong to you
+```
+```
+#245718 +(7105)- [X]
+
+<+mOrphz> damn it :/
+<@Lego> damn it :/
+<+mOrphz> stop that
+<@Lego> stop that
+<+mOrphz> :D
+<@Lego> :D
+<+mOrphz> Lego smells
+<@Lego> Lego smells
+<+mOrphz> /quit
+quit: (Lego) (~leet@apex|Lego.user.gamesnet) (Quit)
+```
+```
+#146497 +(7032)- [X]
+
+<DemonEater> wtf
+<DemonEater> ESPN is showing 2003 national jump rope championship
+<DemonEater> who the hell watches jump rope competiti--- ooh bouncy
+```
+```
+#364782 +(7016)- [X]
+
+<Pahalial> "ignorance more frequently begets confidence than does knowledge" - Charles Darwin
+<kionix> wtf? begets isn't a word. quit trying to make up words, fuckface.
+```
+```
+#4780 +(6902)- [X]
+
+<Thumb> do you know of any major organizations that are similar the CDC?
+<Lucent> who?
+<Thumb> center for disease control
+<Lucent> i said WHO
+<Thumb> what? i'm asking you
+<Lucent> World Health Organization
+```
+```
+#229070 +(6861)- [X]
+
+<pihlopase> Jesus Saves
+<jbroome> pases to moses, SCOOOOORE
+```
+```
+#217425 +(6854)- [X]
+
+<Fireslide> next person to talk after his line will be kicked :)
+<Fireslide> *this
+* Fireslide was kicked by Fireslide (12‹61912›)
+```
+```
+#3630 +(6852)- [X]
+
+<blazemore> omg i love this song
+<blazemore> Now playing: Unknown Artist - Track 2 @ 128 Kbps. (0:47/3:24)
+<Javi> blazemore:  yeah, that's a bad ass song
+```
+```
+#593081 +(6832)- [X]
+
+<Pax> I wish my lawn was emo, so it would cut itself.
+```
+```
+#197845 +(6800)- [X]
+
+<SRG> Metallica sold out in 45 mins :/
+<NotOneOfUs> Yeah I know.
+<NotOneOfUs> Oh wait
+<NotOneOfUs> You mean, like, a concert?
+<SRG> yes
+```
+```
+#265532 +(6795)- [X]
+
+<Sabdo> on one of those speech-to-text programs my friend ripped ass onto the mic.
+<Sabdo> and it typed out "France"
+<Sabdo> we were like, wtf?
+```
+```
+#1964 +(6788)- [X]
+
+[01:33] (hilo21) ima looking for a site that seels amp
+[01:33] (hilo21) ima looking for a site that seels amps
+[01:33] (hilo21) iam looking for a site that seels amps
+[01:34] (hilo21) I am looking for a site that sells amps
+[01:35] (nexxai) how bout you look for a site that teaches english?
+[01:35] (hilo21) fuck you
+[01:36] (nexxai) Lemme guess, you'd kick my ass, but can't read the road signs to get to my house?
+```
+```
+#274826 +(6751)- [X]
+
+<aryov> This cake is soooo good
+<aryov> it's like sex, except I'm having it
+```
+```
+#5301 +(6721)- [X]
+
+<blazemore> LITTLETON, Colo. - Colorado officials plan to try a 15-year-old boy as an adult for allegedly offering a Sony PlayStation to have his aunt killed.
+<FlipTopBx> is it modded?
+```
+```
+#15641 +(6707)- [X]
+
+<superwoman> I had a boyfriend once that made me suck him off while I had a mouthful of beer.
+<GrandCow> HAHAHAHA that was me bitch!
+<superwoman> DANNY?!?!?!
+<GrandCow> MOM?!?!?!?!
+```
+```
+#457037 +(6695)- [X]
+
+<Goatroper> so i had a checkup at the doctor a couple months ago
+<Goatroper> i waited in the goddamn lobby for like 2 hours
+<Goatroper> i was just starting to doze off when they called me back into one of the exam rooms
+<Goatroper> so i sit on this chair for like 30 more mins, and then fall asleep
+<Goatroper> i wake up and have no idea what time it is or how long i've been waiting
+<Goatroper> so 20 minutes later after I finished reading the Hispanic Business Weekly
+<Goatroper> I start diggin through the drawers in the exam table and his desk drawer
+<Goatroper> i find some hypos and don't touch them, some dressing gowns, and then i get to the drawer marked "OB/GYN"
+<Goatroper> i open it up, take a peeky-peek inside, and what do I see? Speculums and rectal dilators.
+<Goatroper> At this point I'm in his desk rolly-chair
+<Goatroper> with about 40 rubber gloves in my pockets for later use
+<Goatroper> so I grab a speculum in each hand
+<Goatroper> and start making them sing and talk like little ducks
+<Goatroper> i was rooting around for a sharpie and couldn't find one
+<Goatroper> so i put them down and did my glove-trick
+<Goatroper> i stretched a rubber glove over my head and blew it up
+<Goatroper> then i grabbbed the speculums and started spinning around in his chair
+<Goatroper> glove inflated on my head the size of two basketballs
+<Goatroper> speculum in each hand
+<Goatroper> spinning in his office chair
+<Goatroper> i hear footsteps and as i'm extending my legs to slow down, the door opens
+<Goatroper> the doctor is standing there with my chart in his hand
+<kr0nus> omg
+<Goatroper> i stopped spinning and just sat there, looking at him through the thin film of the glove
+<Goatroper> he was like "Corey.....?"
+<Goatroper> I said "Yep."
+<Goatroper> held up the speculums.
+<Goatroper> said, "I got bored."
+<Goatroper> and he was like "That's quite a trick with those gloves. Where did you learn that?"
+<Goatroper> I said "Many doctor's offices in many states."
+<Goatroper> He was like "You want to take some with you?" as I got up
+<Goatroper> I pulled the wad out of my pocket and said "Already did."
+<Goatroper> then I walked out and i heard him laughing like a goddamn maniac as soon as the door was closed
+<Goatroper> then the other day i go in again rofl and he just hands me a brand new unopened box of 100 gloves
+<Goatroper> i was gonna ask for some speculums just to fuck with him but I was afraid he'd give me some
+```
+```
+#873373 +(6672)- [X]
+
+Josh: QUESTION FOR EVERYONE....
+SecureXeC: IT'S TO THE LEFT OF YOUR 'A' KEY.
+```
+```
+#234970 +(6668)- [X]
+
+<Tedward> so there's this pimp right. he's collecting money from his three ho's.
+<Tedward> he goes to the first ho and asks for his $100. she says, "But I only owe you $50!"
+<Tedward> he slaps her and says, "don't correct me, bitch!"
+<Tedward> he asks the next ho for $150. she says, "But I only owe you $100!"
+<Tedward> he slaps her and says, "don't correct me, bitch!"
+<Tedward> now he goes to his third ho.
+<Tedward> he asks for $200. "but I only owe you $150!"
+<Tedward> he slaps her and says, "don't correct me, bitch!"
+<Tedward> next he visits the fourth ho.
+<Tedward> he asks her for his $250.
+<Thy_Dungeonman> hold on, wait a sec
+<Tedward> what?
+<Thy_Dungeonman> you said three ho's, not four. idioth.
+*Tedward slaps Thy_Dungeonman
+<Tedward> Don't correct me, bitch.
+```
+```
+#10372 +(6620)- [X]
+
+<Charlesowns> Man i was surfin porn and like "normal" surfin at the same time, so my mom comes in and i quick as hell  tab down the porn. So now im looking at a SWAT vest and an Mp5 submachinegun trying to hide the giant penis in my pants. Then all of a sudden this realy gay male voice speaks out realy loud goin "i want to suck your big dick ans swallow your hot sperm" then like 100 popups open up all consisting of hardcore fetish gayporn.
+<Charlesowns> man my mom started crying and now she thinks im gay... it owns
+```
+```
+#284202 +(6614)- [X]
+
+<broox> so my speakers haven't beeen working for a while
+<broox> they were plugged into the mic port
+<npl> umm, i think they are color-coded
+<broox> haha, i know
+<broox> i usually just reach back there and guess which hole it is
+* npl has set the topic on channel #cell6 to <broox> i usually just reach back there and guess which hole it is
+```
+```
+#587801 +(6563)- [X]
+
+silic0nsilence: So it's black friday at CompUSA.
+Slider: Yea
+silic0nsilence: We were to open up at 12am. It's 11:58pm and there is a HUGE line of blood-thirsty, hard drive-wanting, maniacs. So my friend dares me to scream we have one xbox360.
+Slider: Holy shit.
+silic0nsilence: So he gives me $20. I go up to the gate and scream, "LADIES AND GENTLEMEN, WE HAVE JUST RECIEVED ONE XBOX360!!" Immediatly people are storming the gate, passing me money through the cage to get it. They were screaming and knocked over this old lady. My boss just looks at me with these red eyes. In them, I saw fear and rage.
+Slider: Omg you dumb shit!
+Slider: Wait a second, it's 12:46A, and it's black Friday. What did this happen minutes ago? Shouldn't you be at work?
+silic0nsilence: Yeah..
+silic0nsilence: Pretty sure I don't work at CompUSA any more..
+```
+```
+#850065 +(6478)- [X]
+
+<N> which is correct, seven and five IS thirteen, or seven and five ARE thirteen?
+<Joker> Neither.
+<Joker> Because it's twelve.
+
+#52 +(6388)- [X]
+
+<Tsk> oiuyniyu98h987h89yh87y98yjn987j987y897yhkiuk;''''
+<Tsk> sorry.. there was a spider on my keyboard.
+```
+```
+#128114 +(6376)- [X]
+
+<Firefly> Time for my prayers:
+<Firefly> Our Father, who 0wnz heaven, j00 r0ck!
+<Firefly> May all 0ur base someday be belong to you!
+<Firefly> May j00 0wn earth just like j00 0wn heaven.
+<Firefly> Give us this day our warez, mp3z, and pr0n through a phat pipe.
+<Firefly> And cut us some slack when we act like n00b lamerz, just as we teach n00bz when they act lame on us.
+<Firefly> Please don't give us root access on some poor d00d'z box when we're too pissed off to think about what's right and wrong, and if you could keep the fbi off our backs, we'd appreciate it.
+<Firefly> For j00 0wn r00t on all our b0x3s 4ever and ever, 4m3n.
+```
+```
+#192531 +(6367)- [X]
+
+<riesto>  So I discovered that half my students are failing because they just read bash.org every day in class.
+<tumnest>  How'd you determine that?
+<riesto>  One of them *accidentally* e-mailed me explaining how no one does anything in the class, dumbasses.
+<riesto>  So if you're reading this, students, GET TO FUCKING WORK!  MODULE 10!
+```
+```
+#9 +(6324)- [X]
+
+<cooksii> incest is at least something the whole family can do.
+```
+```
+#183544 +(6306)- [X]
+
+<Edofnor> #1 pickup line of all time: "Hey, does this rag smell like chloroform to you?
+```
+```
+#12318 +(6300)- [X]
+
+* @Lan plays with his privates.
+<Rintaun> ...
+<@Lan> I got these new toy soldiers
+<@Lan> They are really neat
+```
+```
+#89228 +(6260)- [X]
+
+* Quits: crag-- (crag@202.154.72.136) (Dead girls dont say no)
+* Quits: KiM (KiM@134.115.157.196) (going for a walk :p)
+<@ShowDowN> that is sick
+<@ShowDowN> we should ban him next time he comes in
+<@nekro> yeah, who the hell goes for walks
+```
+```
+#24262 +(6256)- [X]
+
+<booradley> I'd like to perform a one act play I call, "Creative screwed me like a bitch"
+<booradley> <audigy> Buy me! I'm ever so sexy
+<booradley> <boo> ok. come home with me and we'll play among the stars
+<booradley> <audigy> tee hee! I love you, boo!
+<booradley> <boo> I love you too, audigy
+<booradley> :: later ::
+<booradley> <boo> there, you're all installed. how do you feel?
+<neshura> down in front!
+<booradley> <audigy> LET JESUS FUCK YOU! VRAAAGH!
+* audience gasps.
+<booradley> * audigy is putting noise across your PCI channels
+<booradley> <hard drive> Mein leben!
+<booradley> * hard drive has died
+<booradley> <audigy> Blaaah! blaaaugh! your mother sucks cocks in hell! graaagh!
+<booradley> <modem> aaieee
+<booradley> *modem has died
+<booradley> and the new modem I got connects at 32k tops
+<Shendal> By far, that's the best one-act IRC play I've read this season.  Do I smell a Tony award?
+```
+```
+#205557 +(6250)- [X]
+
+<Dark_Fox> Kami: if you changed your name to Kame, you would have a much more interesting name :)
+<Kami> Dark_Fox: And if you changed yours to Dark_Fax, you'd have a more communicative name. :)
+* Dark_Fox is now known as Dark_Fax
+<Kami> It'd be... 'telecommunicative.'
+* Dark_Fax makes noises and bitches because he's out of paper ant toner *
+<Kami> Oh god, that happened at work today.
+<Dark_Fax> FEED MEE!!!
+<SailorV> Nuuuuuuuu
+* Dark_Fax displays wrong time *
+* Dark_Fax rings for no reason *
+* Kami is now known as VCR-clock
+* Dark_Fax gets a paper jam *
+* VCR-clock blinks
+* VCR-clock blinks
+* VCR-clock blinks
+* VCR-clock blinks
+* VCR-clock blinks
+* VCR-clock blinks
+<Dark_Fax> PAPPPERRRRR
+* VCR-clock blinks
+<Dark_Fax> TOOOOOONEEERRRR
+* VCR-clock blinks
+<VCR-clock> :)
+* Dark_Fax breaks a bearing and bounces around on the counter *
+<Dark_Fax> FEEEED ERROORRR!!!! NEED PAPER!!
+* Dark_Fax rings again for no reason *
+* VCR-clock blinks some more
+* SailorV runs and hides becuz there are weirdo's in here
+* Dark_Fax chases SailorV *  MY PAPER!!! MY PREEESCIOUUUS!!
+* VCR-clock blinks
+* VCR-clock blinks
+<SailorV> EEEE!
+* SailorV unplugs the VCR
+* VCR-clock has quit IRC
+* Dark_Fax is now known as Dark_Fox
+<Dark_Fox> ok i think ive peaked the humor of that
+```
+```
+#35955 +(6249)- [X]
+
+<EyesofPrisms> and ou are an uytter newb
+<KC48348751> dude
+<KC48348751> how did that y move over like 12 characters
+```
+```
+#473599 +(6246)- [X]
+
+Mjordan2nd: If you could be any fictional character, who would you be?
+Chris: Spider Man
+Tim: batman
+Sidd: batman
+Mjordan2nd: I'd be god
+```
+```
+#7444 +(6240)- [X]
+
+<Paradox> So, guys, I have some news.
+<Paradox> I know I usually don't talk much about stuff unless it's solid, but this is interesting, and I think you should know.
+<Paradox> I just got an E-mail about an interesting proposition.
+* volsung_ perks up.
+<Paradox> Apparently, there are lesbians that want my 'hard cock.'
+* volsung_ flips Paradox the bird.
+<volsung_> :)
+<Paradox> They want it 'now,' apparently, so the timetable is somewhat limited.
+<volsung_> Are you going to just take their offer as presented, or is there an opportunity for negotiation?
+<Paradox> I'm not sure.
+<volsung_> I'm sure your hard cock is in great demand.  An exclusive deal might not be in your best interest.
+<Paradox> Last time I got an offer like this, there were some catches.
+```
+```
+#367808 +(6206)- [X]
+
+*** Zeron is now known as you
+* you farted.
+* you sigh in frustration.
+* you lose
+* you suck at life
+*** Wildfyre is now known as our
+* Goblin_Leecher thinks you need a life
+* our conversation is entirely too weird
+*** Goblin_Leecher is now known as we
+* we are going stir crazy
+* you are going a little too far
+* our laughter fills the offices nearby.
+* you are fired.
+* we need new jobs
+* you agree
+* you wonder when this madness will end
+* we are not sane
+* you are correct
+* our sanity has left?
+<Talathar> you know...if a sane person were to walk in here...they'd be very very confused right about now...
+* you are one with the matrix.
+```
+```
+#4488 +(6156)- [X]
+
+<FM{FF1}> Rizen: I thought you didn't bang chicks, only me.
+<FM{FF1}> ...men.
+<FM{FF1}> GOD THAT WAS A BAD TYPO.
+```
+```
+#6824 +(6141)- [X]
+
+<@Logan> I spent a minute looking at my own code by accident.
+<@Logan> I was thinking "What the hell is this guy doing?"
+```
+```
+#203815 +(6137)- [X]
+
+<Fooz> In a perfect world... spammers would get caught, go to jail, and share a cell with many men who have enlarged their penisses, taken Viagra and are looking for a new relationship.
+```
+```
+#210766 +(6127)- [X]
+
+<Casey8> Diana Ross' husband died
+<Tarrier> how
+<Casey8> fell while climbing in South Africa or something
+<JennAway> that's sad
+<Bubbaprog> i guess there is a mountain high enough
+```
+```
+#205408 +(6077)- [X]
+
+<malaclypse> The general rule on about people on IRC seems to be "Attractive, single, mentally stable: choose two"
+```
+```
+#166956 +(6064)- [X]
+
+[ron`] Roses are red, violets are blue, I'll fuck you with a rake
+```
+```
+#8209 +(6026)- [X]
+
+<Kyuss> how big should disk 1 of neverwinter be?
+<JtHM> |<----------------------------->|
+<JtHM> (not to scale)
 ```
