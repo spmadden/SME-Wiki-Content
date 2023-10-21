@@ -1,6 +1,17 @@
+---
+title: hilarious_comments_in_actual_systems
+description: 
+published: 1
+date: 2023-10-21T13:50:53.421Z
+tags: 
+editor: markdown
+dateCreated: 2023-09-11T01:28:59.005Z
+---
+
 ## Hilarious Comments in ACTUAL systems
 
 -   [Comments found in the Kernel Source](/misc/comments_in_linux_kernel)
+-   [Temporary, I HOPE HOPE HOPE - Apollo AGC](https://github.com/chrislgarry/Apollo-11/blob/f1f0e58e2a46751b1c3b006f1ba2dc76f25dfb54/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc#L179)
 
 ``` c++
 // Not an ACK - message handler has failed us :(
