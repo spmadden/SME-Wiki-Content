@@ -2,7 +2,7 @@
 title: home
 description: 
 published: 1
-date: 2023-10-03T19:45:55.818Z
+date: 2023-11-30T19:43:11.719Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:27:55.800Z
@@ -48,6 +48,7 @@ Desktop Information
 -   [Custom Runlevels Script](/desktop/custom_runlevels_script)
 -   [White Text on Gnome Panels](/desktop/white_text_on_gnome_panels)
 -   [Windows hover follows mouse](/desktop/windows_hover_follows_mouse)
+-   [uBlock origin stop autoplay videos](/desktop/ublock_origin)
 
 Development
 
