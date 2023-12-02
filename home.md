@@ -2,7 +2,7 @@
 title: home
 description: 
 published: 1
-date: 2023-12-02T18:25:52.834Z
+date: 2023-12-02T21:52:27.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:27:55.800Z
@@ -32,14 +32,17 @@ Networking
 Programming
 
 -   [Hilarious comments in actual systems](/misc/hilarious_comments_in_actual_systems)
--   [Falsehoods programmers believe about time](/programming/falsehoods_programmers_believe_about_time)
--   [Falsehoods programmers believe about usernames](/programming/falsehoods_programmers_believe_about_usernames)
 -   [Things you should always test for](/programming/things_you_should_always_test_for)
 -   [Units To Consider](/programming/units_to_consider)
 -   [Git Graph](/programming/git_graph)
 -   Java
     -   [Thread Pool Size](/programming/java/thread_pool_size)
     -   [Finalize Method](/programming/java/finalize_method)
+    
+The "Falsehoods"
+-   [Falsehoods programmers believe about time](/programming/falsehoods_programmers_believe_about_time)
+-   [Falsehoods programmers believe about usernames](/programming/falsehoods_programmers_believe_about_usernames)
+-   [Falsehoods programmers believe about networking](/programming/falsehoods_programmers_believe_about_networking)
 
 Desktop Information
 
