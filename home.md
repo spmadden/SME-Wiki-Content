@@ -2,7 +2,7 @@
 title: home
 description: 
 published: 1
-date: 2023-11-30T19:43:11.719Z
+date: 2023-12-02T18:25:52.834Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:27:55.800Z
@@ -76,6 +76,7 @@ Laws
 -   [Atkin's Laws of Spacecraft Design](/laws/atkin_s_laws_of_spacecraft_design)
 -   [Laws of Engineering](/laws/laws_of_engineering)
 -   [Laws of Systems Engineering](/laws/laws_of_systems_engineering)
+-   [Fundamental Laws of Engineering](/laws/fundamental_laws_of_engineering)
 
 Misc
 
