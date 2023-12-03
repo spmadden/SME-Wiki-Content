@@ -2,7 +2,7 @@
 title: home
 description: 
 published: 1
-date: 2023-12-03T01:02:47.539Z
+date: 2023-12-03T01:33:28.119Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:27:55.800Z
@@ -43,6 +43,7 @@ The "Falsehoods"
 -   [Falsehoods programmers believe about time](/programming/falsehoods_programmers_believe_about_time)
 -   [Falsehoods programmers believe about usernames](/programming/falsehoods_programmers_believe_about_usernames)
 -   [Falsehoods programmers believe about networking](/programming/falsehoods_programmers_believe_about_networking)
+-   [Ops Lessons We All Learned](/programming/ops_lessons)
 
 Desktop Information
 
