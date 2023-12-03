@@ -2,7 +2,7 @@
 title: Laws of Software Engineering
 description: 
 published: 1
-date: 2023-12-03T01:11:57.454Z
+date: 2023-12-03T01:17:37.221Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-03T01:06:56.358Z
@@ -63,3 +63,53 @@ Originating in psychology and usability studies, this law studied the ease of gr
 >  - [John Gall, 1975](https://www.goodreads.com/book/show/583785.The_Systems_Bible)
 
 Originating in systems design, this law encourages software developers and product managers alike to begin with simple systems and grow towards complexity - rather than beginning with a complex system. This law is often cited as the reason for the failure of complex systems like CORBA, and is hailed as the reason for success of systems which began humbly, such as the World Wide Web.
+
+## Goodhart's Law
+> When a measure becomes a target, it ceases to be a good measure.
+>  - [Charles Goodhart, 1975](https://link.springer.com/chapter/10.1007/978-1-349-17295-5_4)
+
+Originating in economics, this law posits a pessimistic view of measuring the success of software. Once a given measure, for example lines of code, becomes reified as the measure of success, then software developers can readily maximize that measure, for example by adding a lot of superfluous comments or other unnecessary code. This law joins others which indicate the difficulty of measuring software projects, such as Hofstadter's.
+
+## Hofstadter's Law
+> It always takes longer than you expect, even when you take into account Hofstadter's Law.
+>  - [Douglas Hofstadter, 1979](https://www.indiebound.org/book/9780465026562)
+
+First coined in Hofstadter's book [Gödel, Escher, Bach](https://www.indiebound.org/book/9780465026562), this law nods at the difficulty of accurately estimating the length of software projects. It's self-referential in a way that Gödel especially would have appreciated. Indeed, advice to rising software managers commonly suggests adding a "buffer" to their estimates. This law suggests that the buffer will never be enough. Zawinski's Law may provide an explanation for this phenomenon: even when developers complete their tasks within the estimated time, software bloat will cause the project to expand and then overflow the buffer.
+
+## Hyrum's Law
+> With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody.
+>  - [Hyrum Wright, 2012](https://www.hyrumslaw.com)
+
+Given enough use, there is no such thing as a private implementation. That is, if an interface has enough consumers, they will collectively depend on every aspect of the implementation, intentionally or not. This effect serves to constrain changes to the implementation, which must now conform to both the explicitly documented interface, as well as the implicit interface captured by usage. We often refer to this phenomenon as "bug-for-bug compatibility."
+
+## Kerchkhoff's principle
+> In cryptography, a system should be secure even if everything about the system, except for a small piece of information - the key - is public knowledge.
+>  - [Auguste Kerckhoffs, 1883](https://www.arcsi.fr/doc/cryptomilitaire.pdf)
+
+This principle predates modern software development by several decades, but establishes an important principle that extends beyond the domain of cryptography. It establishes a bright line between the code in a system, which is public knowledge, and the data in the system, which is private. By doing so, it discourages the common but ultimately insecure practice of "security by obscurity". This principle has found particular popularity in the open source community, which is built on the principle of publicizing source code but not the data it uses.
+
+## Kernighan's Law
+> Everyone knows that debugging is twice as hard as writing a program in the first place. So if you’re as clever as you can be when you write it, how will you ever debug it?
+>  - [Brian Kernighan, 1974](https://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
+
+It's commonplace to conclude that debugging is harder than writing a program; empirical studies have actually shown that "twice as hard" might be an underestimate. Kernighan looks at this phenomenon from the opposite angle, arguing that it's better to write simple code with an eye towards long-term maintainability. Compare to Knuth's optimization principle.
+
+## Knuth's optimization principle
+> Premature optimization is the root of all evil.
+>  - [Donald Knuth, 1974](https://dl.acm.org/doi/10.1145/356635.356640)
+
+Commonly attributed to Donald Knuth, some say this principle is really a popularization of a quote by Tony Hoare. As with all principles, this one may be taken to improper extremes: neglecting optimization altogether, or choosing intentionally mal-performing approaches from the outset. At one extreme, developers can spend a lot of time writing tightly optimized loops which gain small improvements in efficiency at the expense of huge reductions in maintainability. At the other extreme, developers can choose the wrong framework, or a grossly inappropriate database for the task at hand, leading to "maintainable" software which wilts under the slightest load. In the original article, Knuth himself considers some of these trade-offs; in the main he argues against a "penny-wise, pound-foolish" attitude. Compare to Wirth's Law.
+
+## Law of Leaky Abstractions
+> All non-trivial abstractions, to some degree, are leaky.
+>  - [Joel Spolksy, 2002](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+
+This law points out that abstractions are imperfect. Hence, for example, SQL programmers must know a fair amount about their database server's query plans in order to understand their code's performance characteristics - the abstractions of the query language are not much help.
+
+Taken to its logical conclusion, this law suggests that abstractions "save us time working, but they don’t save us time learning." The result is a grim conclusion, that programming is only getting more difficult as time goes on.
+
+## Linus's Law
+> Given enough eyeballs, all bugs are shallow.
+>  - [Linus Torvalds, 1999](http://www.catb.org/~esr/writings/cathedral-bazaar/)
+
+This law is attributed to Linus Trovalds but was popularized by Eric Raymond in his famous essay, The Cathedral and the Bazaar. It's something of an introduction to the open source movement. Trovalds's central argument is that increasing the number of developers on a project reduces the time to resolve bugs. For any single bug, some of those developers will inevitably have the central insight or knowledge to address the bug. Contrast this Law with Brooks's, and also compare to Kerchkhoff's.
