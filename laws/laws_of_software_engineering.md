@@ -2,7 +2,7 @@
 title: Laws of Software Engineering
 description: 
 published: 1
-date: 2023-12-03T01:17:37.221Z
+date: 2023-12-03T01:22:29.807Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-03T01:06:56.358Z
@@ -113,3 +113,53 @@ Taken to its logical conclusion, this law suggests that abstractions "save us ti
 >  - [Linus Torvalds, 1999](http://www.catb.org/~esr/writings/cathedral-bazaar/)
 
 This law is attributed to Linus Trovalds but was popularized by Eric Raymond in his famous essay, The Cathedral and the Bazaar. It's something of an introduction to the open source movement. Trovalds's central argument is that increasing the number of developers on a project reduces the time to resolve bugs. For any single bug, some of those developers will inevitably have the central insight or knowledge to address the bug. Contrast this Law with Brooks's, and also compare to Kerchkhoff's.
+
+## Lady Lovelace's Objection
+> The Analytical Engine has no pretensions to originate anything. It can do whatever we know how to order it to perform.
+>  - [Ada Lovelace, 1842](http://history-computer.com/Library/Sketch%20of%20Engine.pdf)
+
+This law received its title from Alan Turing, in his famous 1950 paper [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238). Few people consider Lady Lovelace's Objection a proper law of software development, although it is one of the most fundamental statements of the capabilities of software by the person who invented the practice. There is a great deal of debate about this idea today, as artificial intelligence appears to do more and more astounding things every year. However, given the lack of precise definitions for many of the terms of debate, no suitable conclusion is available.
+
+## Moore's Law
+> The complexity for minimum component costs has increased at a rate of roughly a factor of two per year. Certainly over the short term this rate can be expected to continue, if not to increase. Over the longer term, the rate of increase is a bit more uncertain, although there is no reason to believe it will not remain nearly constant for at least 10 years.
+>  - [Gordon Moore, 1965](https://newsroom.intel.com/wp-content/uploads/sites/11/2018/05/moores-law-electronics.pdf)
+
+It's fairly commonplace to observe that the average smartphone today is more powerful than even the most expensive computers 50 years ago. Moore's Law is responsible for this curious state of affairs: computers become exponentially more powerful over the years, and the cost of computing falls over time commensurately. Similar trajectories exist in the cost of data storage, so that the storage available on cheap devices today exceeds by orders of magnitude the storage available on high-end work stations twenty years ago. An unfortunate corollary, known as Moore's second law or Rock's Law, is that the cost of research and development to achieve this exponential growth moves in the opposite direction. Possibly as a consequence, many have speculated that [Moore's Law no longer applies](https://www.technologyreview.com/2020/02/24/905789/were-not-prepared-for-the-end-of-moores-law/), with potentially wide-ranging consequences for software but also for the economy at large.
+
+## Norvig's Law
+> Any technology that surpasses 50% penetration will never double again.
+>  - [Peter Norvig, 1999](https://norvig.com/norvigs-law.html)
+
+A somewhat tongue-in-cheek truism about technological adoption and numeracy in popular press. In point of fact, Norvig's Law can be thought of as a maxim to apply careful thought to any discussion of numbers, and to define terms precisely. As Norvig himself points out, it is in fact possible to sell twice as more units by changing the metrics by which market penetration are measured - e.g. selling to individuals instead of households.
+
+## Parkinson's Law
+> Work expands so as to fill the time available for its completion.
+>  - [Cyril Parkinson, 1955](https://www.economist.com/news/1955/11/19/parkinsons-law)
+
+Originating in management studies, this law first observed the growth of bureaucracies over time. It has since been applied to software complexity, and there are corollaries which suggest that increasing software complexity in fact enables bureaucratic growth. Compare to Zawinski's Law.
+
+## Peter Principle
+> People in a hierarchy tend to rise to "a level of respective incompetence."
+>  - [Laurence J. Peter, 1969](https://www.indiebound.org/book/9780062092069)
+
+The Peter Principle, founded on research conducted by Laurence J. Peter, states that individuals rise through a hierarchy until they are not competent enough to rise further. It's often understood as a cynical condemnation of organizational culture. Implicitly, it suggests that leaders are not competent for the challenges they face.
+
+Naturally, some organizations make efforts to counteract the Peter Principle, for example by providing managers with training and continuing education.
+
+## Postel's Law
+> Be conservative in what you send, liberal in what you accept.
+>  - [Jon Postel, 1980](https://tools.ietf.org/html/rfc760)
+
+Established during the creation of the Internet Protocol, this principle encourages the development of robust software; it's often referred to as the Robustness Principle. There is a trade-off to robustness, of course: it can increase maintenance costs and compromise security if not implemented properly. This law conflicts to some degree with certain kinds of software interfaces, e.g. event-carried state transfer.
+
+## Wirth's Law
+> Software gets slower faster than hardware gets faster.
+>  - [Niklaus Wirth, 1995](https://www.computer.org/csdl/magazine/co/1995/02/r2064/13rRUwInv7E)
+
+Commonly considered a rejoinder to Moore's Law, this law comments on the tendency for software to expand in scope over time. What's astounding is that Wirth suggests that software scope expands even more quickly than the exponential growth suggested by Moore. Compare to Zawinski's Law.
+
+## Zawinski's Law
+> Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.
+>  - [James Zawinsky, 1995](https://www.jwz.org/hacks/)
+
+This law is both comical and grim at once. Many programs are totally unrelated to email: consider text editors, compilers, games, etc. Zawinski's Law, also known as the the Law of Software Bloat, suggests that feature creep will inevitably cause all of these programs to read email even though it's entirely unrelated to their core mission. Though there are certainly counter-examples to this specific manifestation of the law, feature creep is an ongoing problem in software development.
