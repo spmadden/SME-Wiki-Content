@@ -2,7 +2,7 @@
 title: Laws of Software Engineering
 description: 
 published: 1
-date: 2023-12-03T02:06:52.419Z
+date: 2023-12-03T03:11:54.647Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-03T01:06:56.358Z
@@ -151,6 +151,17 @@ Naturally, some organizations make efforts to counteract the Peter Principle, fo
 >  - [Jon Postel, 1980](https://tools.ietf.org/html/rfc760)
 
 Established during the creation of the Internet Protocol, this principle encourages the development of robust software; it's often referred to as the Robustness Principle. There is a trade-off to robustness, of course: it can increase maintenance costs and compromise security if not implemented properly. This law conflicts to some degree with certain kinds of software interfaces, e.g. event-carried state transfer.
+
+### Braden's Addenda to Postel's Law
+> Assume that the network is filled with malevolent entities that will send in packets designed to have the worst possible effect.
+> 
+> The most serious problems in the Internet have been caused by unenvisaged mechanisms triggered by low-probability events; mere human malice would never have taken so devious a course!
+> 
+>  - [R. Braden, 1989](https://datatracker.ietf.org/doc/html/rfc1122)
+
+### Thomson's Argument Against Postel's Law
+> A flaw can become entrenched as a de facto standard. Any implementation of the protocol is required to replicate the aberrant behavior, or it is not interoperable. This is both a consequence of tolerating the unexpected and a product of a natural reluctance to avoid fatal error conditions. Ensuring interoperability in this environment is often referred to as aiming to be "bug-for-bug compatible".
+>  - [M. Thomson, 2023](https://datatracker.ietf.org/doc/html/rfc9413)
 
 ## Schawumann's Law of Authentication
 > Any custom developed authentication system contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Kerberos.
