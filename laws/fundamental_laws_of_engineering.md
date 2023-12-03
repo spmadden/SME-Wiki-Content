@@ -2,7 +2,7 @@
 title: Fundamental Laws of Engineering
 description: 
 published: 1
-date: 2023-12-02T18:28:06.291Z
+date: 2023-12-03T03:17:58.623Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-02T18:28:06.291Z
@@ -10,26 +10,38 @@ dateCreated: 2023-12-02T18:28:06.291Z
 
 # Fundamental Laws of Engineering
 
-> First Law: The correct order is: debug, then ship.
+### The First Law
+> The correct order is: debug, then ship.
 
-> Second Law: If it isn't broken, don't fix it.
+### The Second Law
+> If it isn't broken, don't fix it.
 
-> Third Law: If you fiddle with something long enough, it will break.
+### The Third Law
+> If you fiddle with something long enough, it will break.
 
-> Fourth Law: It works better if you plug it in.
+### The Fourth Law
+> It works better if you plug it in.
 
-> Fifth Law: If it's wedged, power-cycle it.
+### The Fifth Law
+> If it's wedged, power-cycle it.
 
-> Sixth Law: A working example is worth a thousand manual pages.
+### The Sixth Law
+> A working example is worth a thousand manual pages.
 
-> Seventh Law: Failures occur where two parts join.
+### The Seventh Law
+> Failures occur where two parts join.
 
-> Eighth Law: Demos cause failures.
+### The Eighth Law
+> Demos cause failures.
 
-> Ninth Law: Systems grow more complex with time.
+### The Ninth Law
+> Systems grow more complex with time.
 
-> Tenth Law: If it's too complex, rebuild it.
+### The Tenth Law
+> If it's too complex, rebuild it.
 
-> Eleventh Law: Small parts vanish when dropped.
+### The Eleventh Law
+> Small parts vanish when dropped.
 
-> Twelfth Law: Don't build from components what you can buy pre-packaged for less. 
+### The Twelfth Law
+> Don't build from components what you can buy pre-packaged for less. 
