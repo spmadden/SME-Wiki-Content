@@ -2,7 +2,7 @@
 title: home
 description: 
 published: 1
-date: 2023-12-03T02:07:35.077Z
+date: 2023-12-03T02:08:16.040Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:27:55.800Z
@@ -75,13 +75,14 @@ GIS Links
 
 -   [GIS Map Servers](/gis/gis_map_servers)
 
-Laws
+Laws & Guidance
 
 -   [Atkin's Laws of Spacecraft Design](/laws/atkin_s_laws_of_spacecraft_design)
 -   [Laws of Engineering](/laws/laws_of_engineering)
 -   [Laws of Systems Engineering](/laws/laws_of_systems_engineering)
 -   [Laws of Software Engineering](/laws/laws_of_software_engineering)
 -   [Fundamental Laws of Engineering](/laws/fundamental_laws_of_engineering)
+-   [The Zen of Infosec](/laws/zen_of_infosec)
 
 Misc
 
