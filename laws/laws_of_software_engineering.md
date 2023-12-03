@@ -2,7 +2,7 @@
 title: Laws of Software Engineering
 description: 
 published: 1
-date: 2023-12-03T01:56:33.754Z
+date: 2023-12-03T02:06:52.419Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-03T01:06:56.358Z
@@ -152,6 +152,10 @@ Naturally, some organizations make efforts to counteract the Peter Principle, fo
 
 Established during the creation of the Internet Protocol, this principle encourages the development of robust software; it's often referred to as the Robustness Principle. There is a trade-off to robustness, of course: it can increase maintenance costs and compromise security if not implemented properly. This law conflicts to some degree with certain kinds of software interfaces, e.g. event-carried state transfer.
 
+## Schawumann's Law of Authentication
+> Any custom developed authentication system contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Kerberos.
+>  - [Jan Schaumann, 2015](https://twitter.com/jschauma/status/643444266300239873)
+
 ## Schneier's Law
 > Anyone, from the most clueless amateur to the best cryptographer, can create an algorithm that he himself can’t break.
 >  - [Bruce Schneier, 1998](https://www.schneier.com/blog/archives/2011/04/schneiers_law.html)
@@ -159,6 +163,12 @@ Established during the creation of the Internet Protocol, this principle encoura
 Anyone, from the most clueless amateur to the best cryptographer, can create an algorithm that he himself can’t break. It’s not even hard. What is hard is creating an algorithm that no one else can break, even after years of analysis. And the only way to prove that is to subject the algorithm to years of analysis by the best cryptographers around.
 
 Anyone can invent a security system that he himself cannot break. I’ve said this so often that Cory Doctorow has named it “Schneier’s Law”: When someone hands you a security system and says, “I believe this is secure,” the first thing you have to ask is, “Who the hell are you?” Show me what you’ve broken to demonstrate that your assertion of the system’s security means something.
+
+## Shamir's 3 Laws of Cryptography
+> 1. Absolutely secure systems do not exist
+> 2. To halve your vulnerability, you have to double your expenditure
+> 3. Cryptography is typically bypassed, not penetrated
+>  - [Adi Shamir, 2002](https://www.financialcryptography.com/mt/archives/000147.html)
 
 ## Wirth's Law
 > Software gets slower faster than hardware gets faster.
