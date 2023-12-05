@@ -2,7 +2,7 @@
 title: Quotes
 description: 
 published: 1
-date: 2023-09-30T23:06:41.824Z
+date: 2023-12-05T18:06:05.642Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:29:07.206Z
@@ -78,6 +78,9 @@ dateCreated: 2023-09-11T01:29:07.206Z
 > "Only those who dare to fail greatly can ever achieve greatly."
 > - *Robert F. Kennedy*
 
+> "The secret of my success was that I was in the right place at the right time"
+> - *Simon Ramo*
+
 ### Leadership
 
 > Leadership is Responsibility, not privilege,
@@ -142,3 +145,11 @@ dateCreated: 2023-09-11T01:29:07.206Z
 > 'No, sir.' 
 > "Anyone can make an error, Ensign. But that error doesn't become a mistake until you refuse to correct it.”
 > ― *Grand Admiral Thrawn *
+
+> "All the really bad mistakes are made the first day of the project."
+> - *Simon Ramo, TRW*
+
+
+### Systems
+> You have to expect failure of a new complicated system — part of the process of getting it right is to find out what goes wrong and cure that.
+> - *Simon Ramo*
