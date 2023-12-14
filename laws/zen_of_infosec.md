@@ -2,49 +2,49 @@
 title: The Zen of Infosec
 description: 
 published: 1
-date: 2023-12-03T02:11:31.789Z
+date: 2023-12-14T05:43:27.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-03T02:11:31.789Z
 ---
 
 # The Zen of Infosec
-*By Jan Shaumann*
+*Originally By Jan Shaumann*
 
-> Boring is better than clever.
+> 1. Boring is better than clever.
 
-> Explicit is better than implicit.
+> 2. Explicit is better than implicit.
 
-> Simple is better than complex.
+> 3. Simple is better than complex.
 
-> Complex is better than complicated.
+> 4. Complex is better than complicated.
 
-> Fail closed is better than fail open.
+> 5. Failing closed is better than failing open.
 
-> Layers are better than bulwarks.
+> 6. Layers are better than bulwarks.
 
-> Usability counts.
+> 7. Usability counts.
 
-> Integrity without authenticity is rarely what you want.
+> 8. Integrity without authenticity is rarely what you want.
 
-> Although confidentiality without authenticity may be ok.
+> 9. ...although confidentiality without authenticity may be ok.
 
-> Shamir's Three Laws still hold.
+> 10. [Shamir's Three Laws](/laws/laws_of_software_engineering#shamirs-3-laws-of-cryptography) still hold.
 
-> And Kerckhoff's Principle extends beyond pure crypto.
+> 11. And [Kerckhoff's Principle](/laws/laws_of_software_engineering#kerchkhoffs-principle) extends beyond pure crypto.
 
-> In the face of an audit, refuse the temptation to tick checkboxes.
+> 12. In the face of an audit, refuse the temptation to tick checkboxes.
 
-> Hanlon's Razor is sharp as ever.
+> 13. [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon's_razor) is sharp as ever.
 
-> Although that may not be obvious if you've been here for a while.
+> 14. ...although that may not be obvious if you've been here for a while.
 
-> 100% security is impossible.
+> 15. 100% security is impossible.
 
-> Although raising the bar is often sufficient.
+> 16. ...although raising the bar is often sufficient.
 
-> If the system is hard to explain, it's a bad idea.
+> 17. If the system is hard to explain, it's a bad idea.
 
-> If the system is easy to explain, it may be a good idea.
+> 18. If the system is easy to explain, it may be a good idea.
 
-> Threat models are one honking great idea -- let's do more of those!
+> 19. Threat models are one honking great idea -- let's do more of those!
