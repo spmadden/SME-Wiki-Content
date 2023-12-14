@@ -2,7 +2,7 @@
 title: home
 description: 
 published: 1
-date: 2023-12-03T02:08:16.040Z
+date: 2023-12-14T05:11:07.847Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:27:55.800Z
@@ -83,6 +83,7 @@ Laws & Guidance
 -   [Laws of Software Engineering](/laws/laws_of_software_engineering)
 -   [Fundamental Laws of Engineering](/laws/fundamental_laws_of_engineering)
 -   [The Zen of Infosec](/laws/zen_of_infosec)
+-   [Things I Know to be True](/laws/things_i_know_to_be_true)
 
 Misc
 
