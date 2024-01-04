@@ -2,7 +2,7 @@
 title: home
 description: 
 published: 1
-date: 2023-12-14T05:11:07.847Z
+date: 2024-01-04T17:37:03.815Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:27:55.800Z
@@ -59,12 +59,13 @@ Development
 -   [Debugging in Eclipse on machines that have blocked the debug port](/dev/debugging_in_eclipse_on_machines_that_have_blocked_the_debug_port)
 -   [DeepThought Information](/dev/deepthought/start)
 
-Hardware
+Linux/Hardware
 
 -   [Linux Kernel Console to Serial Port](/hw/linux_kernel_console_to_serial_port)
 -   [Linux Kernel Driver Resources](/hw/linux_kernel_driver_resources)
 -   [Driver Confidence Levels](/hw/driver_confidence_levels)
 -   [Linux Kernel Wireless AP](/hw/linux_kernel_wireless_ap)
+-   [RHEL/CentOS/Fedora Versions](/linux/rhel_centos_fedora_versions)
 
 New System Information
 
