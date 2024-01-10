@@ -1,3 +1,13 @@
+---
+title: Adult Principles
+description: 
+published: 1
+date: 2024-01-10T18:02:10.204Z
+tags: 
+editor: markdown
+dateCreated: 2023-09-11T01:29:04.586Z
+---
+
 A few days ago, John Perry Barlow twetted a series of Adult Principles, and I enjoyed reading them. When he was asked where they came from, he said:
 
 They're from a list I assembled for myself on the eve of my 30th birthday. Many years ago. This is the collected set from his twitter feed:
