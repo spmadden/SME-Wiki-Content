@@ -2,7 +2,7 @@
 title: Tenets of Safety
 description: 
 published: 1
-date: 2024-02-09T22:43:26.491Z
+date: 2024-02-09T22:45:54.907Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T22:42:37.412Z
@@ -67,4 +67,4 @@ Our reaction to failure shapes how the organization learns. Excessive reactions 
 be as harmful to our safety culture as under reacting. Caring about others is not
 enough. We must care for others.
 
-<iframe src="/pdfs/F1Hallowell_0523.pdf" width="500px" height="900px"/>
+![hazards.png](/hazards.png)
