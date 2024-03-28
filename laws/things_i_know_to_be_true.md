@@ -2,7 +2,7 @@
 title: Things I Know To Be True
 description: 
 published: 1
-date: 2023-12-14T05:37:02.176Z
+date: 2024-03-28T18:36:52.854Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-14T05:37:02.176Z
