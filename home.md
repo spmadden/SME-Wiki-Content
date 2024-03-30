@@ -2,7 +2,7 @@
 title: home
 description: 
 published: 1
-date: 2024-03-30T12:42:20.022Z
+date: 2024-03-30T12:44:10.199Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:27:55.800Z
@@ -66,7 +66,7 @@ Linux/Hardware
 -   [Driver Confidence Levels](/hw/driver_confidence_levels)
 -   [Linux Kernel Wireless AP](/hw/linux_kernel_wireless_ap)
 -   [RHEL/CentOS/Fedora Versions](/linux/rhel_centos_fedora_versions)
--   [Ubuntu GPG 2.4.x](/linux/ubuntu-gpg-2.4.x)
+-   [Ubuntu GPG 2.4.x](/linux/ubuntu-gpg-24x)
 
 New System Information
 
