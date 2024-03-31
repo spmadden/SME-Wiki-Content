@@ -2,14 +2,14 @@
 title: Metrics, Metrics, Everywhere
 description: 
 published: 1
-date: 2024-02-09T01:08:10.994Z
+date: 2024-03-31T13:40:50.669Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T01:08:10.994Z
 ---
 
 - I write code - but that's not why I have a job
- 	- I have a job because I write code that has **business value**
+    - I have a job because I write code that has **business value**
 - **Business value means shipping a new feature that users actually adore**
   - Going back to an old feature that never really worked well and really making it pop
   - Writing code with fewer bugs = fewer support tickets = less time in Jira
@@ -19,6 +19,7 @@ dateCreated: 2024-02-09T01:08:10.994Z
 - Business value is anything that makes people want to give us money
   - We like money, so we want to generate more business value
 - We need to make better decisions about our code.
+
 
 1. Our code generates business value when it RUNS
    a. Not when we write it.
@@ -34,7 +35,7 @@ dateCreated: 2024-02-09T01:08:10.994Z
    d. Both the map and territory are in a constant state of flux
    
 4. There's a gap between what we think we know, and what we actually know
-	 a. **MIND THE GAP**
+   a. **MIND THE GAP**
 
 5. We have a mental model of what our code does, but it's not actually the code itself
    a. This is what we use when we work with our code, predict the effects of a change, track down that bug
@@ -69,17 +70,17 @@ dateCreated: 2024-02-09T01:08:10.994Z
     1. Gauges
        1. Instantaneous value of something at a specific point in time
        2. Ex: database size
-       3. Metrics.gauge("cities", {cities.size})
+       3. `Metrics.gauge("cities", {cities.size})`
     2. Counters
        1.  An incrementing and decrementing value
        2. Ex: # of simultaneous open connections
-       3. Metrics.counter("connections").inc() // .dec()
+       3. `Metrics.counter("connections").inc() // .dec()`
     3. Meters
-       1.  The average rate of events over a period of time
-			 2. Ex: # of requests/sec
-			 3. Metrics.meter("requests", SECONDS).mark()
+       1. The average rate of events over a period of time
+       2. Ex: # of requests/sec
+       3. `Metrics.meter("requests", SECONDS).mark()`
        4. ~~Mean rate =!= #events /elapsed time~~
-			 5.  The elapsed time matters. We care about recency. Mean rate isn't actually useful.
+       5. The elapsed time matters. We care about recency. Mean rate isn't actually useful.
        6. Exponentially Weighted Moving Average is much better
           1. //TODO
           2. Constant: Alpha - smoothing factor
@@ -87,30 +88,30 @@ dateCreated: 2024-02-09T01:08:10.994Z
              2.  Low = very sensitive to variation in underlying data
        7. 1-minute rate
        8. 5-minute rate
-			 9. 15-minute rate
-			 10.  Same formula as unix-load factor rate
+       9. 15-minute rate
+       10.  Same formula as unix-load factor rate
     4. Histograms
        1. The statistical distribution of values in a stream of data
        2. Ex: # of results returned per request
-       3. Metrics.histogram("response-sizes").update({results.size})
+       3. `Metrics.histogram("response-sizes").update({results.size})`
        4. Min/Max/Mean/StdDev
-            1.  Mean works for NORMALLY DISTRIBUTED DATA
-            2.  Most data isn't normally distributed.
-            3.  Quantiles are FAR BETTER
-            4.  Median/75th/95th/98th/99th/99.9th percentile
-       5.  Reservoir Sampling
-            1.  Keep a statistically representative sample of stream of data/measurements as they happen.
-            2.  Don't quantile over the entire stream of data, use the reservoir
-            3.  Vitter\'s Algorithm R. - Vitter. J. 1985
-                a.  Produces uniform samples over the entire LIFETIME of the data
-            4.  Forward-decaying priority sampling
-                a.  See paper
-                b.  Maintain a statistically representative sample of the LAST N MINUTES
+          1. Mean works for NORMALLY DISTRIBUTED DATA
+          2. Most data isn't normally distributed.
+          3. Quantiles are FAR BETTER
+          4. Median/75th/95th/98th/99th/99.9th percentile
+       5. Reservoir Sampling
+          1. Keep a statistically representative sample of stream of data/measurements as they happen.
+          2. Don't quantile over the entire stream of data, use the reservoir
+          3. Vitter's Algorithm R. - Vitter. J. 1985
+             a.  Produces uniform samples over the entire LIFETIME of the data
+          4. Forward-decaying priority sampling
+             a.  See paper
+             b.  Maintain a statistically representative sample of the LAST N MINUTES
     5. Timers
-       1.  A histogram of durations, and a meter of calls.
+       1. A histogram of durations, and a meter of calls.
        2. Ex: # of ms to respond
-       3. Metrics.timer('requests', MILLISECONDS,SECONDS).time( { FN })
-          1.  Name, DurationUnit, RecencyRate
+       3. `Metrics.timer('requests', MILLISECONDS,SECONDS).time( { FN })`
+          1. Name, DurationUnit, RecencyRate
        4. Result: "At ~2000 req/sec our 99% latency jumps from 13ms to 453ms"
     6. Each has a NAME, because random numbers are really hard to figure out at 3AM
 
@@ -148,6 +149,6 @@ dateCreated: 2024-02-09T01:08:10.994Z
 - We might write code
 - We have to generate business value
 - In order to know how well we're doing that, we need metrics to understand and gather the data.
-    - DATA. DRIVEN. DECISIONS.
+   - DATA. DRIVEN. DECISIONS.
 - Aggregate these values for historical perspective to gain long-term patterns
 - The map is not the territory, we need to improve our mental model of the system to make better decisions
