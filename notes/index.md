@@ -2,7 +2,7 @@
 title: Notes
 description: 
 published: 1
-date: 2023-09-11T02:44:21.065Z
+date: 2024-03-31T13:42:01.559Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:30:11.501Z
@@ -17,6 +17,7 @@ dateCreated: 2023-09-11T01:30:11.501Z
 ### Books
 
 [Beautiful Security](/notes/beautiful_security)
+[Metrics, Metrics, Everywhere](/notes/metrics-metrics-everywhere)
 
 ### Misc
 
