@@ -2,14 +2,14 @@
 title: home
 description: 
 published: 1
-date: 2024-03-30T12:44:10.199Z
+date: 2024-03-31T13:42:58.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:27:55.800Z
 ---
 
 <div style="float: right">
-<a href="https://en.wikipedia.org/wiki/Mock%20Turtle"><img src="alice_par_john_tenniel_34.png" width="300" height="400"></a><br/>
+<a href="https://en.wikipedia.org/wiki/Mock%20Turtle"><img src="/alice_par_john_tenniel_34.png" width="300" height="400"></a><br/>
 <i>We called him Tortus because he taught us.</i>
 </div>
 
