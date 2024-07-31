@@ -2,7 +2,7 @@
 title: gis_map_servers
 description: 
 published: 1
-date: 2024-07-31T18:25:35.572Z
+date: 2024-07-31T18:44:20.016Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:28:20.693Z
@@ -74,6 +74,7 @@ dateCreated: 2023-09-11T01:28:20.693Z
     -   ArcGIS REST servers, roads, trails, maps, POIs
 -   [Massachusetts GIS Data Layers](https://www.mass.gov/info-details/massgis-data-layers)
 	- https://massgis.maps.arcgis.com/home/user.html?user=MassGIS
+  - MA GIS WMS: https://gis-prod.digital.mass.gov/geoserver/wms
 
 ## OpenStreetMap Links
 
