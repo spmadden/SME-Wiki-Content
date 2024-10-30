@@ -2,7 +2,7 @@
 title: SPM's Take on System Requirements
 description: 
 published: 1
-date: 2024-10-30T20:29:00.406Z
+date: 2024-10-30T21:02:58.669Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T20:29:00.406Z
@@ -115,225 +115,125 @@ Have you considered everything here?  (In no particular order)
 
 ## Software/Firmware Resource Requirements:
 
-Specific requirements under certain conditions:  (best case, average case, worst case, etc.)
-
-Identify & quantify the unit of measure
-
-Processor percent requirement?  Processor MHz assigned?  CPU Units?
-
-Memory amount in bytes?
-
-Bandwidth in bit/s, etc.
-
-Quantify the scope of the requirement:
-
-For example: “This requirement is for 1 MBit/s of network application throughput, and does not consider the overhead of the transport layer, TCP/UDP headers, IP headers, or Ethernet overhead.”
-
-Quantify the requirement
-
-Is it a soft requirement?  Hard requirement?
-
-Lower limit?  Upper limit?
-
-What are the impacts to the system behavior if this requirement is not met?
-
-Identify the condition.  Is it typical usage?  Based on certain events happening?
-
-Processor requirements (clock speed, # of cores, # of CPUs, etc.)
-
-Memory requirements (amount, clock speed, access time, etc.)
-
-Buffer requirements (amount, width, overwrite capability, duration, etc.)
-
-Storage requirements (amount, read speed, write speed, latency, etc.)
-
-Communications/networking requirements (bandwidth, latency, determinism, reliability, etc.)
-
-I/O requirements (digital, analog, etc.)
-
-Any special considerations affecting the utilization
-
-Virtual memory, swap space, overlays, etc.
-
-Multiprocessors, multithreading, async io, etc.
-
-Operating system overhead or other software overhead
-
-Dependent libraries, tools, installations, operating system, platform, and configurations.
-
-
-
-Security and Privacy
-
-What security/privacy environment must the component operate in?
-
-The type and degree of security/privacy the component must provide.
-
-The security/privacy risks the component must withstand and the required safeguards to reduce those risks
-
-The security/privacy policy the component must meet.
-
-The security/privacy auditing/accountability policy the component must meet.
-
-Any certification/accreditation the component must meet.
-
-Individual Component Requirements:
-
-Required Phases, States & Modes:
-
-A “State” is a specific, discrete condition that a component may be in - states are generally mutually exclusive.
-
-A “Mode” is a specific operating condition for a component - usually commanded by an operator.
-
-A “Phase” is a specific operating condition that groups applicable states and modes.
-
-Identify each Phase, State, and Mode, and identify the transitions between them
-
-examples include: idle, ready, active, post-use analysis, training, degraded, emergency, backup.
-
-If there are no required states & modes, state so explicitly.
-
-Functional Requirements:
-
-What are the tasks or functions the component must do?
-
-Performance Requirements: Describe “the hows” of how the component must operate
-
-How well?  How fast?  How reliable?  How accurate?  How performant?  How responsive?
-
-Behavior Requirements: Describe the required behaviors of the component under varying conditions:
-
-Behavior during the “Happy path”
-
-Behavior during Unexpected, Unallowed, or “Out of bounds” conditions
-
-Fallback behavior during “emergency” states
-
-External Interface Requirements: See “Interfaces” above
-
-Internal Interface Requirements: 
-
-Requirements for internal data storage formats (databases, files, etc)
-
-Requirements for internal communications protocols
-
-Adaptation Requirements:
-
-What (if any) installation-dependent information or operational parameters are required to be configured?
-
-Safety Requirements:
-
-Requirements to minimize unintended hazards to personnel, property, and the physical environment.
-
-Requirements for any regulatory or compliance rules.
-
-Examples include:
-
-Safeguards the component must provide to prevent inadvertent actions (such as accidentally issuing a “cooling OFF” command)
-
-Safeguards the component must provide to prevent inadvertent non-actions (such as failure to issue an intended “cooling OFF” command)
-
-Software Requirements
-
-What operating system?  Platform?
-
-Does the component require any of (specify details, like version and product identifier):
-
-Database management system
-
-Communications/network software
-
-Utility software
-
-Input or equipment simulators
-
-Test software
-
-Manufacturing software
-
-Computer Communication Requirements
-
-What geographic locations need to be linked?
-
-What network topography is required?
-
-Transmission techniques?  
-
-Data transfer rates?
-
-Gateways?
-
-Any required system use times?
-
-Type and volume of data to be transmitted/received?
-
-Time boundaries for transmission/reception/response?  
-
-Peak volumes of data?
-
-Diagnostic features?
-
-Quality Factors:
-
-Functional Quality: The ability to perform all required functions
-
-Reliability: The ability to perform with correct, consistent results
-
-Maintainability: The ability to be easily corrected
-
-Availability: The ability to be accessed and operated when needed
-
-Flexibility: The ability to be easily adapted to changing requirements
-
-Portability: the ability to be easily modified for a new environment
-
-Reusability: The ability to be used in multiple applications
-
-Testability: The ability to be easily and thoroughly tested
-
-Usability: The ability to be easily learned and used
-
-etc
-
-Design, Implementation, and Execution constraints
-
-Standards to be implemented/abided by
-
-Use of or interoperability with existing components
-
-Use of a particular data standard
-
-Use of a particular programming language
-
-Flexibility and Expandability that must be provided to support anticipated areas of growth, or changes in technologies, threats, or objectives
-
-Personnel Requirements:
-
-How many people are required to operate this component?
-
-What skills or experience do they need to have?
-
-Over what duty cycle are humans expected to operate this?
-
-Training Requirements:
-
-What classes, courses, certifications are required?
-
-Ensure that the capabilities and limitations of humans are considered:
-
-Foreseeable human errors under both normal and extreme conditions
-
-Specific areas where the effects of human error would be particularly serious
-
-Color and duration of error messages
-
-Physical placement of critical indicators or keys
-
-Auditory signals
-
-Specific accessibility attributes for humans with physical and mental disabilities
-
-Training requirements: 
+* Specific requirements under certain conditions:  (best case, average case, worst case, etc.)
+* Identify & quantify the unit of measure
+  * Processor percent requirement?  Processor MHz assigned?  CPU Units?
+  * Memory amount in bytes?
+  * Bandwidth in bit/s, etc.
+  
+* Quantify the scope of the requirement:
+  * For example: “This requirement is for 1 MBit/s of network application throughput, and does not consider the overhead of the transport layer, TCP/UDP headers, IP headers, or Ethernet overhead.”
+* Quantify the requirement
+  * Is it a soft requirement?  Hard requirement?
+  * Lower limit?  Upper limit?
+  * What are the impacts to the system behavior if this requirement is not met?
+* Identify the condition.  Is it typical usage?  Based on certain events happening?
+* Processor requirements (clock speed, # of cores, # of CPUs, etc.)
+* Memory requirements (amount, clock speed, access time, etc.)
+* Buffer requirements (amount, width, overwrite capability, duration, etc.)
+* Storage requirements (amount, read speed, write speed, latency, etc.)
+* Communications/networking requirements (bandwidth, latency, determinism, reliability, etc.)
+* I/O requirements (digital, analog, etc.)
+* Any special considerations affecting the utilization
+  * Virtual memory, swap space, overlays, etc.
+  * Multiprocessors, multithreading, async io, etc.
+  * Operating system overhead or other software overhead
+* Dependent libraries, tools, installations, operating system, platform, and configurations.
+
+## Security and Privacy
+
+* What security/privacy environment must the component operate in?
+* The type and degree of security/privacy the component must provide.
+* The security/privacy risks the component must withstand and the required safeguards to reduce those risks
+* The security/privacy policy the component must meet.
+* The security/privacy auditing/accountability policy the component must meet.
+* Any certification/accreditation the component must meet.
+
+## Individual Component Requirements:
+
+* Required Phases, States & Modes:
+  * A “State” is a specific, discrete condition that a component may be in - states are generally mutually exclusive.
+  * A “Mode” is a specific operating condition for a component - usually commanded by an operator.
+  * A “Phase” is a specific operating condition that groups applicable states and modes.
+  * Identify each Phase, State, and Mode, and identify the transitions between them
+  * examples include: idle, ready, active, post-use analysis, training, degraded, emergency, backup.
+  * If there are no required states & modes, state so explicitly.
+* Functional Requirements:
+  * What are the tasks or functions the component must do?
+* Performance Requirements: Describe “the hows” of how the component must operate
+  * How well?  How fast?  How reliable?  How accurate?  How performant?  How responsive?
+* Behavior Requirements: Describe the required behaviors of the component under varying conditions:
+  * Behavior during the “Happy path”
+  * Behavior during Unexpected, Unallowed, or “Out of bounds” conditions
+  * Fallback behavior during “emergency” states
+* External Interface Requirements: See “Interfaces” above
+* Internal Interface Requirements: 
+  * Requirements for internal data storage formats (databases, files, etc)
+  * Requirements for internal communications protocols
+* Adaptation Requirements:
+  * What (if any) installation-dependent information or operational parameters are required to be configured?
+
+* Safety Requirements:
+  * Requirements to minimize unintended hazards to personnel, property, and the physical environment.
+  * Requirements for any regulatory or compliance rules.
+  * Examples include:
+    * Safeguards the component must provide to prevent inadvertent actions (such as accidentally issuing a “cooling OFF” command)
+    * Safeguards the component must provide to prevent inadvertent non-actions (such as failure to issue an intended “cooling OFF” command)
+
+* Software Requirements
+  * What operating system?  Platform?
+  * Does the component require any of (specify details, like version and product identifier):
+    * Database management system
+    * Communications/network software
+    * Utility software
+    * Input or equipment simulators
+    * Test software
+    * Manufacturing software
+* Computer Communication Requirements
+  * What geographic locations need to be linked?
+  * What network topography is required?
+  * Transmission techniques?  
+  * Data transfer rates?
+  * Gateways?
+  * Any required system use times?
+  * Type and volume of data to be transmitted/received?
+  * Time boundaries for transmission/reception/response?  
+  * Peak volumes of data?
+  * Diagnostic features?
+* Quality Factors:
+  * Functional Quality: The ability to perform all required functions
+  * Reliability: The ability to perform with correct, consistent results
+  * Maintainability: The ability to be easily corrected
+  * Availability: The ability to be accessed and operated when needed
+  * Flexibility: The ability to be easily adapted to changing requirements
+  * Portability: the ability to be easily modified for a new environment
+  * Reusability: The ability to be used in multiple applications
+  * Testability: The ability to be easily and thoroughly tested
+  * Usability: The ability to be easily learned and used
+  * etc
+
+* Design, Implementation, and Execution constraints
+  * Standards to be implemented/abided by
+  * Use of or interoperability with existing components
+  * Use of a particular data standard
+  * Use of a particular programming language
+  * Flexibility and Expandability that must be provided to support anticipated areas of growth, or changes in technologies, threats, or objectives
+
+* Personnel Requirements:
+  * How many people are required to operate this component?
+  * What skills or experience do they need to have?
+  * Over what duty cycle are humans expected to operate this?
+  * Training Requirements:
+    * What classes, courses, certifications are required?
+  * Ensure that the capabilities and limitations of humans are considered:
+    * Foreseeable human errors under both normal and extreme conditions
+    * Specific areas where the effects of human error would be particularly serious
+    * Color and duration of error messages
+    * Physical placement of critical indicators or keys
+    * Auditory signals
+    * Specific accessibility attributes for humans with physical and mental disabilities
+
+* Training requirements: 
 
 What training/help/guidance features the component should provide?
 
