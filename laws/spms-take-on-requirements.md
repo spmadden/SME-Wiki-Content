@@ -2,7 +2,7 @@
 title: SPM's Take on System Requirements
 description: 
 published: 1
-date: 2024-10-30T21:02:58.669Z
+date: 2024-10-30T21:05:32.391Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T20:29:00.406Z
@@ -234,27 +234,18 @@ Have you considered everything here?  (In no particular order)
     * Specific accessibility attributes for humans with physical and mental disabilities
 
 * Training requirements: 
+  * What training/help/guidance features the component should provide?
+  * What training/certifications/experience should an operator have?
 
-What training/help/guidance features the component should provide?
+* Logistics requirements:
+  * System maintenance needs
+  * Software support needs
+  * System transportation modes & needs
+  * Supply-system requirements
+  * Impact on existing facilities and equipment
 
-What training/certifications/experience should an operator have?
+* Packaging Requirements
+  * Packaging, labeling, and handling requirements for delivery
 
-Logistics requirements:
-
-System maintenance needs
-
-Software support needs
-
-System transportation modes & needs
-
-Supply-system requirements
-
-Impact on existing facilities and equipment
-
-Packaging Requirements
-
-Packaging, labeling, and handling requirements for delivery
-
-Operational Requirements:
-
-Define the operational conditions under which the component must function
+* Operational Requirements:
+  * Define the operational conditions under which the component must function
