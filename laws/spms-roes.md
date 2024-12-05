@@ -2,7 +2,7 @@
 title: SPM's Rules of Engagement
 description: 
 published: 1
-date: 2024-12-05T19:32:54.470Z
+date: 2024-12-05T19:33:55.568Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-05T19:32:54.470Z
@@ -22,7 +22,7 @@ In order of precedence.  Don't violate ROE #0 to meet any other ROE.
 > * Design. Build. Test. Learn. Iterate.
 
 ## 1. Maintain situational awareness at all times.
-> *Whether it's engineering, recreation, or simply lounging about - knowing what's going on is the first step in preventing stupid from happening.*
+> *Whether it's engineering, recreation, or simply lounging about - knowing that stupid is brewing is the first step in preventing stupid from happening.*
 
 ## 2. Know where all the bodies (or documents, or information) are buried.
 > *You don't need to know all the answers, you just need to know how to **find** all the answers.  There is **always** too much going on to maintain perfect SA.  When you fall behind - know how to get caught up.* 
