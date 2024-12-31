@@ -2,7 +2,7 @@
 title: SPM's Laws of Software Engineering
 description: 
 published: 1
-date: 2024-12-31T21:05:08.895Z
+date: 2024-12-31T21:30:30.909Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
@@ -50,6 +50,28 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 ## The 1st Law: Know Who Your Customer Is
 
 > If you're improving the lives of your customers, you need to know who your customer is and you need to know what their problems are.  Maintain a good and continuous understanding of your customers and their problems.  Both are fickle (see Axiom 1.1) and guaranteed to change and fluxuate over time.
+
+## The 2nd Axiom: Changes add Complexity.
+> Fact: 100% of all bugs in software are introduced through software changes.
+> {.is-warning}
+
+> Fact: 100% of all bugs in software are corrected through software changes.
+> {.is-warning}
+
+> Omnipotence (n): Infinitely Powerful  (omni-potentia)
+> Omniscience (n): Infinitely Knowing   (omni-scientia)
+> Omnibenevolence (n): Infinite Well-Meaning (omni-bene-volition)
+> {.is-info}
+
+> Fact: Omnipotence, Omniscience, and Omnibenevolence are divine attributes and reserved for `$yourChosenDeities[..]`
+
+### Axiom 2.1: Changes are your Friend!
+> Embrace change.  People change.  Understanding changes.  Your requirements change.  You live in an ever-changing world where entropy always increases.  Learn to love it, because change is the only constant in this universe.  Embrace refactorings into simpler, more robust, more usable implementations.
+
+### Axiom 2.2: Change is your Enemy!
+> 
+
+## The 2nd Law: Minimize Complexity
 
 
 ## The Law: Growth is Essential
