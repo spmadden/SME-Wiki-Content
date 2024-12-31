@@ -2,7 +2,7 @@
 title: SPM's Laws of Software Engineering
 description: 
 published: 1
-date: 2024-12-31T20:35:14.910Z
+date: 2024-12-31T20:36:20.253Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
@@ -29,7 +29,7 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 > * We don't have spare staffing because...
 > * We don't have spare budget because...
 
-| Layer | Name        | Unit    | Reliability <span title="Also known as the 'chance of failure'" style="background: #87CEFA; border-radius:10px; padding: 0 3px 0 3px;">?</span> |
+| Layer | Name        | Unit    | <span title="Also known as the 'probability of everything going right'" >Reliability <span style="background: #87CEFA; border-radius:10px; padding: 0 3px 0 3px;">?</span></span> |
 |:-----:|-------------|---------|---|
 | 10    | Politics    | Organizations /<br/>Governments /<br/>Prioritization | Lowest |
 | 9     | Money       | Dollars |
