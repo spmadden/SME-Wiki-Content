@@ -2,7 +2,7 @@
 title: SPM's Laws of Software Engineering
 description: 
 published: 1
-date: 2024-12-31T21:43:05.074Z
+date: 2024-12-31T22:33:22.012Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
@@ -53,41 +53,76 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 
 ## The 2nd Axiom: Engineers are "People", and are therefore the problem.
 
-### Axiom 2.1: 100% of all bugs in software are introduced through software changes.
 
-### Axiom 2.2: 100% of all bugs in software are corrected through software changes.
-
-### Axiom 2.3: 100% of all software is written by Humans.
+### Precept 2.1: 100% of all software is written by Humans.
 > Yes, even AI-assisted code.  AIs were created by humans, and therefore have human fallibility.
 > {.is-info}
 
-### Axiom 2.4: All Humans are Stupid.  Some Humans are Effective.
+### Precept 2.2: All Humans are Stupid.  Some Humans are Effective.
 
-### Axiom 2.5: You are not the exception.
+### Precept 2.3: You are not the exception.
 
 ## The 3rd Axiom: Everything is a System.
+> Nothing exists in a vacuum.  Everything interacts with everything else.
+> {.is-warning}
 
-### Axiom 3.1: Systems can be Modeled.
-> Model (n): A schematic description or representation of something, especially a system or phenomenon, that accounts for its properties and is used to study its characteristics. Typically used to build an understanding of a larger, more complex system.
+> A system can be subdivided into smaller systems.  When two systems interact, new behaviors can emerge and the resultant system is "more than the sum of it's parts".
 > {.is-info}
 
-> Humans build mental-models of systems to understand how to interact with that system.  
+### Precept 3.1: Systems can be Modeled.
+> Model (n): A simplified schematic description or representation of something, especially a system or phenomenon, that accounts for its properties and is used to study its characteristics. Typically used to build an understanding of a larger, more complex system.
+> {.is-info}
 
-## The 3nd Axiom: Changes add Complexity.
+> Humans build mental-models of systems to understand how to interact with that system and predict that system's behavior.
+> {.is-info}
 
-### Axiom 3.1: Everything is a System.  Systems can be modeled.
+> The word "Oven" implies a very particular mental model - a box who's inside temperature can be increased by external controls.  You would not expect that the act of turning the temperature knob on the front would cause a rocket engine hidden underneath to ignite and launch the box high into an orbital altitude.  The first time this happened would forever change your mental model of the word "oven". (...and create a great story to tell at parties!  "No shit, there I was...")
 
+### Precept 3.2: All Models are Wrong.
+> Since a model is, by definition, a simplified representation of a system, it is lossy with respect to that system and cannot (with 100% accuracy) represent the inner-workings and behaviors of the system.  If it could, it wouldn't be a simplification.
 
-### Axiom 3.2: Changes are your Friend!
+### Precept 3.3: Some Models are Useful.
+> The act of "Learning" is training a mental model to respond in the way the system responds. 
+> {.is-info}
+
+> Flight Training is the act of learning how the system called an "aircraft" interacts with the system called "the atmosphere".  It's not likely that you have a machine that controls the atmosphere, however the aircraft likely has controls to interact with it.  Understanding how the controls manipulate the system called "aircraft" is critical to predicting how the two systems will interact as a result.
+
+### Precept 3.4: Models must be re-evaluated for correctness when the system changes
+> Some changes to the system do not invalidate the model.  Other changes do. Every change must be evaluated to determine the impact on both the system and the model.
+
+> For example changing an analog dial on the oven to a digital button is unlikely to invalidate your mental model of the oven.  However, discovering a rocket engine on the bottom will likely do so.
+
+### Precept 3.5: Interactions between systems lead to emergent behaviors
+> Emergence (n): Emergence occurs when a complex entity (system) has properties or behaviors that its parts do not have on their own, and emerge only when they interact in the larger context. 
+> {.is-info}
+
+### Theorem 3.5: "Emergencies" (Emergence-es) are the result of insufficiently detailed models
+> Emergency (n): The quality of being emergent; sudden or unexpected appearance; an unforeseen occurrence.
+> {.is-info}
+
+## The 2nd Law: Evaluate every change to determine which are relevant and which are not.
+> You will not be able to adjust your mental model of the system unless you understand the changes to the system.
+
+## The 4th Axiom: Changes add Complexity
+
+### Theorem 4.1: Changes are your Friend!
 > Embrace change.  People change.  Understanding changes.  Your requirements change.  You live in an ever-changing world where entropy always increases.  Learn to love it, because change is the only constant in this universe.  Embrace refactorings into simpler, more robust, more usable implementations.
 
-### Axiom 3.3: Change is your Enemy!
-> 
+### Precept 4.2: 100% of all bugs in software are corrected through software changes.
 
-## The 2nd Law: Minimize Complexity
+### Theorem 4.3: Changes are your Enemy!
+> Change frequently invalidates your mental model of the system. It is critically important to understand the changes, to understand how your mental model of the system must change to adapt to the latest system state.
 
 
-## The Law: Growth is Essential
+## The 2nd Law: Minimizing Complexity in your Systems Minimizes the Complexity in your Mental Models
+
+> * This is the basis of the phrase "Keep It Simple, Stupid".
+> * A simple system is easier to understand.
+> * Interactions with other systems are 
+
+## The 3rd Law: Effective Change Management is Critical to Managing Mental Models
+
+## The 3rd Law: Forward Progress 
 > Always be working towards something larger, bigger, better, faster.
 
 ## The  
