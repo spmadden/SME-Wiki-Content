@@ -2,7 +2,7 @@
 title: SPM's Laws of Software Engineering
 description: 
 published: 1
-date: 2024-12-31T20:36:20.253Z
+date: 2024-12-31T21:05:08.895Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
@@ -15,12 +15,13 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 
 ## The 1st Axiom: Nearly all problems in Engineering are People Problems, not Science Problems.
 
-> Science is easy.  People are hard.  Engineering is done to improve the lives of people - your customers.  
+> Science is easy.  People are hard.  Engineering is done to improve the lives of people - your customers.
 
 ### Axiom 1.1: People are Fickle
 
-> fickle /fĭk′əl/ (adj): Not fixed or firm; liable to change; unstable; of a changeable mind; not firm in opinion or purpose; inconstant; capricious. 
+> fickle /fĭk′əl/ (adj): Not fixed or firm; liable to change; unstable; of a changeable mind; not firm in opinion or purpose; inconstant; capricious.
 > See also: unstable, inconstant, ambiguous, erratic, ambivalent, impulsive, impermanent
+> {.is-info}
 
 ### Axiom 1.2: Schedule, Budget, Staffing, and Prioritization are the hardest problems you'll never solve.
 > The best design in the world will always be overridden by the "Magic 4":
@@ -29,25 +30,27 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 > * We don't have spare staffing because...
 > * We don't have spare budget because...
 
-| Layer | Name        | Unit    | <span title="Also known as the 'probability of everything going right'" >Reliability <span style="background: #87CEFA; border-radius:10px; padding: 0 3px 0 3px;">?</span></span> |
-|:-----:|-------------|---------|---|
-| 10    | Politics    | Organizations /<br/>Governments /<br/>Prioritization | Lowest |
-| 9     | Money       | Dollars |
-| 8     | People /<br/>Users    | FTEs |
-| 7     | Application | UI      |
-| 6     | Protocol    | Data    |
-| 5     | Session     | Data    |
-| 4     | Transport   | Segment /<br/>Datagram |
-| 3     | Network     | Packet  |
-| 2     | Data Link   | Frame   | 
-| 1     | Physical    | Symbol  | Highest |
+| Layer | Name           | Unit                                         | Example                                         |                    Reliability                     |        Diagnostic Effort        |       Correction Effort        | 
+|:-----:|----------------|----------------------------------------------|-------------------------------------------------|:--------------------------------------------------:|:-------------------------------:|:------------------------------:| 
+|  10   | Politics       | Organizations / Governments / Prioritization | Policies / Laws /                               |   `Lowest` < Most of your problems happen here.    | `Lowest` < Easiest to diagnose  | `Highest` < Hardest to correct | 
+|   9   | Money          | Dollars                                      | Salary / Postage Stamp                          |                       `<-->`                       |             `<-->`              |             `<-->`             | 
+|   8   | People / Users | FTEs                                         | The Animal (Human, Dog, Lizard, etc.)           |                      `<---->`                      |            `<---->`             |            `<---->`            |
+|   7   | Application    | User Interface/Interaction                   | GUI / CLI / Pen                                 |                     `<------>`                     |           `<------>`            |           `<------>`           |
+|  6*   | Protocol       | Data                                         | SSL/TLS Connection / Ciphering / Language       |                    `<-------->`                    |          `<-------->`           |          `<-------->`          |
+|   5   | Session        | Data                                         | TCP Connection / Conversation                   |                   `<---------->`                   |         `<---------->`          |         `<---------->`         |
+|   4   | Transport      | Segment / Datagram                           | TCP Segment / UDP Datagram / Package / Envelope |                  `<------------>`                  |        `<------------>`         |        `<------------>`        |
+|   3   | Network        | Packet                                       | IP Addresses / Mailboxes                        |                 `<-------------->`                 |       `<-------------->`        |       `<-------------->`       |
+|   2   | Data Link      | Frame                                        | Ethernet Switches / WAPs / Mail Truck           |                `<---------------->`                |      `<---------------->`       |      `<---------------->`      |
+|   1   | Physical       | Symbol                                       | Cat6A / Wifi / Post-Office                      | `Highest` < The least of your problems happen here | `Highest` < Hardest to diagnose | `Lowest` < Easiest to correct  |
 
+> Reliability (adj): Such that either information will reach its destination, even if it requires retransmission, or the sender will be told that it didn't.
+{.is-info}
 
 
 ## The 1st Law: Know Who Your Customer Is
 
-> If you're improving the lives of your customers, you need to know who your customer is.  Maintain a good and continuous
- 
+> If you're improving the lives of your customers, you need to know who your customer is and you need to know what their problems are.  Maintain a good and continuous understanding of your customers and their problems.  Both are fickle (see Axiom 1.1) and guaranteed to change and fluxuate over time.
+
 
 ## The Law: Growth is Essential
 > Always be working towards something larger, bigger, better, faster.
