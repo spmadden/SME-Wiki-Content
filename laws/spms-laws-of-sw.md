@@ -2,7 +2,7 @@
 title: SPM's Laws of Software Engineering
 description: 
 published: 1
-date: 2024-12-31T21:30:30.909Z
+date: 2024-12-31T21:43:05.074Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
@@ -51,24 +51,37 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 
 > If you're improving the lives of your customers, you need to know who your customer is and you need to know what their problems are.  Maintain a good and continuous understanding of your customers and their problems.  Both are fickle (see Axiom 1.1) and guaranteed to change and fluxuate over time.
 
-## The 2nd Axiom: Changes add Complexity.
-> Fact: 100% of all bugs in software are introduced through software changes.
-> {.is-warning}
+## The 2nd Axiom: Engineers are "People", and are therefore the problem.
 
-> Fact: 100% of all bugs in software are corrected through software changes.
-> {.is-warning}
+### Axiom 2.1: 100% of all bugs in software are introduced through software changes.
 
-> Omnipotence (n): Infinitely Powerful  (omni-potentia)
-> Omniscience (n): Infinitely Knowing   (omni-scientia)
-> Omnibenevolence (n): Infinite Well-Meaning (omni-bene-volition)
+### Axiom 2.2: 100% of all bugs in software are corrected through software changes.
+
+### Axiom 2.3: 100% of all software is written by Humans.
+> Yes, even AI-assisted code.  AIs were created by humans, and therefore have human fallibility.
 > {.is-info}
 
-> Fact: Omnipotence, Omniscience, and Omnibenevolence are divine attributes and reserved for `$yourChosenDeities[..]`
+### Axiom 2.4: All Humans are Stupid.  Some Humans are Effective.
 
-### Axiom 2.1: Changes are your Friend!
+### Axiom 2.5: You are not the exception.
+
+## The 3rd Axiom: Everything is a System.
+
+### Axiom 3.1: Systems can be Modeled.
+> Model (n): A schematic description or representation of something, especially a system or phenomenon, that accounts for its properties and is used to study its characteristics. Typically used to build an understanding of a larger, more complex system.
+> {.is-info}
+
+> Humans build mental-models of systems to understand how to interact with that system.  
+
+## The 3nd Axiom: Changes add Complexity.
+
+### Axiom 3.1: Everything is a System.  Systems can be modeled.
+
+
+### Axiom 3.2: Changes are your Friend!
 > Embrace change.  People change.  Understanding changes.  Your requirements change.  You live in an ever-changing world where entropy always increases.  Learn to love it, because change is the only constant in this universe.  Embrace refactorings into simpler, more robust, more usable implementations.
 
-### Axiom 2.2: Change is your Enemy!
+### Axiom 3.3: Change is your Enemy!
 > 
 
 ## The 2nd Law: Minimize Complexity
