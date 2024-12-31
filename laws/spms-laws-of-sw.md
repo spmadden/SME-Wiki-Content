@@ -2,13 +2,13 @@
 title: SPM's Laws of Software Engineering
 description: 
 published: 1
-date: 2024-12-31T22:33:22.012Z
+date: 2024-12-31T22:43:20.503Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
 ---
 
-# SPM's Laws of Software Engineering
+# SPM's Laws of Engineering
 
 These are a collection of rules/laws/axioms I've come to follow during my career as an Engineer.  Each has a story behind it.  These are all compatible with [SPM's Rules of Engagement](/laws/spms-roes) in spirit, if not to the letter.
 
@@ -113,16 +113,26 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 ### Theorem 4.3: Changes are your Enemy!
 > Change frequently invalidates your mental model of the system. It is critically important to understand the changes, to understand how your mental model of the system must change to adapt to the latest system state.
 
+### Precept 4.4: 100% of all bugs in software are introduced through software changes.
 
-## The 2nd Law: Minimizing Complexity in your Systems Minimizes the Complexity in your Mental Models
+### Theorem 4.5: The magnitude of the systemic change is proportional to the magnitude of the required model change.
+> * A Large System Change often necessitates a Large Model Change (but not always)
+> * A Small System Change does not often necessitate a Large Model Change (but sometimes it does).
+
+## The 3nd Law: Minimizing Complexity in your Systems Minimizes the Complexity in your Mental Models
 
 > * This is the basis of the phrase "Keep It Simple, Stupid".
 > * A simple system is easier to understand.
-> * Interactions with other systems are 
+> * Interactions between systems are often complex and therefore difficult to predict.
 
-## The 3rd Law: Effective Change Management is Critical to Managing Mental Models
+> Every interaction between two systems/entities is an opportunity for a mismatch/error to be introduced.
+> {.is-warning}
 
-## The 3rd Law: Forward Progress 
+## The 4rd Law: Effective Change Management is Critical to Managing Mental Models
+> * Establish a baseline, sufficiently correct model of the system.  (This is likely to take a long time.)
+> * Track the small changes against the baseline.
+
+## The 5rd Law: Forward Progress 
 > Always be working towards something larger, bigger, better, faster.
 
 ## The  
