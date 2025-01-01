@@ -2,7 +2,7 @@
 title: SPM's Laws of Software Engineering
 description: 
 published: 1
-date: 2024-12-31T22:43:20.503Z
+date: 2025-01-01T00:12:25.915Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
@@ -46,6 +46,7 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 > Reliability (adj): Such that either information will reach its destination, even if it requires retransmission, or the sender will be told that it didn't.
 {.is-info}
 
+...which brings us to the first law.
 
 ## The 1st Law: Know Who Your Customer Is
 
@@ -53,14 +54,23 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 
 ## The 2nd Axiom: Engineers are "People", and are therefore the problem.
 
-
 ### Precept 2.1: 100% of all software is written by Humans.
 > Yes, even AI-assisted code.  AIs were created by humans, and therefore have human fallibility.
 > {.is-info}
 
-### Precept 2.2: All Humans are Stupid.  Some Humans are Effective.
+> Therefore, all software has bugs.  Some bugs are more impactful than others.
 
-### Precept 2.3: You are not the exception.
+### Precept 2.2: All Humans are Stupid.  Some Humans are Effective.
+> Humans make errors. Smart Humans make stupid errors.  Really effective humans make really effective errors.
+
+![dunning-kruger-3-3919728747.webp](/dunning-kruger-3-3919728747.webp)
+
+... which brings us to the 2nd law.
+## The 2nd Law: Plan for humans to introduce errors - including your own.
+> An error doesn't become a mistake until you refuse to correct it.  
+
+> This includes ALL interactions with humans, both interpersonally and programmatically.  Accepting input from a human?  Validate it.  Producing output for a human?  Validate it (because they should be validating it as well).
+> {.is-warning}
 
 ## The 3rd Axiom: Everything is a System.
 > Nothing exists in a vacuum.  Everything interacts with everything else.
@@ -100,7 +110,8 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 > Emergency (n): The quality of being emergent; sudden or unexpected appearance; an unforeseen occurrence.
 > {.is-info}
 
-## The 2nd Law: Evaluate every change to determine which are relevant and which are not.
+... which brings us to the 3rd law.
+## The 3rd Law: Evaluate every change to determine which are relevant and which are not.
 > You will not be able to adjust your mental model of the system unless you understand the changes to the system.
 
 ## The 4th Axiom: Changes add Complexity
@@ -119,7 +130,8 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 > * A Large System Change often necessitates a Large Model Change (but not always)
 > * A Small System Change does not often necessitate a Large Model Change (but sometimes it does).
 
-## The 3nd Law: Minimizing Complexity in your Systems Minimizes the Complexity in your Mental Models
+... which brings us to the 4th and 5th laws.
+## The 4th Law: Minimizing Complexity in your Systems Minimizes the Complexity in your Mental Models
 
 > * This is the basis of the phrase "Keep It Simple, Stupid".
 > * A simple system is easier to understand.
@@ -128,9 +140,17 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 > Every interaction between two systems/entities is an opportunity for a mismatch/error to be introduced.
 > {.is-warning}
 
-## The 4rd Law: Effective Change Management is Critical to Managing Mental Models
+## The 5th Law: Effective Change Management is Critical to Managing Mental Models
 > * Establish a baseline, sufficiently correct model of the system.  (This is likely to take a long time.)
-> * Track the small changes against the baseline.
+> * Track the small changes against the baseline.  (These are likely to be quick.)
+
+## Axiom 5: Humans are Mortal.
+Shocker, I know.
+### Axiom 5.1: Time is a finite currency that can either be "spent" or it can be "invested".
+> Spend (v): To throw away; squander. 
+> {.is-info}
+
+> Invest
 
 ## The 5rd Law: Forward Progress 
 > Always be working towards something larger, bigger, better, faster.
