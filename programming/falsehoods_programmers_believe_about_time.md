@@ -1,3 +1,13 @@
+---
+title: Falsehoods Programmers Believe About Time
+description: 
+published: 1
+date: 2025-01-04T13:47:17.446Z
+tags: 
+editor: markdown
+dateCreated: 2023-09-11T01:30:30.394Z
+---
+
 All of these assumptions are wrong
 
 1.   There are always 24 hours in a day.
@@ -112,4 +122,34 @@ All of these assumptions are wrong
 110. The precision of the data type returned by a getCurrentTime() function is the same as the precision of that function.
 111. Two subsequent calls to a getCurrentTime() function will return distinct results.
 112. The second of two subsequent calls to a getCurrentTime() function will return a larger result.
-113.  The software will never run on a space ship that is orbiting a black hole.
+113. The software will never run on a space ship that is orbiting a black hole.
+114. Devices will be set to the local timezone
+115. Users prefer to use the local timezone
+116. No software will ever have to handle non-Earth days (e.g. Martian Sols)
+117. Well, no software will ever have to handle non-Earth days and Earth days together. (e.g. the Mars Relay Network)
+118. Speed-of-light delay is always negligible (e.g. when synchronizing to GPS atomic clocks)
+119. Atomic clocks keep perfect time (e.g. even NIST-F2 has a relative uncertainty value)
+120. Durations expressed as integers will always be measured in seconds (e.g. nanoseconds)
+121. Well, some SI multiple of a second (e.g. `ncurses.h`'s `halfdelay(int)` uses tenths of a second)
+122. Well, some power of ten multiple of a second (having trouble finding a good example, but I'm certain I've seen half-seconds used somewhere)
+123. Durations expressed as negative integers will always have a consistent meaning (e.g. `ncurses.h`'s `timeout(int)` uses negative numbers to indicate a blocking read, but it also commonly means a second event occurred before a first)
+124. No software will ever deliberately mishandle dates (e.g. Lotus 1-2-3 bug)
+125. No software will ever deliberately mishandle timers (e.g. Spectre mitigation in web browsers)
+126. Nobody will ever want to compare dates more than a hundred years apart (I mean, duh)
+127. We know the length of every historical year (e.g. the pre-Julian-reform Roman calendar)
+128. Displays will refresh at integer frequencies (e.g. NTSC video is 29.97 frames per second)
+129. Displays will refresh at consistent frequencies (It's a clock, it's going to slip)
+130. Two signals with the same clock rate will be synchronized (e.g. analog video compositing)
+131. Two synchronized signals with the same clock rate will stay synchronized (e.g. turn signals)
+132. Adding the same amount of time periods N times will result in the same time as if adding the product of the time periods.
+133. The time elapsed since the last clock tick is always the same.
+134. Okay, but adding up the elapsed times between clock ticks will give a consistent result.
+135. I can repeatedly schedule an event N time units in the future and it will result in the event happening every N time units.
+136. Okay, but a timer set to fire every N time units will fire every N time units.
+137. Countdowns always run at the same speed.
+138. If something is labeled as "seconds", it means the SI standard unit of a second.
+139. Okay, but at least it isn't twice as fast as a SI second.
+140. Displayed times accurately correspond to real time, whatever time unit they happen to use.
+
+
+![datetime_2x.png](/datetime_2x.png "It's not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn't know and the Devil isn't telling.]")
