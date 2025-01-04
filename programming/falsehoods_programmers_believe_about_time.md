@@ -2,7 +2,7 @@
 title: Falsehoods Programmers Believe About Time
 description: 
 published: 1
-date: 2025-01-04T13:47:17.446Z
+date: 2025-01-04T13:49:04.620Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:30:30.394Z
@@ -38,12 +38,12 @@ All of these assumptions are wrong
 26.  Ok, one millisecond.
 27.  It will never be necessary to set the system time to any value other than the correct local time.
 28.  Ok, testing might require setting the system time to a value other than the correct local time but it will never be necessary to do so in production.
-29.  Time stamps will always be specified in a commonly-understood format like 1339972628 or 133997262837.
+29.  Time stamps will always be specified in a commonly-understood format like `1339972628` or `133997262837`.
 30.  Time stamps will always be specified in the same format.
 31.  Time stamps will always have the same level of precision.
 32.  A time stamp of sufficient precision can safely be considered unique.
 33.  A timestamp represents the time that an event actually occurred.
-34.  Human-readable dates can be specified in universally understood formats such as 05/07/11.
+34.  Human-readable dates can be specified in universally understood formats such as `05/07/11`.
 35.  The offsets between two time zones will remain constant.
 36.  OK, historical oddities aside, the offsets between two time zones won’t change in the future.
 37.  Changes in the offsets between time zones will occur with plenty of advance notice.
@@ -65,7 +65,7 @@ All of these assumptions are wrong
 53.  Okay, quarter hours.
 54.  Okay, seconds, but it will be a consistent difference if we ignore DST.
 55.  If you create two date objects right beside each other, they’ll represent the same time. (a fantastic Heisenbug generator)
-56.  You can wait for the clock to reach exactly HH:MM:SS by sampling once a second.
+56.  You can wait for the clock to reach exactly `HH:MM:SS` by sampling once a second.
 57.  If a process runs for n seconds and then terminates, approximately n seconds will have elapsed on the system clock at the time of termination.
 58.  Weeks start on Monday.
 59.  Days begin in the morning.
@@ -73,8 +73,8 @@ All of these assumptions are wrong
 61.  The weekend consists of Saturday and Sunday.
 62.  It’s possible to establish a total ordering on timestamps that is useful outside your system.
 63.  The local time offset (from UTC) will not change during office hours.
-64.  Thread.sleep(1000) sleeps for 1000 milliseconds.
-65.  Thread.sleep(1000) sleeps for >= 1000 milliseconds.
+64.  `Thread.sleep(1000)` sleeps for 1000 milliseconds.
+65.  `Thread.sleep(1000)` sleeps for >= 1000 milliseconds.
 66.  There are 60 seconds in every minute.
 67.  Timestamps always advance monotonically.
 68.  GMT and UTC are the same timezone.
@@ -87,7 +87,7 @@ All of these assumptions are wrong
 75.  If you display a datetime, the displayed time has the same second part as the stored time
 76.  Or the same year
 77.  But at least the numerical difference between the displayed and stored year will be less than 2
-78.  If you have a date in a correct YYYY-MM-DD format, the year consists of four characters
+78.  If you have a date in a correct `YYYY-MM-DD` format, the year consists of four characters
 79.  If you merge two dates, by taking the month from the first and the day/year from the second, you get a valid date
 80.  But it will work, if both years are leap years
 81.  If you take a w3c published algorithm for adding durations to dates, it will work in all cases.
@@ -98,7 +98,7 @@ All of these assumptions are wrong
 86.  Two-digit years should be somewhere in the range 1900-2099
 87.  If you parse a date time, you can read the numbers character for character, without needing to backtrack
 88.  But if you print a date time, you can write the numbers character for character, without needing to backtrack
-89.  You will never have to parse a format like ---12Z or P12Y34M56DT78H90M12.345S
+89.  You will never have to parse a format like ---12Z or `P12Y34M56DT78H90M12.345S`
 90.  There are only 24 time zones
 91.  Time zones are always whole hours away from UTC
 92.  Daylight Saving Time (DST) starts/ends on the same date everywhere
@@ -120,8 +120,8 @@ All of these assumptions are wrong
 108.  One hour is as long as the next in all time systems.
 109.  You can calculate when leap seconds will be added.
 110. The precision of the data type returned by a getCurrentTime() function is the same as the precision of that function.
-111. Two subsequent calls to a getCurrentTime() function will return distinct results.
-112. The second of two subsequent calls to a getCurrentTime() function will return a larger result.
+111. Two subsequent calls to a `getCurrentTime()` function will return distinct results.
+112. The second of two subsequent calls to a `getCurrentTime()` function will return a larger result.
 113. The software will never run on a space ship that is orbiting a black hole.
 114. Devices will be set to the local timezone
 115. Users prefer to use the local timezone
