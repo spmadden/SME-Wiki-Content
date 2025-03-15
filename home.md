@@ -2,7 +2,7 @@
 title: home
 description: 
 published: 1
-date: 2025-03-15T12:51:38.286Z
+date: 2025-03-15T12:56:34.737Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:27:55.800Z
@@ -39,6 +39,7 @@ Programming
     -   [Thread Pool Size](/programming/java/thread_pool_size)
     -   [Finalize Method](/programming/java/finalize_method)
 -  [Yubikey Setup](/programming/yubikey_setup)
+-  [Self-Elevating Powershell](/programming/pwsh/self-elevating)
     
 The "Falsehoods"
 -   [Falsehoods programmers believe about time](/programming/falsehoods_programmers_believe_about_time)
