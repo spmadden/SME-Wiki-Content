@@ -2,7 +2,7 @@
 title: Yubikey Quickstart
 description: 
 published: 1
-date: 2025-03-15T13:58:15.761Z
+date: 2025-03-15T14:24:35.255Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-15T12:10:15.308Z
@@ -98,14 +98,16 @@ ssh username@domain1@contoso.com $remotePowershell
 
 ### Dump all secure ssh public keys in `authorized_keys` format
 ```powershell
-$uid = ""
+$keyid = ""
+$cardno = ""
 (gpg --with-colons -K) | ForEach-Object {
   $parts = $_ -split ":"
-  if ($parts[0] -contains "uid") {
-  	$uid = $parts[9]
+  if (($parts[0] -contains "uid") -and $keyid) {
+    (gpg --export-ssh-key $keyid) + " cardno:" + $cardno + " 0x" + $keyid + " " + $parts[9]
+    $keyid = ""
   }elseif (($parts[0] -contains "sec") -and ($parts[14] -like "D276000124010000000*")) {
-  	(gpg --export-ssh-key $parts[4]) + " " + $uid
-    $uid = ""
+  	$keyid = $parts[4]
+    $cardno = $parts[14].substring(20,8)
   }
 }
 ```
