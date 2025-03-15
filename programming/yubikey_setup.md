@@ -2,7 +2,7 @@
 title: Yubikey Quickstart
 description: 
 published: 1
-date: 2025-03-15T14:24:35.255Z
+date: 2025-03-15T17:27:31.554Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-15T12:10:15.308Z
@@ -41,9 +41,10 @@ dateCreated: 2025-03-15T12:10:15.308Z
 enable-ssh-support
 enable-putty-support
 enable-win32-openssh-support
-use-standard-socket
 default-cache-ttl 600
 max-cache-ttl 7200
+# The ~/ is critical at the front to get replaced with $HOME, the rest of the paths must be \
+extra-socket ~/.gnupg\S.gpg-agent.extra
 ```
 
 3. Install piv-tool, cli, minidriver
@@ -84,7 +85,7 @@ gpg -K
 ssh-add -L
 ```
 
-### Push keys to remote windows box
+## Push keys to remote windows box
 ```powershell
 # Get the public key file generated previously on your client
 $authorizedKeys = (ssh-add -L) -join "||"
@@ -96,7 +97,7 @@ $remotePowershell = "powershell New-Item -Force -ItemType Directory -Path $env:U
 ssh username@domain1@contoso.com $remotePowershell
 ```
 
-### Dump all secure ssh public keys in `authorized_keys` format
+## Dump all secure ssh public keys in `authorized_keys` format
 ```powershell
 $keyid = ""
 $cardno = ""
@@ -110,4 +111,9 @@ $cardno = ""
     $cardno = $parts[14].substring(20,8)
   }
 }
+```
+
+## Forward GPG agent to remote linux box
+```powershell
+ ssh -R'/home/sean/.gnupg/S.gpg-agent':'~/.gnupg/S.gpg-agent.extra' sean@10.169.0.27
 ```
