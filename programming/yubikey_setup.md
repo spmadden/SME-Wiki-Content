@@ -2,7 +2,7 @@
 title: Yubikey Quickstart
 description: 
 published: 1
-date: 2025-03-15T12:51:01.726Z
+date: 2025-03-15T13:58:15.761Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-15T12:10:15.308Z
@@ -32,7 +32,7 @@ dateCreated: 2025-03-15T12:10:15.308Z
    (Get-Content $ENV:PROGRAMDATA\ssh\sshd_config) | ForEach-Object {
      $_.replace("#PasswordAuthentication yes", "PasswordAuthentication no") `
      -replace("#GSSAPIAuthentication no", "GSSAPIAuthentication yes")
-     } | Set-Content $ENV:PROGRAMDATA\ssh\sshd_config_test
+     } | Set-Content $ENV:PROGRAMDATA\ssh\sshd_config
    Restart-Service sshd
    ```
 
@@ -94,4 +94,18 @@ $remotePowershell = "powershell New-Item -Force -ItemType Directory -Path $env:U
 
 # Connect to your server and run the PowerShell using the $remotePowerShell variable
 ssh username@domain1@contoso.com $remotePowershell
+```
+
+### Dump all secure ssh public keys in `authorized_keys` format
+```powershell
+$uid = ""
+(gpg --with-colons -K) | ForEach-Object {
+  $parts = $_ -split ":"
+  if ($parts[0] -contains "uid") {
+  	$uid = $parts[9]
+  }elseif (($parts[0] -contains "sec") -and ($parts[14] -like "D276000124010000000*")) {
+  	(gpg --export-ssh-key $parts[4]) + " " + $uid
+    $uid = ""
+  }
+}
 ```
