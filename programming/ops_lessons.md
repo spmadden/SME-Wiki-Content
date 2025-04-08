@@ -2,7 +2,7 @@
 title: Ops Lessons We All Learned
 description: 
 published: 1
-date: 2023-12-03T01:50:57.954Z
+date: 2025-04-08T02:38:09.367Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-03T01:50:57.954Z
@@ -29,7 +29,8 @@ dateCreated: 2023-12-03T01:50:57.954Z
 17. "Asserting state" beats "monitoring for compliance" any day.
 18. [One in a Million is next Tuesday](https://learn.microsoft.com/en-us/archive/blogs/larryosterman/one-in-a-million-is-next-tuesday).
 19. People give talks at conferences not to convince others that their work is awesome and totally worth the time and effort they put in, but themselves.
-20. There is no cloud, it's just someone else's computer.It's ok to use shell for complex stuff; it often times is easier, faster, and still less of a mess than juggling libraries and dependencies.
+20. There is no cloud, it's just someone else's computer.
+20. It's ok to use shell for complex stuff; it often times is easier, faster, and still less of a mess than juggling libraries and dependencies.
 21. There's nothing wrong with Perl.
 22. Ok, we all at times keep adding `$`, `{`, `}`, and `@` in random places trying to make things work, but still.
 23. Serverless isn't.
