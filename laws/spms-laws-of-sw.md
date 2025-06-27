@@ -1,8 +1,8 @@
 ---
-title: SPM's Laws of Software Engineering
+title: SPM's Laws of Engineering
 description: 
 published: 1
-date: 2025-06-27T21:20:59.746Z
+date: 2025-06-27T21:21:35.228Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
