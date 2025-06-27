@@ -2,7 +2,7 @@
 title: Yubikey Quickstart
 description: 
 published: 1
-date: 2025-03-15T17:27:31.554Z
+date: 2025-06-27T19:28:14.197Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-15T12:10:15.308Z
@@ -116,4 +116,17 @@ $cardno = ""
 ## Forward GPG agent to remote linux box
 ```powershell
  ssh -R'/home/sean/.gnupg/S.gpg-agent':'~/.gnupg/S.gpg-agent.extra' sean@10.169.0.27
+```
+
+## Some better defaults for `gpg.conf`
+```
+no-greeting
+cert-digest-algo SHA512
+compress-level 9
+require-cross-certification
+keyid-format 0xlong
+with-fingerprint
+with-keygrip
+list-options show-policy-url show-user-notations show-sig-expire
+list-options show-uid-validity
 ```
