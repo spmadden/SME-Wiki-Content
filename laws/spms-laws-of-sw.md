@@ -2,7 +2,7 @@
 title: SPM's Laws of Software Engineering
 description: 
 published: 1
-date: 2025-06-27T21:19:28.878Z
+date: 2025-06-27T21:20:59.746Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
@@ -166,6 +166,10 @@ Shocker, I know.
 > Semper Gumby.
 
 > If "Plan A" didn't work, the alphabet has 25 more letters.  Stay Cool.
+
+> Some of the most effective individuals I've met are those who keep their cool no matter the situation and can respond with a simple "No worries - I've got this."  
+> 
+> Be that person.
 
 ## The 7th Law: Forward Progress 
 > Always be working towards something larger, bigger, better, faster, stronger, more complete.
