@@ -2,7 +2,7 @@
 title: SPM's Laws of Software Engineering
 description: 
 published: 1
-date: 2025-01-01T00:12:25.915Z
+date: 2025-06-27T21:19:28.878Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
@@ -147,12 +147,26 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 ## Axiom 5: Humans are Mortal.
 Shocker, I know.
 ### Axiom 5.1: Time is a finite currency that can either be "spent" or it can be "invested".
-> Spend (v): To throw away; squander. 
+> Spend (v): Diminituative of 'expend' - To consume; throw away; squander. 
 > {.is-info}
 
-> Invest
+> Invest (v): To expend with the expectation of future benefit/returns/dividends.
+> {.is-info}
 
-## The 5rd Law: Forward Progress 
-> Always be working towards something larger, bigger, better, faster.
+> * Investments don't have to be huge - often the most effective are many small expendatures over a long baseline.
+> * Invest in yourself as well as others around you.
+> * Always be investing your finite time towards *something* - even if you don't know how it will pay-off in the long-term.
 
-## The  
+## Axiom 6: To Err is Human.
+...to forgive Divine.  Buuuutttt you can reasonably plan & account for Human Error.
+### The 6th Law: Plan for Mistakes.  Plan for Uncertainty.  Plan for Plan A to fail, and Plan B to fail.
+
+> Improvise, Adapt, Overcome.
+
+> Semper Gumby.
+
+> If "Plan A" didn't work, the alphabet has 25 more letters.  Stay Cool.
+
+## The 7th Law: Forward Progress 
+> Always be working towards something larger, bigger, better, faster, stronger, more complete.
+
