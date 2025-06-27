@@ -2,7 +2,7 @@
 title: SPM's Laws of Engineering
 description: 
 published: 1
-date: 2025-06-27T21:21:35.228Z
+date: 2025-06-27T21:31:13.224Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
@@ -144,9 +144,24 @@ These are a collection of rules/laws/axioms I've come to follow during my career
 > * Establish a baseline, sufficiently correct model of the system.  (This is likely to take a long time.)
 > * Track the small changes against the baseline.  (These are likely to be quick.)
 
-## Axiom 5: Humans are Mortal.
+### Precept 5.1: Changes add Risk, but Risk is often required to avoid stagnation.
+> A ship is safest in port, but that's not what a ship is designed for.
+
+## The 6th Law: Roll with the punches - Embrace the suck.
+
+> * Plan for Changes.  Plan for Mistakes.  Plan for Uncertainty.  Plan for Plan A to fail, and Plan B to fail.
+
+> * Improvise, Adapt, Overcome.
+> * Semper Gumby.
+> * If "Plan A" didn't work, the alphabet has 25 more letters.  Stay Cool.
+
+> Some of the most effective individuals I've met are those who keep their cool no matter the situation and can respond with a simple "No worries - I've got this."  
+> 
+> Be that person.
+
+## Axiom 7: Humans are Mortal.
 Shocker, I know.
-### Axiom 5.1: Time is a finite currency that can either be "spent" or it can be "invested".
+## The 7th Law: Time is a finite currency that can either be "spent" or it can be "invested".  Invest wisely. Invest broadly.
 > Spend (v): Diminituative of 'expend' - To consume; throw away; squander. 
 > {.is-info}
 
@@ -157,20 +172,8 @@ Shocker, I know.
 > * Invest in yourself as well as others around you.
 > * Always be investing your finite time towards *something* - even if you don't know how it will pay-off in the long-term.
 
-## Axiom 6: To Err is Human.
-...to forgive Divine.  Buuuutttt you can reasonably plan & account for Human Error.
-### The 6th Law: Plan for Mistakes.  Plan for Uncertainty.  Plan for Plan A to fail, and Plan B to fail.
+> * You don't always know which investments will pay off massively and which are dead-ends.  Diversify.
 
-> Improvise, Adapt, Overcome.
-
-> Semper Gumby.
-
-> If "Plan A" didn't work, the alphabet has 25 more letters.  Stay Cool.
-
-> Some of the most effective individuals I've met are those who keep their cool no matter the situation and can respond with a simple "No worries - I've got this."  
-> 
-> Be that person.
-
-## The 7th Law: Forward Progress 
+## The 8th Law: Forward Progress 
 > Always be working towards something larger, bigger, better, faster, stronger, more complete.
 
