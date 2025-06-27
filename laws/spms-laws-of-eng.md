@@ -2,7 +2,7 @@
 title: SPM's Laws of Engineering
 description: 
 published: 1
-date: 2025-06-27T21:31:13.224Z
+date: 2025-06-27T21:32:58.640Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T19:20:49.527Z
@@ -174,6 +174,8 @@ Shocker, I know.
 
 > * You don't always know which investments will pay off massively and which are dead-ends.  Diversify.
 
-## The 8th Law: Forward Progress 
+## The 8th Law: The Rolling Stone Gathers No Moss.
 > Always be working towards something larger, bigger, better, faster, stronger, more complete.
+
+
 
