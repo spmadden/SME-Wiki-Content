@@ -2,7 +2,7 @@
 title: Precision Timing
 description: 
 published: 1
-date: 2025-07-24T00:27:54.372Z
+date: 2025-07-24T00:34:13.218Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-23T23:55:08.274Z
@@ -28,11 +28,11 @@ ethtool -C eth0 rx-frames 1
 ```bash
 sleep 5
 
-pinctrl set 29 no
-pinctrl set 20 no
-pinctrl set 21 op dl
-sleep 1
-pinctrl set 21 op dh
-pinctrl set 21 no
+pinctrl set 29 no    # FAN_TACH/GPIO29 disable
+pinctrl set 20 no    # reset GPIO20 to float
+pinctrl set 21 op dl # pull GPIO21 down to cause GNSS Reset
+sleep 1              # pause
+pinctrl set 21 op dh # pull GPIO21 up to release GNSS Reset
+pinctrl set 21 no    # reset GPIO21 to float
 sleep 5
 ```
