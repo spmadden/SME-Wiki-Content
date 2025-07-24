@@ -2,7 +2,7 @@
 title: Precision Timing
 description: 
 published: 1
-date: 2025-07-24T00:34:13.218Z
+date: 2025-07-24T00:44:09.188Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-23T23:55:08.274Z
@@ -24,7 +24,7 @@ ethtool -C eth0 rx-frames 1
 ```
 
 
-### CM4/5 GNSS Reset nonesense
+### CM4/5 GNSS Reset nonesense to let the NIC normalize
 ```bash
 sleep 5
 
