@@ -2,7 +2,7 @@
 title: Precision Timing
 description: 
 published: 1
-date: 2025-07-24T01:29:43.242Z
+date: 2025-08-11T18:52:22.566Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-23T23:55:08.274Z
@@ -71,4 +71,58 @@ gpio=20=op,dl
 /etc/modules: 
 i2c-dev
 i2c-bcm2708
+```
+
+## Scripts
+`watchchrony.sh`
+```bash
+#!/bin/bash
+
+watch -n1 '/usr/local/bin/chronyc -n -m sources sourcestats tracking'
+```
+
+`kick_satpulse.service`
+```ini
+[Unit]
+Description=Monitoring service to kick satpulse when it goes off the rails
+
+[Service]
+# Block in the 'starting' condition until the exec exits
+Type=oneshot
+# Kill if the script takes longer than 12h to run
+#TimeoutStartSec=12h
+ExecStart=/root/kick_satpulse.sh
+WorkingDirectory=/root/
+StandardOutput=file:/var/log/kick_satpulse.log
+StandardError=inherit
+```
+
+`kick_satpulse.timer`
+```ini
+[Unit]
+Description=Timer for satpulse monitor
+
+[Timer]
+# start 2hr after boot
+OnBootSec=0
+# only if the service has been quiet for the last 5m
+OnUnitInactiveSec=5m
+# filename of above service
+Unit=kick_satpulse.service
+
+[Install]
+WantedBy=multi-user.target
+```
+
+`/root/kick_satpulse.sh`
+```bash
+#!/bin/bash
+
+NUM_FAILS=$(journalctl -n 20 -u satpulse@ttyAMA0.service | grep "failed to emit sample for pulse" | wc -l)
+#NUM_FAILS=10
+if [[ $NUM_FAILS -gt 10 ]] ; then
+        echo "Kicking satpulse because more than 10 fails in last 20 lines"
+        journalctl -n 20 -u satpulse@ttyAMA0.service
+        systemctl restart satpulse@ttyAMA0.service
+fi
 ```
