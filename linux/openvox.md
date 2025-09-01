@@ -2,7 +2,7 @@
 title: Openvox Notes
 description: 
 published: 1
-date: 2025-08-26T03:53:58.368Z
+date: 2025-09-01T22:43:14.887Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-26T03:53:58.368Z
@@ -20,7 +20,14 @@ dpkg -i openvox8-release-debian12.deb
 apt update
 apt install openvox-agent
 ```
-
+## Redhat Variants
+https://yum.voxpupuli.org/
+### Install
+```
+curl -LO https://yum.voxpupuli.org/openvox8-release-fedora-36.noarch.rpm
+dnf install openvox8-release-fedora-36.noarch.rpm
+dnf install openvox-agent
+```
 ## Path & Configure
 ### Client Connect:
 `~/.bashrc`:
