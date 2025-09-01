@@ -2,7 +2,7 @@
 title: Telegraf Snippets
 description: 
 published: 1
-date: 2025-09-01T21:43:19.092Z
+date: 2025-09-01T23:00:29.896Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-01T21:20:18.613Z
@@ -59,4 +59,11 @@ dateCreated: 2025-09-01T21:20:18.613Z
         metric_version = 1
         # SN 744dbdbff160
         tags = {roomid = "Bathroom"}
+```
+
+## Basic Chrony
+```
+[[inputs.chrony]]
+        dns_lookup = false
+        metrics = ["tracking", "activity", "sources", "sourcestats"]
 ```
