@@ -2,7 +2,7 @@
 title: Telegraf Snippets
 description: 
 published: 1
-date: 2025-09-01T21:21:30.086Z
+date: 2025-09-01T21:43:19.092Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-01T21:20:18.613Z
@@ -37,4 +37,26 @@ dateCreated: 2025-09-01T21:20:18.613Z
         csv_timestamp_format = "unix"
         csv_skip_values = [""]
         csv_column_types = ["int", "string", "float", "float", "float", "int", "string", "float"]
+```
+
+## AirGradient Prometheus metrics
+```
+[[inputs.prometheus]]
+        urls = [
+                "http://10.169.2.137/metrics",
+        ]
+        metric_version = 1
+        # SN 744dbdc723c4
+        tags = {roomid = "SPM Office"} 
+[[inputs.prometheus]]
+        urls = ["http://10.169.2.119/metrics"]
+        metric_version = 1
+        # SN 34b7dabd4c9c
+        tags = {roomid = "Living Room"}
+
+[[inputs.prometheus]]
+        urls = ["http://10.169.2.118/metrics"]
+        metric_version = 1
+        # SN 744dbdbff160
+        tags = {roomid = "Bathroom"}
 ```
