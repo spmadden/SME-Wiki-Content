@@ -2,11 +2,17 @@
 title: Openvox Notes
 description: 
 published: 1
-date: 2025-09-01T22:43:14.887Z
+date: 2025-09-02T00:26:30.173Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-26T03:53:58.368Z
 ---
+
+# Doc Links
+* https://help.puppet.com/core/current/Content/PuppetCore/puppet_language.htm
+* https://help.puppet.com/core/current/Content/PuppetCore/the_trifecta.htm
+* https://help.puppet.com/core/current/Content/PuppetCore/lang_relationships.htm
+* https://help.puppet.com/core/current/Content/PuppetCore/lang_node_definitions.htm
 
 # Quick Setup
 
