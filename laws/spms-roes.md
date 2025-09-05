@@ -2,7 +2,7 @@
 title: SPM's Rules of Engagement
 description: 
 published: 1
-date: 2024-12-05T19:33:55.568Z
+date: 2025-09-05T15:21:26.453Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-05T19:32:54.470Z
@@ -79,3 +79,8 @@ In order of precedence.  Don't violate ROE #0 to meet any other ROE.
 > *Just because failure is always an option, doesn't meen you have to accept it.  Fight the good fight - die on that anthill, and remember Calvin's Prayer and keep it wholly.*
 
 > *Grant me the Strength to change the things that I can, the Inability to accept what I cannot, and the Incapacity to tell the difference.*
+
+## 16. Know when to be the "Limiting Factor"
+> *Don't be the reason things didn't go right because you didn't do everything you could.*
+
+> *Sometimes you just have to pump the brakes and refuse to let something pass uncriticized to prevent stupid from happening*
