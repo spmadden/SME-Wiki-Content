@@ -2,7 +2,7 @@
 title: Precision Timing
 description: 
 published: 1
-date: 2025-08-11T18:52:22.566Z
+date: 2025-09-06T15:14:27.885Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-23T23:55:08.274Z
@@ -125,4 +125,19 @@ if [[ $NUM_FAILS -gt 10 ]] ; then
         journalctl -n 20 -u satpulse@ttyAMA0.service
         systemctl restart satpulse@ttyAMA0.service
 fi
+```
+
+
+`/etc/ser2net.yaml`
+```
+%YAML 1.1
+---
+
+connection: &con001
+  accepter: tcp,0.0.0.0,8088
+  enable: on
+  options:
+    kickolduser: false
+    max-connections: 10
+  connector: serialdev,/dev/ttyAMA0,115200n81,local
 ```
