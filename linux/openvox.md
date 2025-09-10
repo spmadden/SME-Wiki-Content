@@ -2,7 +2,7 @@
 title: Openvox Notes
 description: 
 published: 1
-date: 2025-09-02T00:26:30.173Z
+date: 2025-09-10T02:02:31.325Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-26T03:53:58.368Z
@@ -15,6 +15,8 @@ dateCreated: 2025-08-26T03:53:58.368Z
 * https://help.puppet.com/core/current/Content/PuppetCore/lang_node_definitions.htm
 
 # Quick Setup
+## Windows
+https://artifacts.voxpupuli.org/downloads/windows/openvox8/
 
 ## Raspbian
 
