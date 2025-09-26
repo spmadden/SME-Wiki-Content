@@ -2,7 +2,7 @@
 title: Jack's Guide for an Effective Build
 description: These are a collection of lessons I have learned thus far in my career that I want to share with you all. If you like them, great. If you don’t, that is alright too. If it sparks an interesting thought or conversation that’s fantastic.
 published: 1
-date: 2025-09-26T18:29:02.938Z
+date: 2025-09-26T18:29:37.240Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-26T18:25:53.041Z
@@ -23,7 +23,7 @@ When you get support from a variety of support teams (techs, welders, riggers, s
 ### 5. Everything above the floor takes longer than you think
 Do what you can to minimize work scope at height in any process you setup. The overhead costs of lifts, fall protection, forgotten tools, access and training adds up. My data point is the same job averaged out over 10 occurrences takes 8 times longer in a boom lift than on ones feet. 
 
-## 6. Always have a plan in the field
+### 6. Always have a plan in the field
 Anytime you go out to the floor, try and have a plan. Think about what steps you plan to take and challenge yourself to think through what you will need to succeed. I have wasted days of my work life not thinking my task through and forgetting tools or realizing I needed a measurement from CAD back at my desk. Even writing it out forces you to think what you need. This becomes easier with experience.
 
 ### 7. Work Blocks Work 
