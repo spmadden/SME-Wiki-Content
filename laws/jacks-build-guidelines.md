@@ -1,8 +1,8 @@
 ---
 title: Jack's Guide for an Effective Build
-description: 
+description: These are a collection of lessons I have learned thus far in my career that I want to share with you all. If you like them, great. If you don’t, that is alright too. If it sparks an interesting thought or conversation that’s fantastic.
 published: 1
-date: 2025-09-26T18:26:51.637Z
+date: 2025-09-26T18:28:26.943Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-26T18:25:53.041Z
