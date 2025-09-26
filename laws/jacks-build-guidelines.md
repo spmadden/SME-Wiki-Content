@@ -2,13 +2,12 @@
 title: Jack's Guide for an Effective Build
 description: 
 published: 1
-date: 2025-09-26T18:25:53.041Z
+date: 2025-09-26T18:26:51.637Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-26T18:25:53.041Z
 ---
 
-# Jack’s Guide for an Effective Build
 #### Background: 
 These are a collection of lessons I have learned thus far in my career that I want to
 share with you all. If you like them, great. If you don’t, that is alright too. If it sparks an interesting
