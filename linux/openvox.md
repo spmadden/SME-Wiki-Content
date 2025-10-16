@@ -2,7 +2,7 @@
 title: Openvox Notes
 description: 
 published: 1
-date: 2025-09-10T02:02:31.325Z
+date: 2025-10-16T20:28:06.422Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-26T03:53:58.368Z
@@ -30,11 +30,15 @@ apt install openvox-agent
 ```
 ## Redhat Variants
 https://yum.voxpupuli.org/
-### Install
+### Install Fedora 36
 ```
-curl -LO https://yum.voxpupuli.org/openvox8-release-fedora-36.noarch.rpm
-dnf install openvox8-release-fedora-36.noarch.rpm
-dnf install openvox-agent
+dnf install -y https://yum.voxpupuli.org/openvox8-release-fedora-36.noarch.rpm
+dnf install -y openvox-agent
+```
+### Install RHEL 8
+```
+dnf install -y https://yum.voxpupuli.org/openvox8-release-el-8.noarch.rpm
+dnf install -y openvox-agent
 ```
 ## Path & Configure
 ### Client Connect:
