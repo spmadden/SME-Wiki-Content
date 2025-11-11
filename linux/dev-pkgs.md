@@ -2,7 +2,7 @@
 title: Packages
 description: 
 published: 1
-date: 2025-11-11T02:49:00.919Z
+date: 2025-11-11T02:49:17.526Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T02:49:00.919Z
@@ -104,4 +104,4 @@ dateCreated: 2025-11-11T02:49:00.919Z
 * `w`/`who`
 * `watch`
 * `whereis`
-* `xxd
+* `xxd`
