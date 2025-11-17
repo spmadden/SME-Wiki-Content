@@ -2,7 +2,7 @@
 title: Packages
 description: 
 published: 1
-date: 2025-11-11T02:49:17.526Z
+date: 2025-11-17T03:20:08.754Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-11T02:49:00.919Z
@@ -10,34 +10,46 @@ dateCreated: 2025-11-11T02:49:00.919Z
 
 # Minimum Dev/Debug Packages
 
+## Basic
 * `vim`
 * `tmux`
 * `git`
+
+## Network
 * `netcat`
 * `openssl`
 * `socat`
 * `tcpdump`
 * `nmap`
+* `nslookup`
+
+## Scripting
 * `dialog`
 * `dos2unix`
-* `rsync`
 * `xargs`
-* `scp`
-* `sftp`
-* `sensors`
-* `ss`
 * `nl`
 * `tr`
 * `wc`
+
+## File Copying
+* `rsync`
+* `scp`
+* `sftp`
+
+## Hardware Info
+* `sensors`
+* `ss`
 * `times`
 * `date`/`time`/`hwclock`
-* `nslookup`
+
+## Compression
 * `gzip`
 * `bzip2`
 * `tar`
 * `zstd`
 * `p7zip`
 * `zip`
+
 * `curl`
 * `gpg`
 * `find`
