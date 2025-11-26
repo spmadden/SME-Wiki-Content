@@ -2,7 +2,7 @@
 title: gis_map_servers
 description: 
 published: 1
-date: 2024-07-31T18:44:20.016Z
+date: 2025-11-26T22:15:40.813Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:28:20.693Z
@@ -53,6 +53,7 @@ dateCreated: 2023-09-11T01:28:20.693Z
     -   [AWS S3](https://prd-tnm.s3.amazonaws.com/index.html?prefix=StagedProducts/Maps/USTopo/PDF/) - no payment needed
 -   USFS Topo Maps
     -   <https://data.fs.usda.gov/geodata/rastergateway/states-regions/states.php>
+    - <https://apps.fs.usda.gov/arcx/rest/services>
 -   DTED/DEM Terrain Data
     -   [USGS EarthExplorer](https://earthexplorer.usgs.gov/)
         -   DTED0, DTED1, DTED2
