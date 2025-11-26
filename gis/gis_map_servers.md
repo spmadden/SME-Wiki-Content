@@ -2,7 +2,7 @@
 title: gis_map_servers
 description: 
 published: 1
-date: 2025-11-26T22:18:48.596Z
+date: 2025-11-26T22:33:03.442Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-11T01:28:20.693Z
@@ -64,8 +64,12 @@ dateCreated: 2023-09-11T01:28:20.693Z
 - FEMA GIS
   - <https://services2.arcgis.com/FiaPA4ga0iQKduv3/ArcGIS/rest/services>
   
-- Fire Fly GIS
+- Fire Fly GIS World Imagery
   - <https://fly.maptiles.arcgis.com/arcgis/rest/services/World_Imagery_Firefly/MapServer>
+  
+- FL Keys Reef Maps
+  - <https://ocean.floridamarine.org/arcgis/rest/services/Projects_FWC/Unified_Florida_Reef_Tract_Map_FWC/MapServer>
+  
 ## Vector Datasets
 
 -   [US Forest Service](https://data.fs.usda.gov/geodata/edw/datasets.php?xmlKeyword=FSTopo)
@@ -80,6 +84,10 @@ dateCreated: 2023-09-11T01:28:20.693Z
 -   [Massachusetts GIS Data Layers](https://www.mass.gov/info-details/massgis-data-layers)
 	- https://massgis.maps.arcgis.com/home/user.html?user=MassGIS
   - MA GIS WMS: https://gis-prod.digital.mass.gov/geoserver/wms
+- USGS Quakes
+  - <https://earthquake.usgs.gov/arcgis/rest/services>
+- VA Energy GIS
+  - <https://www.energy.virginia.gov/gis/rest/services/>
 
 ## OpenStreetMap Links
 
